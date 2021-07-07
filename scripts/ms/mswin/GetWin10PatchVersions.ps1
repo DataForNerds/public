@@ -36,7 +36,6 @@ $buildData.ForEach{
                 "ReleaseDate" = $(Get-Date $PatchInfo.groups[1].Value -Format "yyyy-MM-dd")
                 "Article" = $PatchInfo.Groups[2].Value
                 "Comment"=$_.Groups[3].Value.ToString().Trim()
-                "Source"=$rootPage
             }
         ) | Out-Null
     }
@@ -53,5 +52,5 @@ $outputData = [PSCustomObject]@{
 }
 
 $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
-$outputData | ConvertTo-Json -Compress | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
+#$outputData | ConvertTo-Json -Compress | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
 
