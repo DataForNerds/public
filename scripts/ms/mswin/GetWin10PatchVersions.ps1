@@ -45,5 +45,5 @@ $buildData.ForEach{
 $patchList = $patchList | Sort-Object Win10Version -Unique
 
 $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
-$patchList | ConvertTo-Json | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json")
+$patchList | ConvertTo-Json | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
 
