@@ -44,6 +44,14 @@ $buildData.ForEach{
 
 $patchList = $patchList | Sort-Object Win10Version -Unique
 
+$outputData = [PSCustomObject]@{
+    "DataForNerds"=[PSCustomObject]@{
+        "LastUpdatedUTC" = (Get-Date).ToUniversalTime()
+        "SourceList" = @("https://docs.microsoft.com/en-us/windows/release-health/release-information","https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html")
+    }
+    "Data" = $patchList
+}
+
 $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
-$patchList | ConvertTo-Json | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
+$outputData | ConvertTo-Json -Compress | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
 
