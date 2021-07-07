@@ -14,8 +14,5 @@ $allReleases.ForEach{
     ) | Out-Null
 }
 
-
 $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
 $releaseList | ConvertTo-Json | Out-File (Join-Path $outputFolder -ChildPath "releases.json")
-
-
