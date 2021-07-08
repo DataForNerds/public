@@ -10,3 +10,6 @@ jobs:
         uses: actions/checkout@v2
       - name: Checkout Branch
         run: git branch autoupdate
+      - name: Run the PowerShell Script
+        shell: pwsh
+        run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
