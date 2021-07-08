@@ -52,4 +52,9 @@ $outputData = [PSCustomObject]@{
 }
 
 $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
-$outputData | ConvertTo-Json -Compress | Out-File (Join-Path $outputFolder -ChildPath "buildnumbers.json") -Encoding utf8
+$outputFile = Join-Path $outputFolder -ChildPath "buildnumbers.json"
+
+$jsonData = $outputData | ConvertTo-Json -Compress 
+
+[System.IO.File]::WriteAllLines($outputFile, $jsonData)
+
