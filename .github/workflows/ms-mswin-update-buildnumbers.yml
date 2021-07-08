@@ -13,11 +13,11 @@ jobs:
           git config user.name "DataForNerds AutoUpdater"
           git config user.email "noreply@datafornerds.io"
       - name: Checkout Branch
-        run: git branch autoupdate
+        run: git checkout autoupdate
       - name: Run the PowerShell Script
         shell: pwsh
         run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
       - name: Commit the Changes
-        run: git commit -m "Autoupdate of ms-mswin-buildnumbers json"
+        run: git commit -am "Autoupdate of ms-mswin-buildnumbers json"
       - name: Push the Changes
         run: git push
