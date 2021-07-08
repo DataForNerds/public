@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Get DateTime Stamp for Branch
         id: datetime
-        run: echo "::set-output name=date::echo $(date +'%Y-%m-%d-%H-%M-%S')"
+        run: echo "::set-output name=datetime::echo $(date +'%Y-%m-%d-%H-%M-%S')"
       - name: Clone Repository
         uses: actions/checkout@v2
       - name: Who am I
