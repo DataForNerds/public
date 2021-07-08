@@ -53,7 +53,7 @@ $outputData = [PSCustomObject]@{
 }
 
 $diffSinceLastUpdate = New-TimeSpan -Start $d4nData.DataForNerds.LastUpdatedUTC -End (Get-Date).ToUniversalTime()
-$allProperties = $releaseList[0].psobject.Properties.Name
+$allProperties = $patchList[0].psobject.Properties.Name
 
 If($diffSinceLastUpdate.TotalDays -ge 7 -or (Compare-Object $d4nData.Data $outputData.Data -Property $allProperties -SyncWindow 0)) {
     $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
