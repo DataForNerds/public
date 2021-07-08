@@ -20,6 +20,7 @@ jobs:
           branch: au/ms-mswin-update-buildnumbers
           branch-suffix: timestamp
           delete-branch: true
+          title: Automatic Update of Windows 10 Build Numbers
       - name: Check outputs
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
