@@ -6,6 +6,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Who am I
+        run: |
+          git config user.name "DataForNerds AutoUpdater"
+          git config user.email "noreply@datafornerds.io"
       - name: Clone Repository
         uses: actions/checkout@v2
       - name: Checkout Branch
