@@ -1,0 +1,15 @@
+name: Update Windows Build Numbers
+
+on: [workflow_dispatch]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      - name: Checkout Branch
+        run: git branch autoupdate
+      - name: Run the PowerShell Script
+        shell: pwsh
+        run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
