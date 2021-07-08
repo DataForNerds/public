@@ -17,7 +17,7 @@ jobs:
           git config user.email "noreply@datafornerds.io"
       - name: Checkout AutoUpdate Branch and Bring into Sync
         run: |
-          git checkout -b ${{ steps.branchnamegenerator.output.BRANCH_NAME }}
+          git checkout -b ${{ steps.branchnamegenerator.outputs.BRANCH_NAME }}
       - name: Run the PowerShell Script
         shell: pwsh
         run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
