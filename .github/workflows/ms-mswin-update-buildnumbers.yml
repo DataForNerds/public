@@ -6,6 +6,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Get DateTime Stamp for Branch
+        id: datetime
+        run: echo "::set-output name=date::echo $(date +'%Y-%m-%d-%H-%M-%S')"
       - name: Clone Repository
         uses: actions/checkout@v2
       - name: Who am I
@@ -15,8 +18,7 @@ jobs:
       - name: Checkout AutoUpdate Branch and Bring into Sync
         run: |
           git fetch
-          git checkout autoupdate
-          git merge main --no-edit        
+          git checkout -b au/ms-mswin-buildnumbers-{{steps.datetime.output.datetime}}
       - name: Run the PowerShell Script
         shell: pwsh
         run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
