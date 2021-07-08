@@ -15,7 +15,7 @@ $allReleases.ForEach{
     ) | Out-Null
 }
 
-$releaseList = $releaseList | Sort-Object Version
+$releaseList = $releaseList | Sort-Object Version -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{

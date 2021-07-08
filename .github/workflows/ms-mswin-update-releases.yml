@@ -1,4 +1,4 @@
-name: ms-mswin-update-buildnumbers (Update)
+name: ms-mswin-update-releases (Update)
 
 on: [workflow_dispatch]
 
@@ -10,17 +10,17 @@ jobs:
         uses: actions/checkout@v2
       - name: Run the PowerShell Script
         shell: pwsh
-        run: ./scripts/ms/mswin/buildnumbers.ps1
+        run: ./scripts/ms/mswin/releases.ps1
       - name: Submit a Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: Updated Microsoft Windows Build Numbers JSON
+          commit-message: Updated Microsoft Windows Releases JSON
           committer: GitHub <noreply@github.com>
-          branch: au/ms-mswin-update-buildnumbers
+          branch: au/ms-mswin-update-releases
           branch-suffix: timestamp
           delete-branch: true
-          title: Automatic Update of Windows 10 Build Numbers
+          title: Automatic Update of Windows 10 Releases
       - name: Check outputs
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
