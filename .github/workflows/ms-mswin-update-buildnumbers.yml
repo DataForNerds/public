@@ -6,22 +6,22 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Get DateTime Stamp for Branch
-        id: branchnamegenerator
-        run: echo "::set-output name=BRANCH_NAME::au/ms-mswin-buildnumbers-$(date +'%Y-%m-%d-%H-%M-%S')"
       - name: Clone Repository
         uses: actions/checkout@v2
-      - name: Who am I
-        run: |
-          git config user.name "DataForNerds AutoUpdater"
-          git config user.email "noreply@datafornerds.io"
-      - name: Checkout AutoUpdate Branch and Bring into Sync
-        run: |
-          git checkout -b ${{ steps.branchnamegenerator.outputs.BRANCH_NAME }}
       - name: Run the PowerShell Script
         shell: pwsh
         run: ./scripts/ms/mswin/GetWin10ReleaseIds.ps1
-      - name: Commit the Changes
-        run: git commit -am "Autoupdate of ms-mswin-buildnumbers json"
-      - name: Push the Changes
-        run: git push
+      - name: Submit a Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Updated Microsoft Windows Build Numbers JSON
+          committer: GitHub <noreply@github.com>
+          branch: au/ms-mswin-update-buildnumbers
+          branch-suffix: timestamp
+          delete-branch: true
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          
