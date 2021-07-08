@@ -1,4 +1,5 @@
 ﻿$rootPage = "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
+$d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/buildnumbers.json" | Select -ExpandProperty Content | ConvertFrom-Json
 
 $pageData = Invoke-WebRequest $rootPage -UseBasicParsing
 
@@ -41,7 +42,7 @@ $buildData.ForEach{
     }
 }
 
-$patchList = $patchList | Sort-Object Win10Version -Unique
+$patchList = $patchList | Sort-Object ReleaseDate,Win10Version -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
@@ -51,10 +52,17 @@ $outputData = [PSCustomObject]@{
     "Data" = $patchList
 }
 
-$outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
-$outputFile = Join-Path $outputFolder -ChildPath "buildnumbers.json"
+$diffSinceLastUpdate = New-TimeSpan -Start $d4nData.DataForNerds.LastUpdatedUTC -End (Get-Date).ToUniversalTime()
+$allProperties = $releaseList[0].psobject.Properties.Name
 
-$jsonData = $outputData | ConvertTo-Json -Compress 
+If($diffSinceLastUpdate.TotalDays -ge 7 -or (Compare-Object $d4nData.Data $outputData.Data -Property $allProperties -SyncWindow 0)) {
+    $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
+    $outputFile = Join-Path $outputFolder -ChildPath "buildnumbers.json"
 
-[System.IO.File]::WriteAllLines($outputFile, $jsonData)
+    $jsonData = $outputData | ConvertTo-Json -Compress 
+    [System.IO.File]::WriteAllLines($outputFile, $jsonData)
+} else {
+    Write-Host "The data has not changed and it's only been $([math]::Round($diffSinceLastUpdate.TotalDays,2)) day(s) since the last update."
+}
+
 
