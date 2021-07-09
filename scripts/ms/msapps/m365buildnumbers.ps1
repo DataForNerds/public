@@ -61,7 +61,7 @@ $m365Releases = $m365Releases | Sort-Object ReleaseDate -Unique
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
         "LastUpdatedUTC" = (Get-Date).ToUniversalTime()
-        "SourceList" = @("https://docs.microsoft.com/en-us/windows/release-health/release-information","https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html")
+        "SourceList" = @($rootPage)
     }
     "Data" = $m365Releases
 }
