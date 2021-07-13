@@ -44,7 +44,7 @@ $outputData = [PSCustomObject]@{
 }
 
 $diffSinceLastUpdate = New-TimeSpan -Start $d4nData.DataForNerds.LastUpdatedUTC -End (Get-Date).ToUniversalTime()
-$allProperties = $m365Releases[0].psobject.Properties.Name
+$allProperties = $locales[0].psobject.Properties.Name
 
 If($diffSinceLastUpdate.TotalDays -ge 7 -or (Compare-Object $d4nData.Data $outputData.Data -Property $allProperties)) {
     $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/msother")
