@@ -4,7 +4,7 @@ $d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/msapps/buildnumbers
 $pageData = Invoke-WebRequest $rootPage -UseBasicParsing
 
 If($pageData.StatusCode -ne 200) {
-    Throw "Erorr $($pageData.StatusCode) Getting Page Data"
+    Throw "Error $($pageData.StatusCode) Getting Page Data"
 }
 
 $tables = [regex]::New('(?msi)<table>(?:.*?)<tbody>(.*?)<\/tbody>').Matches($pageData.Content)
