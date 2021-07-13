@@ -14,13 +14,19 @@ $versionHistoryRows = [regex]::New('(?msi)<tr>(.*?)<\/tr>').Matches($tables[1].G
 $m365Releases = New-Object System.Collections.ArrayList
 
 $rxInnerLink = [Regex]::New('(?msi)<a(?:[^>])*>(.*?)<\/a>')
-$rxVersionBuild = [Regex]::New('(?msi)Version (.*?) \(Build (.*?)\)')
+$rxVersionBuild = [Regex]::New('(?msi)Version (.*?) \(Build {1,}(.*?)\)')
 
 $versionHistoryRows.ForEach{
 
     $cellData = [regex]::New('(?msi)<td(?:[^>]*)>(.*?)<\/td>').Matches($_.Groups[1].Value)
     $releaseYear = $cellData[0].Groups[1].Value
     $releaseDate = $($cellData[1].Groups[1].Value -replace "<br(?:[^>])*>","").Trim()
+
+    if(-Not($releaseYear)) {
+        $releaseYear = $lastReleaseYear
+    } else {
+        $lastReleaseYear = $releaseYear
+    }
 
     $release = $(Get-Date "$releaseDate $releaseYear" -Format "yyyy-MM-dd")
 
