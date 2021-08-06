@@ -25,15 +25,14 @@ $outputData = [PSCustomObject]@{
     "Data" = $releaseList
 }
 
-$diffSinceLastUpdate = New-TimeSpan -Start $d4nData.DataForNerds.LastUpdatedUTC -End (Get-Date).ToUniversalTime()
 $allProperties = $releaseList[0].psobject.Properties.Name
 
-If($diffSinceLastUpdate.TotalDays -ge 7 -or (Compare-Object $d4nData.Data $releaseList -Property $allProperties -SyncWindow 0)) {
+If(Compare-Object $d4nData.Data $releaseList -Property $allProperties -SyncWindow 0) {
     $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
     $outputFile = Join-Path $outputFolder -ChildPath "releases.json"
 
     $jsonData = $outputData | ConvertTo-Json -Compress 
     [System.IO.File]::WriteAllLines($outputFile, $jsonData)   
 } else {
-    Write-Host "The data has not changed and it's only been $([math]::Round($diffSinceLastUpdate.TotalDays,2)) day(s) since the last update."
+    Write-Host "The data has not changed."
 }
