@@ -21,7 +21,6 @@ jobs:
           commit-message: Updated Microsoft Windows Releases JSON
           committer: GitHub <noreply@github.com>
           branch: au/ms-mswin-update-releases
-          branch-suffix: timestamp
           delete-branch: true
           title: Automatic Update of Windows 10 Releases
       - name: Check outputs

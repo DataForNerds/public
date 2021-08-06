@@ -21,7 +21,6 @@ jobs:
           commit-message: Updated Microsoft Windows Build Numbers JSON
           committer: GitHub <noreply@github.com>
           branch: au/ms-mswin-update-buildnumbers
-          branch-suffix: timestamp
           delete-branch: true
           title: Automatic Update of Windows 10 Build Numbers
       - name: Check outputs

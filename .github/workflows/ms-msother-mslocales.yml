@@ -21,7 +21,6 @@ jobs:
           commit-message: Updated Microsoft Locales JSON
           committer: GitHub <noreply@github.com>
           branch: au/ms-msother-update-locales
-          branch-suffix: timestamp
           delete-branch: true
           title: Automatic Update of Microsoft Locales
       - name: Check outputs
