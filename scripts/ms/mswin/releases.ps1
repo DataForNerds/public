@@ -31,7 +31,7 @@ If(Compare-Object $d4nData.Data $releaseList -Property $allProperties -SyncWindo
     $outputFolder = Resolve-Path (Join-Path $PSScriptRoot -ChildPath "../../../content/ms/mswin")
     $outputFile = Join-Path $outputFolder -ChildPath "releases.json"
 
-    $jsonData = $outputData | ConvertTo-Json -Compress 
+    $jsonData = $outputData | ConvertTo-Json
     [System.IO.File]::WriteAllLines($outputFile, $jsonData)   
 } else {
     Write-Host "The data has not changed."
