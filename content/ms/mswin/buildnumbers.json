@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2021-08-06T16:04:33.1860925Z",
+    "LastUpdatedUTC": "2021-08-10T19:16:03.6686534Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/windows/release-health/release-information",
       "https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html"
@@ -5046,6 +5046,55 @@
       "ReleaseDate": "2021-07-29",
       "Article": "KB5004296",
       "Comment": "Preview"
+    },
+    {
+      "Win10Version": "10.0.10240.19022",
+      "Version": "10240.19022",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005040",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.4583",
+      "Version": "14393.4583",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005043",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.2114",
+      "Version": "17763.2114",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005030",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1734",
+      "Version": "18363.1734",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005031",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19041.1165",
+      "Version": "19041.1165",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005033",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.1165",
+      "Version": "19042.1165",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005033",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19043.1165",
+      "Version": "19043.1165",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005033",
+      "Comment": ""
     }
   ]
 }
