@@ -42,7 +42,7 @@ $buildData.ForEach{
     }
 }
 
-$patchList = $patchList | Sort-Object ReleaseDate,Win10Version -Unique
+$patchList = $patchList | Sort-Object ReleaseDate | Select-Object Win10Version,Version,ReleaseDate,Article,Comment -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{

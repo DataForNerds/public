@@ -33,7 +33,7 @@ $localeRows.ForEach{
 
 }
 
-$locales = $locales | Sort-Object LangCode -Unique
+$locales = $locales | Sort-Object LangCode | Select-Object LangCode,LangName,LangTag -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{

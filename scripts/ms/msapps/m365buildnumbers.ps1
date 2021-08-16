@@ -62,7 +62,7 @@ $versionHistoryRows.ForEach{
 
 }
 
-$m365Releases = $m365Releases | Sort-Object ReleaseDate -Unique
+$m365Releases = $m365Releases | Sort-Object ReleaseDate -Descending | Select-Object ReleaseDate,Channel,Build,Version,FullBuild -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
@@ -83,3 +83,4 @@ If(Compare-Object $d4nData.Data $outputData.Data -Property $allProperties) {
 } else {
     Write-Host "The data has not changed."
 }
+
