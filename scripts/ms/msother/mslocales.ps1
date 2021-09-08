@@ -25,6 +25,7 @@ $localeRows.ForEach{
         $locales.Add(
             [PSCustomObject]@{
                 LangCode = [int]$LangCode
+                LangCodeHex = '{0:X4}' -f [int]$LangCode
                 LangName = $LangName
                 LangTag = $LangTag
             }
@@ -33,7 +34,7 @@ $localeRows.ForEach{
 
 }
 
-$locales = $locales | Sort-Object LangCode | Select-Object LangCode,LangName,LangTag -Unique
+$locales = $locales | Sort-Object LangCode | Select-Object LangCode,LangCodeHex,LangName,LangTag -Unique
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
