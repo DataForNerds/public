@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2021-08-10T16:09:44.1541154Z",
+    "LastUpdatedUTC": "2021-09-08T17:20:22.9403591Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a"
     ]
@@ -8,1116 +8,1339 @@
   "Data": [
     {
       "LangCode": 1025,
+      "LangCodeHex": "0401",
       "LangName": "Arabic - Saudi Arabia",
       "LangTag": "ar-SA"
     },
     {
       "LangCode": 1026,
+      "LangCodeHex": "0402",
       "LangName": "Bulgarian",
       "LangTag": "bg-BG"
     },
     {
       "LangCode": 1027,
+      "LangCodeHex": "0403",
       "LangName": "Catalan",
       "LangTag": "ca-ES"
     },
     {
       "LangCode": 1028,
+      "LangCodeHex": "0404",
       "LangName": "Chinese - Taiwan",
       "LangTag": "zh-TW"
     },
     {
       "LangCode": 1029,
+      "LangCodeHex": "0405",
       "LangName": "Czech",
       "LangTag": "cs-CZ"
     },
     {
       "LangCode": 1030,
+      "LangCodeHex": "0406",
       "LangName": "Danish",
       "LangTag": "da-DK"
     },
     {
       "LangCode": 1031,
+      "LangCodeHex": "0407",
       "LangName": "German - Germany",
       "LangTag": "de-DE"
     },
     {
       "LangCode": 1032,
+      "LangCodeHex": "0408",
       "LangName": "Greek",
       "LangTag": "el-GR"
     },
     {
       "LangCode": 1033,
+      "LangCodeHex": "0409",
       "LangName": "English - United States",
       "LangTag": "en-US"
     },
     {
       "LangCode": 1034,
+      "LangCodeHex": "040A",
       "LangName": "Spanish - Spain (Traditional Sort)",
       "LangTag": "es-ES"
     },
     {
       "LangCode": 1035,
+      "LangCodeHex": "040B",
       "LangName": "Finnish",
       "LangTag": "fi-FI"
     },
     {
       "LangCode": 1036,
+      "LangCodeHex": "040C",
       "LangName": "French - France",
       "LangTag": "fr-FR"
     },
     {
       "LangCode": 1037,
+      "LangCodeHex": "040D",
       "LangName": "Hebrew",
       "LangTag": "he-IL"
     },
     {
       "LangCode": 1038,
+      "LangCodeHex": "040E",
       "LangName": "Hungarian",
       "LangTag": "hu-HU"
     },
     {
       "LangCode": 1039,
+      "LangCodeHex": "040F",
       "LangName": "Icelandic",
       "LangTag": "is-IS"
     },
     {
       "LangCode": 1040,
+      "LangCodeHex": "0410",
       "LangName": "Italian - Italy",
       "LangTag": "it-IT"
     },
     {
       "LangCode": 1041,
+      "LangCodeHex": "0411",
       "LangName": "Japanese",
       "LangTag": "ja-JP"
     },
     {
       "LangCode": 1042,
+      "LangCodeHex": "0412",
       "LangName": "Korean",
       "LangTag": "ko-KR"
     },
     {
       "LangCode": 1043,
+      "LangCodeHex": "0413",
       "LangName": "Dutch - Netherlands",
       "LangTag": "nl-NL"
     },
     {
       "LangCode": 1044,
+      "LangCodeHex": "0414",
       "LangName": "Norwegian (Bokmål)",
       "LangTag": "nb-NO"
     },
     {
       "LangCode": 1045,
+      "LangCodeHex": "0415",
       "LangName": "Polish",
       "LangTag": "pl-PL"
     },
     {
       "LangCode": 1046,
+      "LangCodeHex": "0416",
       "LangName": "Portuguese - Brazil",
       "LangTag": "pt-BR"
     },
     {
       "LangCode": 1047,
+      "LangCodeHex": "0417",
       "LangName": "Rhaeto-Romanic",
       "LangTag": "rm-CH"
     },
     {
       "LangCode": 1048,
+      "LangCodeHex": "0418",
       "LangName": "Romanian",
       "LangTag": "ro-RO"
     },
     {
       "LangCode": 1049,
+      "LangCodeHex": "0419",
       "LangName": "Russian",
       "LangTag": "ru-RU"
     },
     {
       "LangCode": 1050,
+      "LangCodeHex": "041A",
       "LangName": "Croatian",
       "LangTag": "hr-HR"
     },
     {
       "LangCode": 1051,
+      "LangCodeHex": "041B",
       "LangName": "Slovak",
       "LangTag": "sk-SK"
     },
     {
       "LangCode": 1052,
+      "LangCodeHex": "041C",
       "LangName": "Albanian - Albania",
       "LangTag": "sq-AL"
     },
     {
       "LangCode": 1053,
+      "LangCodeHex": "041D",
       "LangName": "Swedish",
       "LangTag": "sv-SE"
     },
     {
       "LangCode": 1054,
+      "LangCodeHex": "041E",
       "LangName": "Thai",
       "LangTag": "th-TH"
     },
     {
       "LangCode": 1055,
+      "LangCodeHex": "041F",
       "LangName": "Turkish",
       "LangTag": "tr-TR"
     },
     {
       "LangCode": 1056,
+      "LangCodeHex": "0420",
       "LangName": "Urdu - Pakistan",
       "LangTag": "ur-PK"
     },
     {
       "LangCode": 1057,
+      "LangCodeHex": "0421",
       "LangName": "Indonesian",
       "LangTag": "id-ID"
     },
     {
       "LangCode": 1058,
+      "LangCodeHex": "0422",
       "LangName": "Ukrainian",
       "LangTag": "uk-UA"
     },
     {
       "LangCode": 1059,
+      "LangCodeHex": "0423",
       "LangName": "Belarusian",
       "LangTag": "be-BY"
     },
     {
       "LangCode": 1060,
+      "LangCodeHex": "0424",
       "LangName": "Slovenian",
       "LangTag": "sl-SI"
     },
     {
       "LangCode": 1061,
+      "LangCodeHex": "0425",
       "LangName": "Estonian",
       "LangTag": "et-EE"
     },
     {
       "LangCode": 1062,
+      "LangCodeHex": "0426",
       "LangName": "Latvian",
       "LangTag": "lv-LV"
     },
     {
       "LangCode": 1063,
+      "LangCodeHex": "0427",
       "LangName": "Lithuanian",
       "LangTag": "lt-LT"
     },
     {
       "LangCode": 1064,
+      "LangCodeHex": "0428",
       "LangName": "Tajik",
       "LangTag": "tg-Cyrl-TJ"
     },
     {
       "LangCode": 1065,
+      "LangCodeHex": "0429",
       "LangName": "Persian",
       "LangTag": "fa-IR"
     },
     {
       "LangCode": 1066,
+      "LangCodeHex": "042A",
       "LangName": "Vietnamese",
       "LangTag": "vi-VN"
     },
     {
       "LangCode": 1067,
+      "LangCodeHex": "042B",
       "LangName": "Armenian - Armenia",
       "LangTag": "hy-AM"
     },
     {
       "LangCode": 1068,
+      "LangCodeHex": "042C",
       "LangName": "Azeri (Latin)",
       "LangTag": "az-Latn-AZ"
     },
     {
       "LangCode": 1069,
+      "LangCodeHex": "042D",
       "LangName": "Basque",
       "LangTag": "eu-ES"
     },
     {
       "LangCode": 1070,
+      "LangCodeHex": "042E",
       "LangName": "Sorbian",
       "LangTag": "wen-DE "
     },
     {
       "LangCode": 1071,
+      "LangCodeHex": "042F",
       "LangName": "F.Y.R.O. Macedonian",
       "LangTag": "mk-MK"
     },
     {
       "LangCode": 1072,
+      "LangCodeHex": "0430",
       "LangName": "Sutu",
       "LangTag": "st-ZA"
     },
     {
       "LangCode": 1073,
+      "LangCodeHex": "0431",
       "LangName": "Tsonga",
       "LangTag": "ts-ZA"
     },
     {
       "LangCode": 1074,
+      "LangCodeHex": "0432",
       "LangName": "Tswana",
       "LangTag": "tn-ZA"
     },
     {
       "LangCode": 1075,
+      "LangCodeHex": "0433",
       "LangName": "Venda",
       "LangTag": "ven-ZA"
     },
     {
       "LangCode": 1076,
+      "LangCodeHex": "0434",
       "LangName": "Xhosa",
       "LangTag": "xh-ZA"
     },
     {
       "LangCode": 1077,
+      "LangCodeHex": "0435",
       "LangName": "Zulu",
       "LangTag": "zu-ZA"
     },
     {
       "LangCode": 1078,
+      "LangCodeHex": "0436",
       "LangName": "Afrikaans - South Africa",
       "LangTag": "af-ZA"
     },
     {
       "LangCode": 1079,
+      "LangCodeHex": "0437",
       "LangName": "Georgian",
       "LangTag": "ka-GE"
     },
     {
       "LangCode": 1080,
+      "LangCodeHex": "0438",
       "LangName": "Faroese",
       "LangTag": "fo-FO"
     },
     {
       "LangCode": 1081,
+      "LangCodeHex": "0439",
       "LangName": "Hindi",
       "LangTag": "hi-IN"
     },
     {
       "LangCode": 1082,
+      "LangCodeHex": "043A",
       "LangName": "Maltese",
       "LangTag": "mt-MT"
     },
     {
       "LangCode": 1083,
+      "LangCodeHex": "043B",
       "LangName": "Sami",
       "LangTag": "se-NO"
     },
     {
       "LangCode": 1084,
+      "LangCodeHex": "043C",
       "LangName": "Gaelic (Scotland)",
       "LangTag": "gd-GB"
     },
     {
       "LangCode": 1085,
+      "LangCodeHex": "043D",
       "LangName": "Yiddish",
       "LangTag": "yi"
     },
     {
       "LangCode": 1086,
+      "LangCodeHex": "043E",
       "LangName": "Malay - Malaysia",
       "LangTag": "ms-MY"
     },
     {
       "LangCode": 1087,
+      "LangCodeHex": "043F",
       "LangName": "Kazakh",
       "LangTag": "kk-KZ"
     },
     {
       "LangCode": 1088,
+      "LangCodeHex": "0440",
       "LangName": "Kyrgyz (Cyrillic)",
       "LangTag": "ky-KG"
     },
     {
       "LangCode": 1089,
+      "LangCodeHex": "0441",
       "LangName": "Swahili",
       "LangTag": "sw-KE"
     },
     {
       "LangCode": 1090,
+      "LangCodeHex": "0442",
       "LangName": "Turkmen",
       "LangTag": "tk-TM"
     },
     {
       "LangCode": 1091,
+      "LangCodeHex": "0443",
       "LangName": "Uzbek (Latin)",
       "LangTag": "uz-Latn-UZ"
     },
     {
       "LangCode": 1092,
+      "LangCodeHex": "0444",
       "LangName": "Tatar",
       "LangTag": "tt-RU"
     },
     {
       "LangCode": 1093,
+      "LangCodeHex": "0445",
       "LangName": "Bengali (India)",
       "LangTag": "bn-IN"
     },
     {
       "LangCode": 1094,
+      "LangCodeHex": "0446",
       "LangName": "Punjabi",
       "LangTag": "pa-IN"
     },
     {
       "LangCode": 1095,
+      "LangCodeHex": "0447",
       "LangName": "Gujarati",
       "LangTag": "gu-IN"
     },
     {
       "LangCode": 1096,
+      "LangCodeHex": "0448",
       "LangName": "Oriya",
       "LangTag": "or-IN"
     },
     {
       "LangCode": 1097,
+      "LangCodeHex": "0449",
       "LangName": "Tamil",
       "LangTag": "ta-IN"
     },
     {
       "LangCode": 1098,
+      "LangCodeHex": "044A",
       "LangName": "Telugu",
       "LangTag": "te-IN"
     },
     {
       "LangCode": 1099,
+      "LangCodeHex": "044B",
       "LangName": "Kannada",
       "LangTag": "kn-IN"
     },
     {
       "LangCode": 1100,
+      "LangCodeHex": "044C",
       "LangName": "Malayalam",
       "LangTag": "ml-IN"
     },
     {
       "LangCode": 1101,
+      "LangCodeHex": "044D",
       "LangName": "Assamese",
       "LangTag": "as-IN"
     },
     {
       "LangCode": 1102,
+      "LangCodeHex": "044E",
       "LangName": "Marathi",
       "LangTag": "mr-IN"
     },
     {
       "LangCode": 1103,
+      "LangCodeHex": "044F",
       "LangName": "Sanskrit",
       "LangTag": "sa-IN"
     },
     {
       "LangCode": 1104,
+      "LangCodeHex": "0450",
       "LangName": "Mongolian (Cyrillic)",
       "LangTag": "mn-MN"
     },
     {
       "LangCode": 1105,
+      "LangCodeHex": "0451",
       "LangName": "Tibetan - People's Republic of China",
       "LangTag": "bo-CN"
     },
     {
       "LangCode": 1106,
+      "LangCodeHex": "0452",
       "LangName": "Welsh",
       "LangTag": "cy-GB"
     },
     {
       "LangCode": 1107,
+      "LangCodeHex": "0453",
       "LangName": "Khmer",
       "LangTag": "km-KH"
     },
     {
       "LangCode": 1108,
+      "LangCodeHex": "0454",
       "LangName": "Lao",
       "LangTag": "lo-LA"
     },
     {
       "LangCode": 1109,
+      "LangCodeHex": "0455",
       "LangName": "Burmese",
       "LangTag": "my-MM"
     },
     {
       "LangCode": 1110,
+      "LangCodeHex": "0456",
       "LangName": "Galician",
       "LangTag": "gl-ES"
     },
     {
       "LangCode": 1111,
+      "LangCodeHex": "0457",
       "LangName": "Konkani",
       "LangTag": "kok-IN"
     },
     {
       "LangCode": 1112,
+      "LangCodeHex": "0458",
       "LangName": "Manipuri",
       "LangTag": "mni"
     },
     {
       "LangCode": 1113,
+      "LangCodeHex": "0459",
       "LangName": "Sindhi - India",
       "LangTag": "sd-IN"
     },
     {
       "LangCode": 1114,
+      "LangCodeHex": "045A",
       "LangName": "Syriac",
       "LangTag": "syr-SY"
     },
     {
       "LangCode": 1115,
+      "LangCodeHex": "045B",
       "LangName": "Sinhalese - Sri Lanka",
       "LangTag": "si-LK"
     },
     {
       "LangCode": 1116,
+      "LangCodeHex": "045C",
       "LangName": "Cherokee - United States",
       "LangTag": "chr-US"
     },
     {
       "LangCode": 1117,
+      "LangCodeHex": "045D",
       "LangName": "Inuktitut",
       "LangTag": "iu-Cans-CA "
     },
     {
       "LangCode": 1118,
+      "LangCodeHex": "045E",
       "LangName": "Amharic - Ethiopia",
       "LangTag": "am-ET"
     },
     {
       "LangCode": 1119,
+      "LangCodeHex": "045F",
       "LangName": "Tamazight (Arabic)",
       "LangTag": "tmz"
     },
     {
       "LangCode": 1120,
+      "LangCodeHex": "0460",
       "LangName": "Kashmiri (Arabic)",
       "LangTag": "ks-Arab-IN"
     },
     {
       "LangCode": 1121,
+      "LangCodeHex": "0461",
       "LangName": "Nepali",
       "LangTag": "ne-NP"
     },
     {
       "LangCode": 1122,
+      "LangCodeHex": "0462",
       "LangName": "Frisian - Netherlands",
       "LangTag": "fy-NL"
     },
     {
       "LangCode": 1123,
+      "LangCodeHex": "0463",
       "LangName": "Pashto",
       "LangTag": "ps-AF"
     },
     {
       "LangCode": 1124,
+      "LangCodeHex": "0464",
       "LangName": "Filipino",
       "LangTag": "fil-PH"
     },
     {
       "LangCode": 1125,
+      "LangCodeHex": "0465",
       "LangName": "Divehi",
       "LangTag": "dv-MV"
     },
     {
       "LangCode": 1126,
+      "LangCodeHex": "0466",
       "LangName": "Edo",
       "LangTag": "bin-NG"
     },
     {
       "LangCode": 1127,
+      "LangCodeHex": "0467",
       "LangName": "Fulfulde - Nigeria",
       "LangTag": "fuv-NG"
     },
     {
       "LangCode": 1128,
+      "LangCodeHex": "0468",
       "LangName": "Hausa - Nigeria",
       "LangTag": "ha-Latn-NG"
     },
     {
       "LangCode": 1129,
+      "LangCodeHex": "0469",
       "LangName": "Ibibio - Nigeria",
       "LangTag": "ibb-NG"
     },
     {
       "LangCode": 1130,
+      "LangCodeHex": "046A",
       "LangName": "Yoruba",
       "LangTag": "yo-NG"
     },
     {
       "LangCode": 1131,
+      "LangCodeHex": "046B",
       "LangName": "Quecha - Bolivia",
       "LangTag": "quz-BO"
     },
     {
       "LangCode": 1132,
+      "LangCodeHex": "046C",
       "LangName": "Sepedi",
       "LangTag": "nso-ZA"
     },
     {
       "LangCode": 1136,
+      "LangCodeHex": "0470",
       "LangName": "Igbo - Nigeria",
       "LangTag": "ig-NG"
     },
     {
       "LangCode": 1137,
+      "LangCodeHex": "0471",
       "LangName": "Kanuri - Nigeria",
       "LangTag": "kr-NG"
     },
     {
       "LangCode": 1138,
+      "LangCodeHex": "0472",
       "LangName": "Oromo",
       "LangTag": "gaz-ET"
     },
     {
       "LangCode": 1139,
+      "LangCodeHex": "0473",
       "LangName": "Tigrigna - Ethiopia",
       "LangTag": "ti-ER"
     },
     {
       "LangCode": 1140,
+      "LangCodeHex": "0474",
       "LangName": "Guarani - Paraguay",
       "LangTag": "gn-PY"
     },
     {
       "LangCode": 1141,
+      "LangCodeHex": "0475",
       "LangName": "Hawaiian - United States",
       "LangTag": "haw-US"
     },
     {
       "LangCode": 1142,
+      "LangCodeHex": "0476",
       "LangName": "Latin",
       "LangTag": "la"
     },
     {
       "LangCode": 1143,
+      "LangCodeHex": "0477",
       "LangName": "Somali",
       "LangTag": "so-SO"
     },
     {
       "LangCode": 1144,
+      "LangCodeHex": "0478",
       "LangName": "Yi",
       "LangTag": "ii-CN"
     },
     {
       "LangCode": 1145,
+      "LangCodeHex": "0479",
       "LangName": "Papiamentu",
       "LangTag": "pap-AN"
     },
     {
       "LangCode": 1152,
+      "LangCodeHex": "0480",
       "LangName": "Uighur - China",
       "LangTag": "ug-Arab-CN"
     },
     {
       "LangCode": 1153,
+      "LangCodeHex": "0481",
       "LangName": "Maori - New Zealand",
       "LangTag": "mi-NZ"
     },
     {
       "LangCode": 2049,
+      "LangCodeHex": "0801",
       "LangName": "Arabic - Iraq",
       "LangTag": "ar-IQ"
     },
     {
       "LangCode": 2052,
+      "LangCodeHex": "0804",
       "LangName": "Chinese - People's Republic of China",
       "LangTag": "zh-CN"
     },
     {
       "LangCode": 2055,
+      "LangCodeHex": "0807",
       "LangName": "German - Switzerland",
       "LangTag": "de-CH"
     },
     {
       "LangCode": 2057,
+      "LangCodeHex": "0809",
       "LangName": "English - United Kingdom",
       "LangTag": "en-GB"
     },
     {
       "LangCode": 2058,
+      "LangCodeHex": "080A",
       "LangName": "Spanish - Mexico",
       "LangTag": "es-MX"
     },
     {
       "LangCode": 2060,
+      "LangCodeHex": "080C",
       "LangName": "French - Belgium",
       "LangTag": "fr-BE"
     },
     {
       "LangCode": 2064,
+      "LangCodeHex": "0810",
       "LangName": "Italian - Switzerland",
       "LangTag": "it-CH"
     },
     {
       "LangCode": 2067,
+      "LangCodeHex": "0813",
       "LangName": "Dutch - Belgium",
       "LangTag": "nl-BE"
     },
     {
       "LangCode": 2068,
+      "LangCodeHex": "0814",
       "LangName": "Norwegian (Nynorsk)",
       "LangTag": "nn-NO"
     },
     {
       "LangCode": 2070,
+      "LangCodeHex": "0816",
       "LangName": "Portuguese - Portugal",
       "LangTag": "pt-PT"
     },
     {
       "LangCode": 2072,
+      "LangCodeHex": "0818",
       "LangName": "Romanian - Moldava",
       "LangTag": "ro-MD"
     },
     {
       "LangCode": 2073,
+      "LangCodeHex": "0819",
       "LangName": "Russian - Moldava",
       "LangTag": "ru-MD"
     },
     {
       "LangCode": 2074,
+      "LangCodeHex": "081A",
       "LangName": "Serbian (Latin)",
       "LangTag": "sr-Latn-CS"
     },
     {
       "LangCode": 2077,
+      "LangCodeHex": "081D",
       "LangName": "Swedish - Finland",
       "LangTag": "sv-FI"
     },
     {
       "LangCode": 2080,
+      "LangCodeHex": "0820",
       "LangName": "Urdu - India",
       "LangTag": "ur-IN"
     },
     {
       "LangCode": 2092,
+      "LangCodeHex": "082C",
       "LangName": "Azeri (Cyrillic)",
       "LangTag": "az-Cyrl-AZ"
     },
     {
       "LangCode": 2108,
+      "LangCodeHex": "083C",
       "LangName": "Gaelic (Ireland)",
       "LangTag": "ga-IE"
     },
     {
       "LangCode": 2110,
+      "LangCodeHex": "083E",
       "LangName": "Malay - Brunei Darussalam",
       "LangTag": "ms-BN"
     },
     {
       "LangCode": 2115,
+      "LangCodeHex": "0843",
       "LangName": "Uzbek (Cyrillic)",
       "LangTag": "uz-Cyrl-UZ"
     },
     {
       "LangCode": 2117,
+      "LangCodeHex": "0845",
       "LangName": "Bengali (Bangladesh)",
       "LangTag": "bn-BD"
     },
     {
       "LangCode": 2118,
+      "LangCodeHex": "0846",
       "LangName": "Punjabi (Pakistan)",
       "LangTag": "pa-PK"
     },
     {
       "LangCode": 2128,
+      "LangCodeHex": "0850",
       "LangName": "Mongolian (Mongolian)",
       "LangTag": "mn-Mong-CN"
     },
     {
       "LangCode": 2129,
+      "LangCodeHex": "0851",
       "LangName": "Tibetan - Bhutan",
       "LangTag": "bo-BT"
     },
     {
       "LangCode": 2137,
+      "LangCodeHex": "0859",
       "LangName": "Sindhi - Pakistan",
       "LangTag": "sd-PK"
     },
     {
       "LangCode": 2143,
+      "LangCodeHex": "085F",
       "LangName": "Tamazight (Latin)",
       "LangTag": "tzm-Latn-DZ"
     },
     {
       "LangCode": 2144,
+      "LangCodeHex": "0860",
       "LangName": "Kashmiri (Devanagari)",
       "LangTag": "ks-Deva-IN"
     },
     {
       "LangCode": 2145,
+      "LangCodeHex": "0861",
       "LangName": "Nepali - India",
       "LangTag": "ne-IN"
     },
     {
       "LangCode": 2155,
+      "LangCodeHex": "086B",
       "LangName": "Quecha - Ecuador",
       "LangTag": "quz-EC"
     },
     {
       "LangCode": 2163,
+      "LangCodeHex": "0873",
       "LangName": "Tigrigna - Eritrea",
       "LangTag": "ti-ET"
     },
     {
       "LangCode": 3073,
+      "LangCodeHex": "0C01",
       "LangName": "Arabic - Egypt",
       "LangTag": "ar-EG"
     },
     {
       "LangCode": 3076,
+      "LangCodeHex": "0C04",
       "LangName": "Chinese - Hong Kong SAR",
       "LangTag": "zh-HK"
     },
     {
       "LangCode": 3079,
+      "LangCodeHex": "0C07",
       "LangName": "German - Austria",
       "LangTag": "de-AT"
     },
     {
       "LangCode": 3081,
+      "LangCodeHex": "0C09",
       "LangName": "English - Australia",
       "LangTag": "en-AU"
     },
     {
       "LangCode": 3082,
+      "LangCodeHex": "0C0A",
       "LangName": "Spanish - Spain (Modern Sort)",
       "LangTag": "es-ES"
     },
     {
       "LangCode": 3084,
+      "LangCodeHex": "0C0C",
       "LangName": "French - Canada",
       "LangTag": "fr-CA"
     },
     {
       "LangCode": 3098,
+      "LangCodeHex": "0C1A",
       "LangName": "Serbian (Cyrillic)",
       "LangTag": "sr-Cyrl-CS"
     },
     {
       "LangCode": 3179,
+      "LangCodeHex": "0C6B",
       "LangName": "Quecha - Peru",
       "LangTag": "quz-PE"
     },
     {
       "LangCode": 4097,
+      "LangCodeHex": "1001",
       "LangName": "Arabic - Libya",
       "LangTag": "ar-LY"
     },
     {
       "LangCode": 4100,
+      "LangCodeHex": "1004",
       "LangName": "Chinese - Singapore",
       "LangTag": "zh-SG"
     },
     {
       "LangCode": 4103,
+      "LangCodeHex": "1007",
       "LangName": "German - Luxembourg",
       "LangTag": "de-LU"
     },
     {
       "LangCode": 4105,
+      "LangCodeHex": "1009",
       "LangName": "English - Canada",
       "LangTag": "en-CA"
     },
     {
       "LangCode": 4106,
+      "LangCodeHex": "100A",
       "LangName": "Spanish - Guatemala",
       "LangTag": "es-GT"
     },
     {
       "LangCode": 4108,
+      "LangCodeHex": "100C",
       "LangName": "French - Switzerland",
       "LangTag": "fr-CH"
     },
     {
       "LangCode": 4122,
+      "LangCodeHex": "101A",
       "LangName": "Croatian (Bosnia/Herzegovina)",
       "LangTag": "hr-BA"
     },
     {
       "LangCode": 5121,
+      "LangCodeHex": "1401",
       "LangName": "Arabic - Algeria",
       "LangTag": "ar-DZ"
     },
     {
       "LangCode": 5124,
+      "LangCodeHex": "1404",
       "LangName": "Chinese - Macao SAR",
       "LangTag": "zh-MO"
     },
     {
       "LangCode": 5127,
+      "LangCodeHex": "1407",
       "LangName": "German - Liechtenstein",
       "LangTag": "de-LI"
     },
     {
       "LangCode": 5129,
+      "LangCodeHex": "1409",
       "LangName": "English - New Zealand",
       "LangTag": "en-NZ"
     },
     {
       "LangCode": 5130,
+      "LangCodeHex": "140A",
       "LangName": "Spanish - Costa Rica",
       "LangTag": "es-CR"
     },
     {
       "LangCode": 5132,
+      "LangCodeHex": "140C",
       "LangName": "French - Luxembourg",
       "LangTag": "fr-LU"
     },
     {
       "LangCode": 5146,
+      "LangCodeHex": "141A",
       "LangName": "Bosnian (Bosnia/Herzegovina)",
       "LangTag": "bs-Latn-BA"
     },
     {
       "LangCode": 6145,
+      "LangCodeHex": "1801",
       "LangName": "Arabic - Morocco",
       "LangTag": "ar-MO"
     },
     {
       "LangCode": 6153,
+      "LangCodeHex": "1809",
       "LangName": "English - Ireland",
       "LangTag": "en-IE"
     },
     {
       "LangCode": 6154,
+      "LangCodeHex": "180A",
       "LangName": "Spanish - Panama",
       "LangTag": "es-PA"
     },
     {
       "LangCode": 6156,
+      "LangCodeHex": "180C",
       "LangName": "French - Monaco",
       "LangTag": "fr-MC"
     },
     {
       "LangCode": 7169,
+      "LangCodeHex": "1C01",
       "LangName": "Arabic - Tunisia",
       "LangTag": "ar-TN"
     },
     {
       "LangCode": 7177,
+      "LangCodeHex": "1C09",
       "LangName": "English - South Africa",
       "LangTag": "en-ZA"
     },
     {
       "LangCode": 7178,
+      "LangCodeHex": "1C0A",
       "LangName": "Spanish - Dominican Republic",
       "LangTag": "es-DO"
     },
     {
       "LangCode": 7180,
+      "LangCodeHex": "1C0C",
       "LangName": "French - West Indies",
       "LangTag": "fr-029"
     },
     {
       "LangCode": 8193,
+      "LangCodeHex": "2001",
       "LangName": "Arabic - Oman",
       "LangTag": "ar-OM"
     },
     {
       "LangCode": 8201,
+      "LangCodeHex": "2009",
       "LangName": "English - Jamaica",
       "LangTag": "en-JM"
     },
     {
       "LangCode": 8202,
+      "LangCodeHex": "200A",
       "LangName": "Spanish - Venezuela",
       "LangTag": "es-VE"
     },
     {
       "LangCode": 8204,
+      "LangCodeHex": "200C",
       "LangName": "French - Reunion",
       "LangTag": "fr-RE"
     },
     {
       "LangCode": 9217,
+      "LangCodeHex": "2401",
       "LangName": "Arabic - Yemen",
       "LangTag": "ar-YE"
     },
     {
       "LangCode": 9225,
+      "LangCodeHex": "2409",
       "LangName": "English - Caribbean",
       "LangTag": "en-029"
     },
     {
       "LangCode": 9226,
+      "LangCodeHex": "240A",
       "LangName": "Spanish - Colombia",
       "LangTag": "es-CO"
     },
     {
       "LangCode": 9228,
+      "LangCodeHex": "240C",
       "LangName": "French - Democratic Rep. of Congo",
       "LangTag": "fr-CG"
     },
     {
       "LangCode": 10241,
+      "LangCodeHex": "2801",
       "LangName": "Arabic - Syria",
       "LangTag": "ar-SY"
     },
     {
       "LangCode": 10249,
+      "LangCodeHex": "2809",
       "LangName": "English - Belize",
       "LangTag": "en-BZ"
     },
     {
       "LangCode": 10250,
+      "LangCodeHex": "280A",
       "LangName": "Spanish - Peru",
       "LangTag": "es-PE"
     },
     {
       "LangCode": 10252,
+      "LangCodeHex": "280C",
       "LangName": "French - Senegal",
       "LangTag": "fr-SN"
     },
     {
       "LangCode": 11265,
+      "LangCodeHex": "2C01",
       "LangName": "Arabic - Jordan",
       "LangTag": "ar-JO"
     },
     {
       "LangCode": 11273,
+      "LangCodeHex": "2C09",
       "LangName": "English - Trinidad",
       "LangTag": "en-TT"
     },
     {
       "LangCode": 11274,
+      "LangCodeHex": "2C0A",
       "LangName": "Spanish - Argentina",
       "LangTag": "es-AR"
     },
     {
       "LangCode": 11276,
+      "LangCodeHex": "2C0C",
       "LangName": "French - Cameroon",
       "LangTag": "fr-CM"
     },
     {
       "LangCode": 12289,
+      "LangCodeHex": "3001",
       "LangName": "Arabic - Lebanon",
       "LangTag": "ar-LB"
     },
     {
       "LangCode": 12297,
+      "LangCodeHex": "3009",
       "LangName": "English - Zimbabwe",
       "LangTag": "en-ZW"
     },
     {
       "LangCode": 12298,
+      "LangCodeHex": "300A",
       "LangName": "Spanish - Ecuador",
       "LangTag": "es-EC"
     },
     {
       "LangCode": 12300,
+      "LangCodeHex": "300C",
       "LangName": "French - Cote d'Ivoire",
       "LangTag": "fr-CI"
     },
     {
       "LangCode": 13313,
+      "LangCodeHex": "3401",
       "LangName": "Arabic - Kuwait",
       "LangTag": "ar-KW"
     },
     {
       "LangCode": 13321,
+      "LangCodeHex": "3409",
       "LangName": "English - Philippines",
       "LangTag": "en-PH"
     },
     {
       "LangCode": 13322,
+      "LangCodeHex": "340A",
       "LangName": "Spanish - Chile",
       "LangTag": "es-CL"
     },
     {
       "LangCode": 13324,
+      "LangCodeHex": "340C",
       "LangName": "French - Mali",
       "LangTag": "fr-ML"
     },
     {
       "LangCode": 14337,
+      "LangCodeHex": "3801",
       "LangName": "Arabic - U.A.E.",
       "LangTag": "ar-AE"
     },
     {
       "LangCode": 14345,
+      "LangCodeHex": "3809",
       "LangName": "English - Indonesia",
       "LangTag": "en-ID"
     },
     {
       "LangCode": 14346,
+      "LangCodeHex": "380A",
       "LangName": "Spanish - Uruguay",
       "LangTag": "es-UY"
     },
     {
       "LangCode": 14348,
+      "LangCodeHex": "380C",
       "LangName": "French - Morocco",
       "LangTag": "fr-MA"
     },
     {
       "LangCode": 15361,
+      "LangCodeHex": "3C01",
       "LangName": "Arabic - Bahrain",
       "LangTag": "ar-BH"
     },
     {
       "LangCode": 15369,
+      "LangCodeHex": "3C09",
       "LangName": "English - Hong Kong SAR",
       "LangTag": "en-HK"
     },
     {
       "LangCode": 15370,
+      "LangCodeHex": "3C0A",
       "LangName": "Spanish - Paraguay",
       "LangTag": "es-PY"
     },
     {
       "LangCode": 15372,
+      "LangCodeHex": "3C0C",
       "LangName": "French - Haiti",
       "LangTag": "fr-HT"
     },
     {
       "LangCode": 16385,
+      "LangCodeHex": "4001",
       "LangName": "Arabic - Qatar",
       "LangTag": "ar-QA"
     },
     {
       "LangCode": 16393,
+      "LangCodeHex": "4009",
       "LangName": "English - India",
       "LangTag": "en-IN"
     },
     {
       "LangCode": 16394,
+      "LangCodeHex": "400A",
       "LangName": "Spanish - Bolivia",
       "LangTag": "es-BO"
     },
     {
       "LangCode": 17417,
+      "LangCodeHex": "4409",
       "LangName": "English - Malaysia",
       "LangTag": "en-MY"
     },
     {
       "LangCode": 17418,
+      "LangCodeHex": "440A",
       "LangName": "Spanish - El Salvador",
       "LangTag": "es-SV"
     },
     {
       "LangCode": 18441,
+      "LangCodeHex": "4809",
       "LangName": "English - Singapore",
       "LangTag": "en-SG"
     },
     {
       "LangCode": 18442,
+      "LangCodeHex": "480A",
       "LangName": "Spanish - Honduras",
       "LangTag": "es-HN"
     },
     {
       "LangCode": 19466,
+      "LangCodeHex": "4C0A",
       "LangName": "Spanish - Nicaragua",
       "LangTag": "es-NI"
     },
     {
       "LangCode": 20490,
+      "LangCodeHex": "500A",
       "LangName": "Spanish - Puerto Rico",
       "LangTag": "es-PR"
     },
     {
       "LangCode": 21514,
+      "LangCodeHex": "540A",
       "LangName": "Spanish - United States",
       "LangTag": "es-US"
     },
     {
       "LangCode": 58378,
+      "LangCodeHex": "E40A",
       "LangName": "Spanish - Latin America",
       "LangTag": "es-419"
     },
     {
       "LangCode": 58380,
+      "LangCodeHex": "E40C",
       "LangName": "French - North Africa",
       "LangTag": "fr-015"
     }
