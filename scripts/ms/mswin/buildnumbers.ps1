@@ -1,5 +1,5 @@
 ﻿$rootPage = "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
-$d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/buildnumbers.json" | Select -ExpandProperty Content | ConvertFrom-Json
+$d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/buildnumbers.json" | Select-Object -ExpandProperty Content | ConvertFrom-Json
 
 $pageData = Invoke-WebRequest $rootPage -UseBasicParsing
 
@@ -47,7 +47,7 @@ $patchList = $patchList | Sort-Object ReleaseDate | Select-Object Win10Version,V
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
         "LastUpdatedUTC" = (Get-Date).ToUniversalTime()
-        "SourceList" = @("https://docs.microsoft.com/en-us/windows/release-health/release-information","https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html")
+        "SourceList" = "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
     }
     "Data" = $patchList
 }
@@ -63,5 +63,3 @@ If(Compare-Object $d4nData.Data $outputData.Data -Property $allProperties -SyncW
 } else {
     Write-Host "The data has not changed."
 }
-
-
