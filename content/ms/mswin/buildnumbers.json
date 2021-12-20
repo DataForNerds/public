@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2021-12-06T19:17:26.9071187Z",
+    "LastUpdatedUTC": "2021-12-20T21:18:32.5049448Z",
     "SourceList": "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
   },
   "Data": [
@@ -26,17 +26,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.16725",
-      "Version": "10240.16725",
-      "ReleaseDate": "2016-03-08",
-      "Article": "KB3140745",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10586.164",
       "Version": "10586.164",
       "ReleaseDate": "2016-03-08",
       "Article": "KB3140768",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.16725",
+      "Version": "10240.16725",
+      "ReleaseDate": "2016-03-08",
+      "Article": "KB3140745",
       "Comment": ""
     },
     {
@@ -54,17 +54,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.16854",
-      "Version": "10240.16854",
-      "ReleaseDate": "2016-05-10",
-      "Article": "KB3156387",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10586.318",
       "Version": "10586.318",
       "ReleaseDate": "2016-05-10",
       "Article": "KB3156421",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.16854",
+      "Version": "10240.16854",
+      "ReleaseDate": "2016-05-10",
+      "Article": "KB3156387",
       "Comment": ""
     },
     {
@@ -138,13 +138,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.589",
-      "Version": "10586.589",
-      "ReleaseDate": "2016-09-13",
-      "Article": "KB3185614",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.187",
       "Version": "14393.187",
       "ReleaseDate": "2016-09-13",
@@ -156,6 +149,13 @@
       "Version": "14393.189",
       "ReleaseDate": "2016-09-13",
       "Article": "KB3189866",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10586.589",
+      "Version": "10586.589",
+      "ReleaseDate": "2016-09-13",
+      "Article": "KB3185614",
       "Comment": ""
     },
     {
@@ -194,13 +194,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.633",
-      "Version": "10586.633",
-      "ReleaseDate": "2016-10-11",
-      "Article": "KB3192441",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.17146",
       "Version": "10240.17146",
       "ReleaseDate": "2016-10-11",
@@ -215,10 +208,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10586.633",
+      "Version": "10586.633",
+      "ReleaseDate": "2016-10-11",
+      "Article": "KB3192441",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.351",
       "Version": "14393.351",
       "ReleaseDate": "2016-10-27",
       "Article": "KB3197954",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.447",
+      "Version": "14393.447",
+      "ReleaseDate": "2016-11-08",
+      "Article": "KB3200970",
       "Comment": ""
     },
     {
@@ -233,13 +240,6 @@
       "Version": "10586.679",
       "ReleaseDate": "2016-11-08",
       "Article": "KB3198586",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.447",
-      "Version": "14393.447",
-      "ReleaseDate": "2016-11-08",
-      "Article": "KB3200970",
       "Comment": ""
     },
     {
@@ -264,13 +264,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17202",
-      "Version": "10240.17202",
-      "ReleaseDate": "2016-12-13",
-      "Article": "KB3205383",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10586.713",
       "Version": "10586.713",
       "ReleaseDate": "2016-12-13",
@@ -278,17 +271,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10240.17202",
+      "Version": "10240.17202",
+      "ReleaseDate": "2016-12-13",
+      "Article": "KB3205383",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.571",
       "Version": "14393.571",
       "ReleaseDate": "2016-12-13",
       "Article": "KB3206632",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.17236",
-      "Version": "10240.17236",
-      "ReleaseDate": "2017-01-10",
-      "Article": "KB3210720",
       "Comment": ""
     },
     {
@@ -306,6 +299,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10240.17236",
+      "Version": "10240.17236",
+      "ReleaseDate": "2017-01-10",
+      "Article": "KB3210720",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.726",
       "Version": "14393.726",
       "ReleaseDate": "2017-01-26",
@@ -317,13 +317,6 @@
       "Version": "14393.729",
       "ReleaseDate": "2017-01-30",
       "Article": "KB4010672",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.953",
-      "Version": "14393.953",
-      "ReleaseDate": "2017-03-14",
-      "Article": "KB4013429",
       "Comment": ""
     },
     {
@@ -341,6 +334,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.953",
+      "Version": "14393.953",
+      "ReleaseDate": "2017-03-14",
+      "Article": "KB4013429",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.969",
       "Version": "14393.969",
       "ReleaseDate": "2017-03-20",
@@ -348,17 +348,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17320",
-      "Version": "10240.17320",
-      "ReleaseDate": "2017-03-22",
-      "Article": "KB4016637",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10586.842",
       "Version": "10586.842",
       "ReleaseDate": "2017-03-22",
       "Article": "KB4016636",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.17320",
+      "Version": "10240.17320",
+      "ReleaseDate": "2017-03-22",
+      "Article": "KB4016637",
       "Comment": ""
     },
     {
@@ -383,17 +383,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.873",
-      "Version": "10586.873",
-      "ReleaseDate": "2017-04-11",
-      "Article": "KB4015219",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15063.138",
       "Version": "15063.138",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015583",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10586.873",
+      "Version": "10586.873",
+      "ReleaseDate": "2017-04-11",
+      "Article": "KB4015219",
       "Comment": ""
     },
     {
@@ -425,17 +425,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.297",
-      "Version": "15063.297",
+      "Win10Version": "10.0.14393.1198",
+      "Version": "14393.1198",
       "ReleaseDate": "2017-05-09",
-      "Article": "KB4016871",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.296",
-      "Version": "15063.296",
-      "ReleaseDate": "2017-05-09",
-      "Article": "KB4016871",
+      "Article": "KB4019472",
       "Comment": ""
     },
     {
@@ -446,10 +439,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.1198",
-      "Version": "14393.1198",
+      "Win10Version": "10.0.15063.296",
+      "Version": "15063.296",
       "ReleaseDate": "2017-05-09",
-      "Article": "KB4019472",
+      "Article": "KB4016871",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.297",
+      "Version": "15063.297",
+      "ReleaseDate": "2017-05-09",
+      "Article": "KB4016871",
       "Comment": ""
     },
     {
@@ -467,10 +467,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.414",
-      "Version": "15063.414",
+      "Win10Version": "10.0.10240.17443",
+      "Version": "10240.17443",
       "ReleaseDate": "2017-06-13",
-      "Article": "KB4022725",
+      "Article": "KB4022727",
       "Comment": ""
     },
     {
@@ -481,8 +481,8 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.413",
-      "Version": "15063.413",
+      "Win10Version": "10.0.15063.414",
+      "Version": "15063.414",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022725",
       "Comment": ""
@@ -495,17 +495,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17443",
-      "Version": "10240.17443",
+      "Win10Version": "10.0.15063.413",
+      "Version": "15063.413",
       "ReleaseDate": "2017-06-13",
-      "Article": "KB4022727",
+      "Article": "KB4022725",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17446",
-      "Version": "10240.17446",
+      "Win10Version": "10.0.14393.1378",
+      "Version": "14393.1378",
       "ReleaseDate": "2017-06-27",
-      "Article": "KB4032695",
+      "Article": "KB4022723",
       "Comment": ""
     },
     {
@@ -523,17 +523,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.1378",
-      "Version": "14393.1378",
+      "Win10Version": "10.0.10240.17446",
+      "Version": "10240.17446",
       "ReleaseDate": "2017-06-27",
-      "Article": "KB4022723",
+      "Article": "KB4032695",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17488",
-      "Version": "10240.17488",
+      "Win10Version": "10.0.10586.1007",
+      "Version": "10586.1007",
       "ReleaseDate": "2017-07-11",
-      "Article": "KB4025338",
+      "Article": "KB4025344",
       "Comment": ""
     },
     {
@@ -551,10 +551,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1007",
-      "Version": "10586.1007",
+      "Win10Version": "10.0.10240.17488",
+      "Version": "10240.17488",
       "ReleaseDate": "2017-07-11",
-      "Article": "KB4025344",
+      "Article": "KB4025338",
       "Comment": ""
     },
     {
@@ -586,6 +586,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.1593",
+      "Version": "14393.1593",
+      "ReleaseDate": "2017-08-08",
+      "Article": "KB4034658",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.10586.1045",
       "Version": "10586.1045",
       "ReleaseDate": "2017-08-08",
@@ -597,13 +604,6 @@
       "Version": "15063.540",
       "ReleaseDate": "2017-08-08",
       "Article": "KB4034674",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.1593",
-      "Version": "14393.1593",
-      "ReleaseDate": "2017-08-08",
-      "Article": "KB4034658",
       "Comment": ""
     },
     {
@@ -621,6 +621,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10586.1106",
+      "Version": "10586.1106",
+      "ReleaseDate": "2017-09-12",
+      "Article": "KB4038783",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15063.608",
       "Version": "15063.608",
       "ReleaseDate": "2017-09-12",
@@ -632,13 +639,6 @@
       "Version": "14393.1715",
       "ReleaseDate": "2017-09-12",
       "Article": "KB4038782",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10586.1106",
-      "Version": "10586.1106",
-      "ReleaseDate": "2017-09-12",
-      "Article": "KB4038783",
       "Comment": ""
     },
     {
@@ -670,13 +670,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1176",
-      "Version": "10586.1176",
-      "ReleaseDate": "2017-10-10",
-      "Article": "KB4041689",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.17643",
       "Version": "10240.17643",
       "ReleaseDate": "2017-10-10",
@@ -688,6 +681,13 @@
       "Version": "15063.674",
       "ReleaseDate": "2017-10-10",
       "Article": "KB4041676",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10586.1176",
+      "Version": "10586.1176",
+      "ReleaseDate": "2017-10-10",
+      "Article": "KB4041689",
       "Comment": ""
     },
     {
@@ -705,17 +705,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.675",
-      "Version": "15063.675",
-      "ReleaseDate": "2017-11-02",
-      "Article": "KB4049370",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10586.1177",
       "Version": "10586.1177",
       "ReleaseDate": "2017-11-02",
       "Article": "KB4052232",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.675",
+      "Version": "15063.675",
+      "ReleaseDate": "2017-11-02",
+      "Article": "KB4049370",
       "Comment": ""
     },
     {
@@ -726,17 +726,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10240.17673",
+      "Version": "10240.17673",
+      "ReleaseDate": "2017-11-14",
+      "Article": "KB4048956",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.1884",
       "Version": "14393.1884",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048953",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.728",
-      "Version": "15063.728",
-      "ReleaseDate": "2017-11-14",
-      "Article": "KB4048954",
       "Comment": ""
     },
     {
@@ -747,10 +747,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17673",
-      "Version": "10240.17673",
+      "Win10Version": "10.0.10586.1232",
+      "Version": "10586.1232",
       "ReleaseDate": "2017-11-14",
-      "Article": "KB4048956",
+      "Article": "KB4048952",
       "Comment": ""
     },
     {
@@ -761,17 +761,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1232",
-      "Version": "10586.1232",
-      "ReleaseDate": "2017-11-14",
-      "Article": "KB4048952",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.16299.64",
       "Version": "16299.64",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048955",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.728",
+      "Version": "15063.728",
+      "ReleaseDate": "2017-11-14",
+      "Article": "KB4048954",
       "Comment": ""
     },
     {
@@ -796,17 +796,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1295",
-      "Version": "10586.1295",
-      "ReleaseDate": "2017-12-12",
-      "Article": "KB4053578",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15254.124",
       "Version": "15254.124",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4056342 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.17709",
+      "Version": "10240.17709",
+      "ReleaseDate": "2017-12-12",
+      "Article": "KB4053581",
       "Comment": ""
     },
     {
@@ -824,10 +824,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17709",
-      "Version": "10240.17709",
+      "Win10Version": "10.0.10586.1295",
+      "Version": "10586.1295",
       "ReleaseDate": "2017-12-12",
-      "Article": "KB4053581",
+      "Article": "KB4053578",
       "Comment": ""
     },
     {
@@ -835,13 +835,6 @@
       "Version": "15063.786",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4053580",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.192",
-      "Version": "16299.192",
-      "ReleaseDate": "2018-01-03",
-      "Article": "KB4056892",
       "Comment": ""
     },
     {
@@ -873,6 +866,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.16299.192",
+      "Version": "16299.192",
+      "ReleaseDate": "2018-01-03",
+      "Article": "KB4056892",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15254.158",
       "Version": "15254.158",
       "ReleaseDate": "2018-01-05",
@@ -894,17 +894,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1358",
-      "Version": "10586.1358",
-      "ReleaseDate": "2018-01-18",
-      "Article": "KB4075200",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.17741",
       "Version": "10240.17741",
       "ReleaseDate": "2018-01-18",
       "Article": "KB4075199",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10586.1358",
+      "Version": "10586.1358",
+      "ReleaseDate": "2018-01-18",
+      "Article": "KB4075200",
       "Comment": ""
     },
     {
@@ -936,10 +936,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2068",
-      "Version": "14393.2068",
+      "Win10Version": "10.0.10240.17770",
+      "Version": "10240.17770",
       "ReleaseDate": "2018-02-13",
-      "Article": "KB4074590",
+      "Article": "KB4074596",
       "Comment": ""
     },
     {
@@ -950,10 +950,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17770",
-      "Version": "10240.17770",
+      "Win10Version": "10.0.14393.2068",
+      "Version": "14393.2068",
       "ReleaseDate": "2018-02-13",
-      "Article": "KB4074596",
+      "Article": "KB4074590",
       "Comment": ""
     },
     {
@@ -971,17 +971,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.936",
-      "Version": "15063.936",
-      "ReleaseDate": "2018-02-22",
-      "Article": "KB4077528",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.2097",
       "Version": "14393.2097",
       "ReleaseDate": "2018-02-22",
       "Article": "KB4077525",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.936",
+      "Version": "15063.936",
+      "ReleaseDate": "2018-02-22",
+      "Article": "KB4077528",
       "Comment": ""
     },
     {
@@ -999,17 +999,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.966",
-      "Version": "15063.966",
+      "Win10Version": "10.0.10586.1478",
+      "Version": "10586.1478",
       "ReleaseDate": "2018-03-13",
-      "Article": "KB4088782",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.2125",
-      "Version": "14393.2125",
-      "ReleaseDate": "2018-03-13",
-      "Article": "KB4088787",
+      "Article": "KB4088779",
       "Comment": ""
     },
     {
@@ -1020,24 +1013,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.309",
-      "Version": "16299.309",
+      "Win10Version": "10.0.14393.2125",
+      "Version": "14393.2125",
       "ReleaseDate": "2018-03-13",
-      "Article": "KB4088776",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.968",
-      "Version": "15063.968",
-      "ReleaseDate": "2018-03-13",
-      "Article": "KB4088782",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10586.1478",
-      "Version": "10586.1478",
-      "ReleaseDate": "2018-03-13",
-      "Article": "KB4088779",
+      "Article": "KB4088787",
       "Comment": ""
     },
     {
@@ -1048,6 +1027,27 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.966",
+      "Version": "15063.966",
+      "ReleaseDate": "2018-03-13",
+      "Article": "KB4088782",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.968",
+      "Version": "15063.968",
+      "ReleaseDate": "2018-03-13",
+      "Article": "KB4088782",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.309",
+      "Version": "16299.309",
+      "ReleaseDate": "2018-03-13",
+      "Article": "KB4088776",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15254.313",
       "Version": "15254.313",
       "ReleaseDate": "2018-03-15",
@@ -1055,17 +1055,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.334",
-      "Version": "16299.334",
-      "ReleaseDate": "2018-03-22",
-      "Article": "KB4089848",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15063.994",
       "Version": "15063.994",
       "ReleaseDate": "2018-03-22",
       "Article": "KB4088891",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.334",
+      "Version": "16299.334",
+      "ReleaseDate": "2018-03-22",
+      "Article": "KB4089848",
       "Comment": ""
     },
     {
@@ -1083,17 +1083,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2189",
-      "Version": "14393.2189",
+      "Win10Version": "10.0.10586.1540",
+      "Version": "10586.1540",
       "ReleaseDate": "2018-04-10",
-      "Article": "KB4093119",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.371",
-      "Version": "16299.371",
-      "ReleaseDate": "2018-04-10",
-      "Article": "KB4093112",
+      "Article": "KB4093109",
       "Comment": ""
     },
     {
@@ -1104,13 +1097,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.369",
-      "Version": "15254.369",
-      "ReleaseDate": "2018-04-10",
-      "Article": "KB4099572 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.17831",
       "Version": "10240.17831",
       "ReleaseDate": "2018-04-10",
@@ -1118,17 +1104,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10586.1540",
-      "Version": "10586.1540",
+      "Win10Version": "10.0.15254.369",
+      "Version": "15254.369",
       "ReleaseDate": "2018-04-10",
-      "Article": "KB4093109",
+      "Article": "KB4099572 Update for Windows 10 Mobile",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1058",
-      "Version": "15063.1058",
-      "ReleaseDate": "2018-04-17",
-      "Article": "KB4093117",
+      "Win10Version": "10.0.16299.371",
+      "Version": "16299.371",
+      "ReleaseDate": "2018-04-10",
+      "Article": "KB4093112",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.2189",
+      "Version": "14393.2189",
+      "ReleaseDate": "2018-04-10",
+      "Article": "KB4093119",
       "Comment": ""
     },
     {
@@ -1139,6 +1132,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1058",
+      "Version": "15063.1058",
+      "ReleaseDate": "2018-04-17",
+      "Article": "KB4093117",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.402",
       "Version": "16299.402",
       "ReleaseDate": "2018-04-23",
@@ -1146,10 +1146,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1088",
-      "Version": "15063.1088",
+      "Win10Version": "10.0.14393.2248",
+      "Version": "14393.2248",
       "ReleaseDate": "2018-05-08",
-      "Article": "KB4103731",
+      "Article": "KB4103723",
       "Comment": ""
     },
     {
@@ -1160,17 +1160,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1088",
+      "Version": "15063.1088",
+      "ReleaseDate": "2018-05-08",
+      "Article": "KB4103731",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15254.401",
       "Version": "15254.401",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4134196 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.2248",
-      "Version": "14393.2248",
-      "ReleaseDate": "2018-05-08",
-      "Article": "KB4103723",
       "Comment": ""
     },
     {
@@ -1223,10 +1223,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2312",
-      "Version": "14393.2312",
+      "Win10Version": "10.0.15254.489",
+      "Version": "15254.489",
       "ReleaseDate": "2018-06-12",
-      "Article": "KB4284880",
+      "Article": "KB4316692 Update for Windows 10 Mobile",
       "Comment": ""
     },
     {
@@ -1244,13 +1244,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.489",
-      "Version": "15254.489",
-      "ReleaseDate": "2018-06-12",
-      "Article": "KB4316692 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.112",
       "Version": "17134.112",
       "ReleaseDate": "2018-06-12",
@@ -1262,6 +1255,20 @@
       "Version": "15063.1155",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284874",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.2312",
+      "Version": "14393.2312",
+      "ReleaseDate": "2018-06-12",
+      "Article": "KB4284880",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1182",
+      "Version": "15063.1182",
+      "ReleaseDate": "2018-06-21",
+      "Article": "KB4284830",
       "Comment": ""
     },
     {
@@ -1279,13 +1286,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1182",
-      "Version": "15063.1182",
-      "ReleaseDate": "2018-06-21",
-      "Article": "KB4284830",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.137",
       "Version": "17134.137",
       "ReleaseDate": "2018-06-26",
@@ -1297,20 +1297,6 @@
       "Version": "14393.2363",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338814",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.17914",
-      "Version": "10240.17914",
-      "ReleaseDate": "2018-07-10",
-      "Article": "KB4338829",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1206",
-      "Version": "15063.1206",
-      "ReleaseDate": "2018-07-10",
-      "Article": "KB4338826",
       "Comment": ""
     },
     {
@@ -1328,24 +1314,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1206",
+      "Version": "15063.1206",
+      "ReleaseDate": "2018-07-10",
+      "Article": "KB4338826",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.17914",
+      "Version": "10240.17914",
+      "ReleaseDate": "2018-07-10",
+      "Article": "KB4338829",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.2368",
       "Version": "14393.2368",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345418",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.551",
-      "Version": "16299.551",
-      "ReleaseDate": "2018-07-16",
-      "Article": "KB4345420",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1209",
-      "Version": "15063.1209",
-      "ReleaseDate": "2018-07-16",
-      "Article": "KB4345419",
       "Comment": ""
     },
     {
@@ -1356,6 +1342,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1209",
+      "Version": "15063.1209",
+      "ReleaseDate": "2018-07-16",
+      "Article": "KB4345419",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.10240.17918",
       "Version": "10240.17918",
       "ReleaseDate": "2018-07-16",
@@ -1363,10 +1356,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.579",
-      "Version": "16299.579",
-      "ReleaseDate": "2018-07-24",
-      "Article": "KB4338817",
+      "Win10Version": "10.0.16299.551",
+      "Version": "16299.551",
+      "ReleaseDate": "2018-07-16",
+      "Article": "KB4345420",
       "Comment": ""
     },
     {
@@ -1377,17 +1370,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2395",
-      "Version": "14393.2395",
-      "ReleaseDate": "2018-07-24",
-      "Article": "KB4338822",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.191",
       "Version": "17134.191",
       "ReleaseDate": "2018-07-24",
       "Article": "KB4340917",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.579",
+      "Version": "16299.579",
+      "ReleaseDate": "2018-07-24",
+      "Article": "KB4338817",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.2395",
+      "Version": "14393.2395",
+      "ReleaseDate": "2018-07-24",
+      "Article": "KB4338822",
       "Comment": ""
     },
     {
@@ -1398,10 +1398,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17946",
-      "Version": "10240.17946",
+      "Win10Version": "10.0.17134.228",
+      "Version": "17134.228",
       "ReleaseDate": "2018-08-14",
-      "Article": "KB4343892",
+      "Article": "KB4343909",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.527",
+      "Version": "15254.527",
+      "ReleaseDate": "2018-08-14",
+      "Article": "KB4346644 Update for Windows 10 Mobile",
       "Comment": ""
     },
     {
@@ -1409,13 +1416,6 @@
       "Version": "16299.611",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343897",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.228",
-      "Version": "17134.228",
-      "ReleaseDate": "2018-08-14",
-      "Article": "KB4343909",
       "Comment": ""
     },
     {
@@ -1433,24 +1433,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.527",
-      "Version": "15254.527",
+      "Win10Version": "10.0.10240.17946",
+      "Version": "10240.17946",
       "ReleaseDate": "2018-08-14",
-      "Article": "KB4346644 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.637",
-      "Version": "16299.637",
-      "ReleaseDate": "2018-08-30",
-      "Article": "KB4343893",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.2457",
-      "Version": "14393.2457",
-      "ReleaseDate": "2018-08-30",
-      "Article": "KB4343884",
+      "Article": "KB4343892",
       "Comment": ""
     },
     {
@@ -1468,17 +1454,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1324",
-      "Version": "15063.1324",
-      "ReleaseDate": "2018-09-11",
-      "Article": "KB4457138",
+      "Win10Version": "10.0.16299.637",
+      "Version": "16299.637",
+      "ReleaseDate": "2018-08-30",
+      "Article": "KB4343893",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.285",
-      "Version": "17134.285",
-      "ReleaseDate": "2018-09-11",
-      "Article": "KB4457128",
+      "Win10Version": "10.0.14393.2457",
+      "Version": "14393.2457",
+      "ReleaseDate": "2018-08-30",
+      "Article": "KB4343884",
       "Comment": ""
     },
     {
@@ -1489,6 +1475,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.285",
+      "Version": "17134.285",
+      "ReleaseDate": "2018-09-11",
+      "Article": "KB4457128",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.665",
       "Version": "16299.665",
       "ReleaseDate": "2018-09-11",
@@ -1496,10 +1489,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.17976",
-      "Version": "10240.17976",
+      "Win10Version": "10.0.15063.1324",
+      "Version": "15063.1324",
       "ReleaseDate": "2018-09-11",
-      "Article": "KB4457132",
+      "Article": "KB4457138",
       "Comment": ""
     },
     {
@@ -1510,10 +1503,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.286",
-      "Version": "17134.286",
-      "ReleaseDate": "2018-09-17",
-      "Article": "KB4464218",
+      "Win10Version": "10.0.10240.17976",
+      "Version": "10240.17976",
+      "ReleaseDate": "2018-09-11",
+      "Article": "KB4457132",
       "Comment": ""
     },
     {
@@ -1524,10 +1517,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2515",
-      "Version": "14393.2515",
-      "ReleaseDate": "2018-09-20",
-      "Article": "KB4457127",
+      "Win10Version": "10.0.17134.286",
+      "Version": "17134.286",
+      "ReleaseDate": "2018-09-17",
+      "Article": "KB4464218",
       "Comment": ""
     },
     {
@@ -1535,6 +1528,13 @@
       "Version": "15063.1358",
       "ReleaseDate": "2018-09-20",
       "Article": "KB4457141",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.2515",
+      "Version": "14393.2515",
+      "ReleaseDate": "2018-09-20",
+      "Article": "KB4457127",
       "Comment": ""
     },
     {
@@ -1552,24 +1552,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.726",
-      "Version": "16299.726",
-      "ReleaseDate": "2018-10-09",
-      "Article": "KB4462918",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.538",
-      "Version": "15254.538",
-      "ReleaseDate": "2018-10-09",
-      "Article": "KB4464853 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.2551",
       "Version": "14393.2551",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462917",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.726",
+      "Version": "16299.726",
+      "ReleaseDate": "2018-10-09",
+      "Article": "KB4462918",
       "Comment": ""
     },
     {
@@ -1580,17 +1573,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18005",
-      "Version": "10240.18005",
-      "ReleaseDate": "2018-10-09",
-      "Article": "KB4462922",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15063.1387",
       "Version": "15063.1387",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462937",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18005",
+      "Version": "10240.18005",
+      "ReleaseDate": "2018-10-09",
+      "Article": "KB4462922",
       "Comment": ""
     },
     {
@@ -1601,10 +1594,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1418",
-      "Version": "15063.1418",
+      "Win10Version": "10.0.15254.538",
+      "Version": "15254.538",
+      "ReleaseDate": "2018-10-09",
+      "Article": "KB4464853 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.755",
+      "Version": "16299.755",
       "ReleaseDate": "2018-10-18",
-      "Article": "KB4462939",
+      "Article": "KB4462932",
       "Comment": ""
     },
     {
@@ -1615,10 +1615,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.755",
-      "Version": "16299.755",
+      "Win10Version": "10.0.15063.1418",
+      "Version": "15063.1418",
       "ReleaseDate": "2018-10-18",
-      "Article": "KB4462932",
+      "Article": "KB4462939",
       "Comment": ""
     },
     {
@@ -1636,41 +1636,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2608",
-      "Version": "14393.2608",
-      "ReleaseDate": "2018-11-13",
-      "Article": "KB4467691",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18036",
-      "Version": "10240.18036",
-      "ReleaseDate": "2018-11-13",
-      "Article": "KB4467680",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1446",
-      "Version": "15063.1446",
-      "ReleaseDate": "2018-11-13",
-      "Article": "KB4467696",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.407",
-      "Version": "17134.407",
-      "ReleaseDate": "2018-11-13",
-      "Article": "KB4467702",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.541",
-      "Version": "15254.541",
-      "ReleaseDate": "2018-11-13",
-      "Article": "KB4469220 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17763.134",
       "Version": "17763.134",
       "ReleaseDate": "2018-11-13",
@@ -1685,6 +1650,41 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.2608",
+      "Version": "14393.2608",
+      "ReleaseDate": "2018-11-13",
+      "Article": "KB4467691",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.407",
+      "Version": "17134.407",
+      "ReleaseDate": "2018-11-13",
+      "Article": "KB4467702",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18036",
+      "Version": "10240.18036",
+      "ReleaseDate": "2018-11-13",
+      "Article": "KB4467680",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.541",
+      "Version": "15254.541",
+      "ReleaseDate": "2018-11-13",
+      "Article": "KB4469220 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1446",
+      "Version": "15063.1446",
+      "ReleaseDate": "2018-11-13",
+      "Article": "KB4467696",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.2639",
       "Version": "14393.2639",
       "ReleaseDate": "2018-11-27",
@@ -1692,17 +1692,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1478",
-      "Version": "15063.1478",
-      "ReleaseDate": "2018-11-27",
-      "Article": "KB4467699",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.16299.820",
       "Version": "16299.820",
       "ReleaseDate": "2018-11-27",
       "Article": "KB4467681",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1478",
+      "Version": "15063.1478",
+      "ReleaseDate": "2018-11-27",
+      "Article": "KB4467699",
       "Comment": ""
     },
     {
@@ -1727,45 +1727,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2665",
-      "Version": "14393.2665",
-      "ReleaseDate": "2018-12-11",
-      "Article": "KB4471321",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.471",
-      "Version": "17134.471",
-      "ReleaseDate": "2018-12-11",
-      "Article": "KB4471324",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17763.194",
       "Version": "17763.194",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471332",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.544",
-      "Version": "15254.544",
-      "ReleaseDate": "2018-12-11",
-      "Article": "KB4478936 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18063",
-      "Version": "10240.18063",
-      "ReleaseDate": "2018-12-11",
-      "Article": "KB4471323",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1506",
-      "Version": "15063.1506",
-      "ReleaseDate": "2018-12-11",
-      "Article": "KB4471327",
       "Comment": ""
     },
     {
@@ -1776,38 +1741,38 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1508",
-      "Version": "15063.1508",
-      "ReleaseDate": "2018-12-19",
-      "Article": "KB4483230",
+      "Win10Version": "10.0.15254.544",
+      "Version": "15254.544",
+      "ReleaseDate": "2018-12-11",
+      "Article": "KB4478936 Update for Windows 10 Mobile",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.472",
-      "Version": "17134.472",
-      "ReleaseDate": "2018-12-19",
-      "Article": "KB4483234",
+      "Win10Version": "10.0.14393.2665",
+      "Version": "14393.2665",
+      "ReleaseDate": "2018-12-11",
+      "Article": "KB4471321",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2670",
-      "Version": "14393.2670",
-      "ReleaseDate": "2018-12-19",
-      "Article": "KB4483229",
+      "Win10Version": "10.0.15063.1506",
+      "Version": "15063.1506",
+      "ReleaseDate": "2018-12-11",
+      "Article": "KB4471327",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.195",
-      "Version": "17763.195",
-      "ReleaseDate": "2018-12-19",
-      "Article": "KB4483235",
+      "Win10Version": "10.0.10240.18063",
+      "Version": "10240.18063",
+      "ReleaseDate": "2018-12-11",
+      "Article": "KB4471323",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18064",
-      "Version": "10240.18064",
-      "ReleaseDate": "2018-12-19",
-      "Article": "KB4483228",
+      "Win10Version": "10.0.17134.471",
+      "Version": "17134.471",
+      "ReleaseDate": "2018-12-11",
+      "Article": "KB4471324",
       "Comment": ""
     },
     {
@@ -1818,31 +1783,38 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2724",
-      "Version": "14393.2724",
-      "ReleaseDate": "2019-01-08",
-      "Article": "KB4480961",
+      "Win10Version": "10.0.17134.472",
+      "Version": "17134.472",
+      "ReleaseDate": "2018-12-19",
+      "Article": "KB4483234",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1563",
-      "Version": "15063.1563",
-      "ReleaseDate": "2019-01-08",
-      "Article": "KB4480973",
+      "Win10Version": "10.0.17763.195",
+      "Version": "17763.195",
+      "ReleaseDate": "2018-12-19",
+      "Article": "KB4483235",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.523",
-      "Version": "17134.523",
-      "ReleaseDate": "2019-01-08",
-      "Article": "KB4480966",
+      "Win10Version": "10.0.15063.1508",
+      "Version": "15063.1508",
+      "ReleaseDate": "2018-12-19",
+      "Article": "KB4483230",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.547",
-      "Version": "15254.547",
-      "ReleaseDate": "2019-01-08",
-      "Article": "KB4483203 Update for Windows 10 Mobile",
+      "Win10Version": "10.0.14393.2670",
+      "Version": "14393.2670",
+      "ReleaseDate": "2018-12-19",
+      "Article": "KB4483229",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18064",
+      "Version": "10240.18064",
+      "ReleaseDate": "2018-12-19",
+      "Article": "KB4483228",
       "Comment": ""
     },
     {
@@ -1860,10 +1832,38 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1563",
+      "Version": "15063.1563",
+      "ReleaseDate": "2019-01-08",
+      "Article": "KB4480973",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.2724",
+      "Version": "14393.2724",
+      "ReleaseDate": "2019-01-08",
+      "Article": "KB4480961",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.904",
       "Version": "16299.904",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480978",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.547",
+      "Version": "15254.547",
+      "ReleaseDate": "2019-01-08",
+      "Article": "KB4483203 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.523",
+      "Version": "17134.523",
+      "ReleaseDate": "2019-01-08",
+      "Article": "KB4480966",
       "Comment": ""
     },
     {
@@ -1874,17 +1874,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1596",
-      "Version": "15063.1596",
-      "ReleaseDate": "2019-01-15",
-      "Article": "KB4480959",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.556",
       "Version": "17134.556",
       "ReleaseDate": "2019-01-15",
       "Article": "KB4480976",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1596",
+      "Version": "15063.1596",
+      "ReleaseDate": "2019-01-15",
+      "Article": "KB4480959",
       "Comment": ""
     },
     {
@@ -1902,17 +1902,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1631",
-      "Version": "15063.1631",
+      "Win10Version": "10.0.14393.2791",
+      "Version": "14393.2791",
       "ReleaseDate": "2019-02-12",
-      "Article": "KB4487020",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.552",
-      "Version": "15254.552",
-      "ReleaseDate": "2019-02-12",
-      "Article": "KB4487695 Update for Windows 10 Mobile",
+      "Article": "KB4487026",
       "Comment": ""
     },
     {
@@ -1920,13 +1913,6 @@
       "Version": "16299.967",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4486996",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.2791",
-      "Version": "14393.2791",
-      "ReleaseDate": "2019-02-12",
-      "Article": "KB4487026",
       "Comment": ""
     },
     {
@@ -1944,24 +1930,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1631",
+      "Version": "15063.1631",
+      "ReleaseDate": "2019-02-12",
+      "Article": "KB4487020",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.552",
+      "Version": "15254.552",
+      "ReleaseDate": "2019-02-12",
+      "Article": "KB4487695 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17134.590",
       "Version": "17134.590",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487017",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1004",
-      "Version": "16299.1004",
-      "ReleaseDate": "2019-02-19",
-      "Article": "KB4487021",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.619",
-      "Version": "17134.619",
-      "ReleaseDate": "2019-02-19",
-      "Article": "KB4487029",
       "Comment": ""
     },
     {
@@ -1979,6 +1965,20 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.619",
+      "Version": "17134.619",
+      "ReleaseDate": "2019-02-19",
+      "Article": "KB4487029",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1004",
+      "Version": "16299.1004",
+      "ReleaseDate": "2019-02-19",
+      "Article": "KB4487021",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.10240.18135",
       "Version": "10240.18135",
       "ReleaseDate": "2019-02-21",
@@ -1993,13 +1993,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.1029",
-      "Version": "16299.1029",
-      "ReleaseDate": "2019-03-12",
-      "Article": "KB4489886",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.648",
       "Version": "17134.648",
       "ReleaseDate": "2019-03-12",
@@ -2007,17 +2000,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.556",
-      "Version": "15254.556",
+      "Win10Version": "10.0.16299.1029",
+      "Version": "16299.1029",
       "ReleaseDate": "2019-03-12",
-      "Article": "KB4491736 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1689",
-      "Version": "15063.1689",
-      "ReleaseDate": "2019-03-12",
-      "Article": "KB4489871",
+      "Article": "KB4489886",
       "Comment": ""
     },
     {
@@ -2035,6 +2021,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15254.556",
+      "Version": "15254.556",
+      "ReleaseDate": "2019-03-12",
+      "Article": "KB4491736 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.379",
       "Version": "17763.379",
       "ReleaseDate": "2019-03-12",
@@ -2042,17 +2035,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1716",
-      "Version": "15063.1716",
-      "ReleaseDate": "2019-03-19",
-      "Article": "KB4489888",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.2879",
-      "Version": "14393.2879",
-      "ReleaseDate": "2019-03-19",
-      "Article": "KB4489889",
+      "Win10Version": "10.0.15063.1689",
+      "Version": "15063.1689",
+      "ReleaseDate": "2019-03-12",
+      "Article": "KB4489871",
       "Comment": ""
     },
     {
@@ -2063,6 +2049,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.2879",
+      "Version": "14393.2879",
+      "ReleaseDate": "2019-03-19",
+      "Article": "KB4489889",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.1059",
       "Version": "16299.1059",
       "ReleaseDate": "2019-03-19",
@@ -2070,24 +2063,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.1716",
+      "Version": "15063.1716",
+      "ReleaseDate": "2019-03-19",
+      "Article": "KB4489888",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.402",
       "Version": "17763.402",
       "ReleaseDate": "2019-03-26",
       "Article": "KB4490481",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1087",
-      "Version": "16299.1087",
-      "ReleaseDate": "2019-04-09",
-      "Article": "KB4493441",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.706",
-      "Version": "17134.706",
-      "ReleaseDate": "2019-04-09",
-      "Article": "KB4493464",
       "Comment": ""
     },
     {
@@ -2105,17 +2091,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.706",
+      "Version": "17134.706",
+      "ReleaseDate": "2019-04-09",
+      "Article": "KB4493464",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1087",
+      "Version": "16299.1087",
+      "ReleaseDate": "2019-04-09",
+      "Article": "KB4493441",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.10240.18186",
       "Version": "10240.18186",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493475",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.437",
-      "Version": "17763.437",
-      "ReleaseDate": "2019-04-09",
-      "Article": "KB4493509",
       "Comment": ""
     },
     {
@@ -2126,10 +2119,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18187",
-      "Version": "10240.18187",
+      "Win10Version": "10.0.17763.437",
+      "Version": "17763.437",
+      "ReleaseDate": "2019-04-09",
+      "Article": "KB4493509",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1784",
+      "Version": "15063.1784",
       "ReleaseDate": "2019-04-25",
-      "Article": "KB4498375",
+      "Article": "KB4493436",
       "Comment": ""
     },
     {
@@ -2154,10 +2154,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1784",
-      "Version": "15063.1784",
+      "Win10Version": "10.0.10240.18187",
+      "Version": "10240.18187",
       "ReleaseDate": "2019-04-25",
-      "Article": "KB4493436",
+      "Article": "KB4498375",
       "Comment": ""
     },
     {
@@ -2182,31 +2182,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2969",
-      "Version": "14393.2969",
+      "Win10Version": "10.0.17763.503",
+      "Version": "17763.503",
       "ReleaseDate": "2019-05-14",
-      "Article": "KB4494440",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18215",
-      "Version": "10240.18215",
-      "ReleaseDate": "2019-05-14",
-      "Article": "KB4499154",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1146",
-      "Version": "16299.1146",
-      "ReleaseDate": "2019-05-14",
-      "Article": "KB4499179",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.765",
-      "Version": "17134.765",
-      "ReleaseDate": "2019-05-14",
-      "Article": "KB4499167",
+      "Article": "KB4494441",
       "Comment": ""
     },
     {
@@ -2217,6 +2196,20 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.2969",
+      "Version": "14393.2969",
+      "ReleaseDate": "2019-05-14",
+      "Article": "KB4494440",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.765",
+      "Version": "17134.765",
+      "ReleaseDate": "2019-05-14",
+      "Article": "KB4499167",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15254.566",
       "Version": "15254.566",
       "ReleaseDate": "2019-05-14",
@@ -2224,17 +2217,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.503",
-      "Version": "17763.503",
+      "Win10Version": "10.0.16299.1146",
+      "Version": "16299.1146",
       "ReleaseDate": "2019-05-14",
-      "Article": "KB4494441",
+      "Article": "KB4499179",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1808",
-      "Version": "15063.1808",
-      "ReleaseDate": "2019-05-19",
-      "Article": "KB4505055",
+      "Win10Version": "10.0.10240.18215",
+      "Version": "10240.18215",
+      "ReleaseDate": "2019-05-14",
+      "Article": "KB4499154",
       "Comment": ""
     },
     {
@@ -2252,13 +2245,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.2972",
-      "Version": "14393.2972",
-      "ReleaseDate": "2019-05-19",
-      "Article": "KB4505052",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.766",
       "Version": "17134.766",
       "ReleaseDate": "2019-05-19",
@@ -2266,10 +2252,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.2972",
+      "Version": "14393.2972",
+      "ReleaseDate": "2019-05-19",
+      "Article": "KB4505052",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.504",
       "Version": "17763.504",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505056",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1808",
+      "Version": "15063.1808",
+      "ReleaseDate": "2019-05-19",
+      "Article": "KB4505055",
       "Comment": ""
     },
     {
@@ -2315,17 +2315,38 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18244",
-      "Version": "10240.18244",
-      "ReleaseDate": "2019-06-11",
-      "Article": "KB4503291",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15254.572",
       "Version": "15254.572",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4505390 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.557",
+      "Version": "17763.557",
+      "ReleaseDate": "2019-06-11",
+      "Article": "KB4503327",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1868",
+      "Version": "15063.1868",
+      "ReleaseDate": "2019-06-11",
+      "Article": "KB4503279",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3025",
+      "Version": "14393.3025",
+      "ReleaseDate": "2019-06-11",
+      "Article": "KB4503267",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.829",
+      "Version": "17134.829",
+      "ReleaseDate": "2019-06-11",
+      "Article": "KB4503286",
       "Comment": ""
     },
     {
@@ -2343,31 +2364,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1868",
-      "Version": "15063.1868",
+      "Win10Version": "10.0.10240.18244",
+      "Version": "10240.18244",
       "ReleaseDate": "2019-06-11",
-      "Article": "KB4503279",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.829",
-      "Version": "17134.829",
-      "ReleaseDate": "2019-06-11",
-      "Article": "KB4503286",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3025",
-      "Version": "14393.3025",
-      "ReleaseDate": "2019-06-11",
-      "Article": "KB4503267",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.557",
-      "Version": "17763.557",
-      "ReleaseDate": "2019-06-11",
-      "Article": "KB4503327",
+      "Article": "KB4503291",
       "Comment": ""
     },
     {
@@ -2378,10 +2378,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.858",
+      "Version": "17134.858",
+      "ReleaseDate": "2019-06-18",
+      "Article": "KB4503288",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.1237",
       "Version": "16299.1237",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4503281",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3053",
+      "Version": "14393.3053",
+      "ReleaseDate": "2019-06-18",
+      "Article": "KB4503294",
       "Comment": ""
     },
     {
@@ -2392,17 +2406,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.858",
-      "Version": "17134.858",
-      "ReleaseDate": "2019-06-18",
-      "Article": "KB4503288",
+      "Win10Version": "10.0.15063.1898",
+      "Version": "15063.1898",
+      "ReleaseDate": "2019-06-26",
+      "Article": "KB4509476",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.3053",
-      "Version": "14393.3053",
-      "ReleaseDate": "2019-06-18",
-      "Article": "KB4503294",
+      "Win10Version": "10.0.17134.860",
+      "Version": "17134.860",
+      "ReleaseDate": "2019-06-26",
+      "Article": "KB4509478",
       "Comment": ""
     },
     {
@@ -2420,17 +2434,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.860",
-      "Version": "17134.860",
-      "ReleaseDate": "2019-06-26",
-      "Article": "KB4509478",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1898",
-      "Version": "15063.1898",
-      "ReleaseDate": "2019-06-26",
-      "Article": "KB4509476",
+      "Win10Version": "10.0.14393.3056",
+      "Version": "14393.3056",
+      "ReleaseDate": "2019-06-27",
+      "Article": "KB4509475",
       "Comment": ""
     },
     {
@@ -2441,10 +2448,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.3056",
-      "Version": "14393.3056",
-      "ReleaseDate": "2019-06-27",
-      "Article": "KB4509475",
+      "Win10Version": "10.0.17763.615",
+      "Version": "17763.615",
+      "ReleaseDate": "2019-07-09",
+      "Article": "KB4507469",
       "Comment": ""
     },
     {
@@ -2455,17 +2462,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.575",
-      "Version": "15254.575",
+      "Win10Version": "10.0.15063.1928",
+      "Version": "15063.1928",
       "ReleaseDate": "2019-07-09",
-      "Article": "KB4509104 Update for Windows 10 Mobile ",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1268",
-      "Version": "16299.1268",
-      "ReleaseDate": "2019-07-09",
-      "Article": "KB4507455",
+      "Article": "KB4507450",
       "Comment": ""
     },
     {
@@ -2483,17 +2483,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.615",
-      "Version": "17763.615",
+      "Win10Version": "10.0.16299.1268",
+      "Version": "16299.1268",
       "ReleaseDate": "2019-07-09",
-      "Article": "KB4507469",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.1928",
-      "Version": "15063.1928",
-      "ReleaseDate": "2019-07-09",
-      "Article": "KB4507450",
+      "Article": "KB4507455",
       "Comment": ""
     },
     {
@@ -2504,10 +2497,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.1955",
-      "Version": "15063.1955",
-      "ReleaseDate": "2019-07-16",
-      "Article": "KB4507467",
+      "Win10Version": "10.0.15254.575",
+      "Version": "15254.575",
+      "ReleaseDate": "2019-07-09",
+      "Article": "KB4509104 Update for Windows 10 Mobile ",
       "Comment": ""
     },
     {
@@ -2515,6 +2508,13 @@
       "Version": "14393.3115",
       "ReleaseDate": "2019-07-16",
       "Article": "KB4507459",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.1955",
+      "Version": "15063.1955",
+      "ReleaseDate": "2019-07-16",
+      "Article": "KB4507467",
       "Comment": ""
     },
     {
@@ -2546,24 +2546,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15254.582",
+      "Version": "15254.582",
+      "ReleaseDate": "2019-08-13",
+      "Article": "KB4513172 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.1331",
       "Version": "16299.1331",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512516",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.950",
-      "Version": "17134.950",
-      "ReleaseDate": "2019-08-13",
-      "Article": "KB4512501",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18362.295",
-      "Version": "18362.295",
-      "ReleaseDate": "2019-08-13",
-      "Article": "KB4512508",
       "Comment": ""
     },
     {
@@ -2574,24 +2567,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.678",
-      "Version": "17763.678",
-      "ReleaseDate": "2019-08-13",
-      "Article": "KB4511553",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.582",
-      "Version": "15254.582",
-      "ReleaseDate": "2019-08-13",
-      "Article": "KB4513172 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.18305",
       "Version": "10240.18305",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512497",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18362.295",
+      "Version": "18362.295",
+      "ReleaseDate": "2019-08-13",
+      "Article": "KB4512508",
       "Comment": ""
     },
     {
@@ -2602,24 +2588,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17763.678",
+      "Version": "17763.678",
+      "ReleaseDate": "2019-08-13",
+      "Article": "KB4511553",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.950",
+      "Version": "17134.950",
+      "ReleaseDate": "2019-08-13",
+      "Article": "KB4512501",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.1365",
       "Version": "16299.1365",
       "ReleaseDate": "2019-08-16",
       "Article": "KB4512494",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3181",
-      "Version": "14393.3181",
-      "ReleaseDate": "2019-08-17",
-      "Article": "KB4512495",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2021",
-      "Version": "15063.2021",
-      "ReleaseDate": "2019-08-17",
-      "Article": "KB4512474",
       "Comment": ""
     },
     {
@@ -2630,10 +2616,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.2021",
+      "Version": "15063.2021",
+      "ReleaseDate": "2019-08-17",
+      "Article": "KB4512474",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.720",
       "Version": "17763.720",
       "ReleaseDate": "2019-08-17",
       "Article": "KB4512534",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3181",
+      "Version": "14393.3181",
+      "ReleaseDate": "2019-08-17",
+      "Article": "KB4512495",
       "Comment": ""
     },
     {
@@ -2651,6 +2651,41 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.2045",
+      "Version": "15063.2045",
+      "ReleaseDate": "2019-09-10",
+      "Article": "KB4516068",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.587",
+      "Version": "15254.587",
+      "ReleaseDate": "2019-09-10",
+      "Article": "KB4518514 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1387",
+      "Version": "16299.1387",
+      "ReleaseDate": "2019-09-10",
+      "Article": "KB4516066",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18333",
+      "Version": "10240.18333",
+      "ReleaseDate": "2019-09-10",
+      "Article": "KB4516070",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3204",
+      "Version": "14393.3204",
+      "ReleaseDate": "2019-09-10",
+      "Article": "KB4516044",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.737",
       "Version": "17763.737",
       "ReleaseDate": "2019-09-10",
@@ -2665,52 +2700,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15254.587",
-      "Version": "15254.587",
-      "ReleaseDate": "2019-09-10",
-      "Article": "KB4518514 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18333",
-      "Version": "10240.18333",
-      "ReleaseDate": "2019-09-10",
-      "Article": "KB4516070",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1387",
-      "Version": "16299.1387",
-      "ReleaseDate": "2019-09-10",
-      "Article": "KB4516066",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2045",
-      "Version": "15063.2045",
-      "ReleaseDate": "2019-09-10",
-      "Article": "KB4516068",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.18362.356",
       "Version": "18362.356",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4515384",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3204",
-      "Version": "14393.3204",
-      "ReleaseDate": "2019-09-10",
-      "Article": "KB4516044",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1392",
-      "Version": "16299.1392",
-      "ReleaseDate": "2019-09-23",
-      "Article": "KB4522012",
       "Comment": ""
     },
     {
@@ -2721,17 +2714,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1009",
-      "Version": "17134.1009",
+      "Win10Version": "10.0.17763.740",
+      "Version": "17763.740",
       "ReleaseDate": "2019-09-23",
-      "Article": "KB4522014",
+      "Article": "KB4522015",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18334",
-      "Version": "10240.18334",
+      "Win10Version": "10.0.16299.1392",
+      "Version": "16299.1392",
       "ReleaseDate": "2019-09-23",
-      "Article": "KB4522009",
+      "Article": "KB4522012",
       "Comment": ""
     },
     {
@@ -2742,13 +2735,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.740",
-      "Version": "17763.740",
-      "ReleaseDate": "2019-09-23",
-      "Article": "KB4522015",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.3206",
       "Version": "14393.3206",
       "ReleaseDate": "2019-09-23",
@@ -2756,24 +2742,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1039",
-      "Version": "17134.1039",
-      "ReleaseDate": "2019-09-24",
-      "Article": "KB4516045",
+      "Win10Version": "10.0.10240.18334",
+      "Version": "10240.18334",
+      "ReleaseDate": "2019-09-23",
+      "Article": "KB4522009",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.774",
-      "Version": "17763.774",
-      "ReleaseDate": "2019-09-24",
-      "Article": "KB4516077",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3242",
-      "Version": "14393.3242",
-      "ReleaseDate": "2019-09-24",
-      "Article": "KB4516061",
+      "Win10Version": "10.0.17134.1009",
+      "Version": "17134.1009",
+      "ReleaseDate": "2019-09-23",
+      "Article": "KB4522014",
       "Comment": ""
     },
     {
@@ -2784,10 +2763,31 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17763.774",
+      "Version": "17763.774",
+      "ReleaseDate": "2019-09-24",
+      "Article": "KB4516077",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.1039",
+      "Version": "17134.1039",
+      "ReleaseDate": "2019-09-24",
+      "Article": "KB4516045",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.15063.2078",
       "Version": "15063.2078",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516059",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3242",
+      "Version": "14393.3242",
+      "ReleaseDate": "2019-09-24",
+      "Article": "KB4516061",
       "Comment": ""
     },
     {
@@ -2798,10 +2798,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.2079",
-      "Version": "15063.2079",
+      "Win10Version": "10.0.18362.388",
+      "Version": "18362.388",
       "ReleaseDate": "2019-10-03",
-      "Article": "KB4524151",
+      "Article": "KB4524147",
       "Comment": ""
     },
     {
@@ -2812,17 +2812,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.388",
-      "Version": "18362.388",
+      "Win10Version": "10.0.14393.3243",
+      "Version": "14393.3243",
       "ReleaseDate": "2019-10-03",
-      "Article": "KB4524147",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.1040",
-      "Version": "17134.1040",
-      "ReleaseDate": "2019-10-03",
-      "Article": "KB4524149",
+      "Article": "KB4524152",
       "Comment": ""
     },
     {
@@ -2840,24 +2833,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.3243",
-      "Version": "14393.3243",
+      "Win10Version": "10.0.15063.2079",
+      "Version": "15063.2079",
       "ReleaseDate": "2019-10-03",
-      "Article": "KB4524152",
+      "Article": "KB4524151",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18368",
-      "Version": "10240.18368",
-      "ReleaseDate": "2019-10-08",
-      "Article": "KB4520011",
+      "Win10Version": "10.0.17134.1040",
+      "Version": "17134.1040",
+      "ReleaseDate": "2019-10-03",
+      "Article": "KB4524149",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.805",
-      "Version": "17763.805",
+      "Win10Version": "10.0.18362.418",
+      "Version": "18362.418",
       "ReleaseDate": "2019-10-08",
-      "Article": "KB4519338",
+      "Article": "KB4517389",
       "Comment": ""
     },
     {
@@ -2868,17 +2861,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17763.805",
+      "Version": "17763.805",
+      "ReleaseDate": "2019-10-08",
+      "Article": "KB4519338",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.1451",
       "Version": "16299.1451",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4520004",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3274",
-      "Version": "14393.3274",
-      "ReleaseDate": "2019-10-08",
-      "Article": "KB4519998",
       "Comment": ""
     },
     {
@@ -2896,10 +2889,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.418",
-      "Version": "18362.418",
+      "Win10Version": "10.0.10240.18368",
+      "Version": "10240.18368",
       "ReleaseDate": "2019-10-08",
-      "Article": "KB4517389",
+      "Article": "KB4520011",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3274",
+      "Version": "14393.3274",
+      "ReleaseDate": "2019-10-08",
+      "Article": "KB4519998",
       "Comment": ""
     },
     {
@@ -2917,13 +2917,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.832",
-      "Version": "17763.832",
-      "ReleaseDate": "2019-10-15",
-      "Article": "KB4520062",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17134.1099",
       "Version": "17134.1099",
       "ReleaseDate": "2019-10-15",
@@ -2931,10 +2924,31 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17763.832",
+      "Version": "17763.832",
+      "ReleaseDate": "2019-10-15",
+      "Article": "KB4520062",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.18362.449",
       "Version": "18362.449",
       "ReleaseDate": "2019-10-24",
       "Article": "KB4522355",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.1130",
+      "Version": "17134.1130",
+      "ReleaseDate": "2019-11-12",
+      "Article": "KB4525237",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.864",
+      "Version": "17763.864",
+      "ReleaseDate": "2019-11-12",
+      "Article": "KB4523205",
       "Comment": ""
     },
     {
@@ -2952,17 +2966,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.864",
-      "Version": "17763.864",
+      "Win10Version": "10.0.15254.597",
+      "Version": "15254.597",
       "ReleaseDate": "2019-11-12",
-      "Article": "KB4523205",
+      "Article": "KB4522811 Update for Windows 10 Mobile",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.3326",
-      "Version": "14393.3326",
+      "Win10Version": "10.0.10240.18395",
+      "Version": "10240.18395",
       "ReleaseDate": "2019-11-12",
-      "Article": "KB4525236",
+      "Article": "KB4525232",
       "Comment": ""
     },
     {
@@ -2980,59 +2994,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1130",
-      "Version": "17134.1130",
+      "Win10Version": "10.0.14393.3326",
+      "Version": "14393.3326",
       "ReleaseDate": "2019-11-12",
-      "Article": "KB4525237",
+      "Article": "KB4525236",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18395",
-      "Version": "10240.18395",
-      "ReleaseDate": "2019-11-12",
-      "Article": "KB4525232",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.597",
-      "Version": "15254.597",
-      "ReleaseDate": "2019-11-12",
-      "Article": "KB4522811 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.1184",
-      "Version": "17134.1184",
+      "Win10Version": "10.0.18362.535",
+      "Version": "18362.535",
       "ReleaseDate": "2019-12-10",
-      "Article": "KB4530717",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1565",
-      "Version": "16299.1565",
-      "ReleaseDate": "2019-12-10",
-      "Article": "KB4530714",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15254.600",
-      "Version": "15254.600",
-      "ReleaseDate": "2019-12-10",
-      "Article": "KB4522812 Update for Windows 10 Mobile",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3384",
-      "Version": "14393.3384",
-      "ReleaseDate": "2019-12-10",
-      "Article": "KB4530689",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18427",
-      "Version": "10240.18427",
-      "ReleaseDate": "2019-12-10",
-      "Article": "KB4530681",
+      "Article": "KB4530684",
       "Comment": ""
     },
     {
@@ -3050,10 +3022,31 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.535",
-      "Version": "18362.535",
+      "Win10Version": "10.0.10240.18427",
+      "Version": "10240.18427",
       "ReleaseDate": "2019-12-10",
-      "Article": "KB4530684",
+      "Article": "KB4530681",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3384",
+      "Version": "14393.3384",
+      "ReleaseDate": "2019-12-10",
+      "Article": "KB4530689",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15254.600",
+      "Version": "15254.600",
+      "ReleaseDate": "2019-12-10",
+      "Article": "KB4522812 Update for Windows 10 Mobile",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1565",
+      "Version": "16299.1565",
+      "ReleaseDate": "2019-12-10",
+      "Article": "KB4530714",
       "Comment": ""
     },
     {
@@ -3064,17 +3057,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.1625",
-      "Version": "16299.1625",
-      "ReleaseDate": "2020-01-14",
-      "Article": "KB4534276",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18362.592",
-      "Version": "18362.592",
-      "ReleaseDate": "2020-01-14",
-      "Article": "KB4528760",
+      "Win10Version": "10.0.17134.1184",
+      "Version": "17134.1184",
+      "ReleaseDate": "2019-12-10",
+      "Article": "KB4530717",
       "Comment": ""
     },
     {
@@ -3085,17 +3071,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18453",
-      "Version": "10240.18453",
+      "Win10Version": "10.0.18362.592",
+      "Version": "18362.592",
       "ReleaseDate": "2020-01-14",
-      "Article": "KB4534306",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.973",
-      "Version": "17763.973",
-      "ReleaseDate": "2020-01-14",
-      "Article": "KB4534273",
+      "Article": "KB4528760",
       "Comment": ""
     },
     {
@@ -3106,10 +3085,24 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.1246",
+      "Version": "17134.1246",
+      "ReleaseDate": "2020-01-14",
+      "Article": "KB4534293",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.3443",
       "Version": "14393.3443",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534271",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1625",
+      "Version": "16299.1625",
+      "ReleaseDate": "2020-01-14",
+      "Article": "KB4534276",
       "Comment": ""
     },
     {
@@ -3120,31 +3113,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1246",
-      "Version": "17134.1246",
+      "Win10Version": "10.0.17763.973",
+      "Version": "17763.973",
       "ReleaseDate": "2020-01-14",
-      "Article": "KB4534293",
+      "Article": "KB4534273",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.1012",
-      "Version": "17763.1012",
-      "ReleaseDate": "2020-01-23",
-      "Article": "KB4534321",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3474",
-      "Version": "14393.3474",
-      "ReleaseDate": "2020-01-23",
-      "Article": "KB4534307",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1654",
-      "Version": "16299.1654",
-      "ReleaseDate": "2020-01-23",
-      "Article": "KB4534318",
+      "Win10Version": "10.0.10240.18453",
+      "Version": "10240.18453",
+      "ReleaseDate": "2020-01-14",
+      "Article": "KB4534306",
       "Comment": ""
     },
     {
@@ -3155,10 +3134,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.628",
-      "Version": "18363.628",
-      "ReleaseDate": "2020-01-28",
-      "Article": "KB4532695",
+      "Win10Version": "10.0.14393.3474",
+      "Version": "14393.3474",
+      "ReleaseDate": "2020-01-23",
+      "Article": "KB4534307",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1012",
+      "Version": "17763.1012",
+      "ReleaseDate": "2020-01-23",
+      "Article": "KB4534321",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1654",
+      "Version": "16299.1654",
+      "ReleaseDate": "2020-01-23",
+      "Article": "KB4534318",
       "Comment": ""
     },
     {
@@ -3169,10 +3162,38 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18486",
-      "Version": "10240.18486",
+      "Win10Version": "10.0.18363.628",
+      "Version": "18363.628",
+      "ReleaseDate": "2020-01-28",
+      "Article": "KB4532695",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3504",
+      "Version": "14393.3504",
       "ReleaseDate": "2020-02-11",
-      "Article": "KB4537776",
+      "Article": "KB4537764",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.1304",
+      "Version": "17134.1304",
+      "ReleaseDate": "2020-02-11",
+      "Article": "KB4537762",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.657",
+      "Version": "18363.657",
+      "ReleaseDate": "2020-02-11",
+      "Article": "KB4532693",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.2284",
+      "Version": "15063.2284",
+      "ReleaseDate": "2020-02-11",
+      "Article": "KB4537765",
       "Comment": ""
     },
     {
@@ -3190,13 +3211,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.657",
-      "Version": "18363.657",
-      "ReleaseDate": "2020-02-11",
-      "Article": "KB4532693",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17763.1039",
       "Version": "17763.1039",
       "ReleaseDate": "2020-02-11",
@@ -3204,38 +3218,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1304",
-      "Version": "17134.1304",
+      "Win10Version": "10.0.10240.18486",
+      "Version": "10240.18486",
       "ReleaseDate": "2020-02-11",
-      "Article": "KB4537762",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3504",
-      "Version": "14393.3504",
-      "ReleaseDate": "2020-02-11",
-      "Article": "KB4537764",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2284",
-      "Version": "15063.2284",
-      "ReleaseDate": "2020-02-11",
-      "Article": "KB4537765",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1717",
-      "Version": "16299.1717",
-      "ReleaseDate": "2020-02-25",
-      "Article": "KB4537816",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3542",
-      "Version": "14393.3542",
-      "ReleaseDate": "2020-02-25",
-      "Article": "KB4537806",
+      "Article": "KB4537776",
       "Comment": ""
     },
     {
@@ -3253,10 +3239,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.693",
-      "Version": "18363.693",
-      "ReleaseDate": "2020-02-27",
-      "Article": "KB4535996",
+      "Win10Version": "10.0.14393.3542",
+      "Version": "14393.3542",
+      "ReleaseDate": "2020-02-25",
+      "Article": "KB4537806",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1717",
+      "Version": "16299.1717",
+      "ReleaseDate": "2020-02-25",
+      "Article": "KB4537816",
       "Comment": ""
     },
     {
@@ -3264,6 +3257,41 @@
       "Version": "18362.693",
       "ReleaseDate": "2020-02-27",
       "Article": "KB4535996",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.693",
+      "Version": "18363.693",
+      "ReleaseDate": "2020-02-27",
+      "Article": "KB4535996",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3564",
+      "Version": "14393.3564",
+      "ReleaseDate": "2020-03-10",
+      "Article": "KB4540670",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.719",
+      "Version": "18363.719",
+      "ReleaseDate": "2020-03-10",
+      "Article": "KB4540673",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1098",
+      "Version": "17763.1098",
+      "ReleaseDate": "2020-03-10",
+      "Article": "KB4538461",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.2313",
+      "Version": "15063.2313",
+      "ReleaseDate": "2020-03-10",
+      "Article": "KB4540705",
       "Comment": ""
     },
     {
@@ -3281,17 +3309,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.719",
-      "Version": "18363.719",
+      "Win10Version": "10.0.10240.18519",
+      "Version": "10240.18519",
       "ReleaseDate": "2020-03-10",
-      "Article": "KB4540673",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2313",
-      "Version": "15063.2313",
-      "ReleaseDate": "2020-03-10",
-      "Article": "KB4540705",
+      "Article": "KB4540693",
       "Comment": ""
     },
     {
@@ -3302,24 +3323,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18519",
-      "Version": "10240.18519",
-      "ReleaseDate": "2020-03-10",
-      "Article": "KB4540693",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1098",
-      "Version": "17763.1098",
-      "ReleaseDate": "2020-03-10",
-      "Article": "KB4538461",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3564",
-      "Version": "14393.3564",
-      "ReleaseDate": "2020-03-10",
-      "Article": "KB4540670",
+      "Win10Version": "10.0.18362.720",
+      "Version": "18362.720",
+      "ReleaseDate": "2020-03-12",
+      "Article": "KB4551762",
       "Comment": ""
     },
     {
@@ -3330,24 +3337,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.720",
-      "Version": "18362.720",
-      "ReleaseDate": "2020-03-12",
-      "Article": "KB4551762",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1775",
-      "Version": "16299.1775",
+      "Win10Version": "10.0.17134.1399",
+      "Version": "17134.1399",
       "ReleaseDate": "2020-03-17",
-      "Article": "KB4541330",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3595",
-      "Version": "14393.3595",
-      "ReleaseDate": "2020-03-17",
-      "Article": "KB4541329",
+      "Article": "KB4541333",
       "Comment": ""
     },
     {
@@ -3358,10 +3351,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1399",
-      "Version": "17134.1399",
+      "Win10Version": "10.0.14393.3595",
+      "Version": "14393.3595",
       "ReleaseDate": "2020-03-17",
-      "Article": "KB4541333",
+      "Article": "KB4541329",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1775",
+      "Version": "16299.1775",
+      "ReleaseDate": "2020-03-17",
+      "Article": "KB4541330",
       "Comment": ""
     },
     {
@@ -3379,20 +3379,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.753",
-      "Version": "18362.753",
-      "ReleaseDate": "2020-03-30",
-      "Article": "KB4554364",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1132",
-      "Version": "17763.1132",
-      "ReleaseDate": "2020-03-30",
-      "Article": "KB4554354",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.16299.1776",
       "Version": "16299.1776",
       "ReleaseDate": "2020-03-30",
@@ -3407,6 +3393,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.18362.753",
+      "Version": "18362.753",
+      "ReleaseDate": "2020-03-30",
+      "Article": "KB4554364",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.18363.753",
       "Version": "18363.753",
       "ReleaseDate": "2020-03-30",
@@ -3414,17 +3407,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.2346",
-      "Version": "15063.2346",
-      "ReleaseDate": "2020-04-14",
-      "Article": "KB4550939",
+      "Win10Version": "10.0.17763.1132",
+      "Version": "17763.1132",
+      "ReleaseDate": "2020-03-30",
+      "Article": "KB4554354",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.1806",
-      "Version": "16299.1806",
+      "Win10Version": "10.0.18363.778",
+      "Version": "18363.778",
       "ReleaseDate": "2020-04-14",
-      "Article": "KB4550927",
+      "Article": "KB4549951",
       "Comment": ""
     },
     {
@@ -3435,10 +3428,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.778",
-      "Version": "18363.778",
+      "Win10Version": "10.0.10240.18545",
+      "Version": "10240.18545",
       "ReleaseDate": "2020-04-14",
-      "Article": "KB4549951",
+      "Article": "KB4550930",
       "Comment": ""
     },
     {
@@ -3463,10 +3456,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18545",
-      "Version": "10240.18545",
+      "Win10Version": "10.0.15063.2346",
+      "Version": "15063.2346",
       "ReleaseDate": "2020-04-14",
-      "Article": "KB4550930",
+      "Article": "KB4550939",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.1806",
+      "Version": "16299.1806",
+      "ReleaseDate": "2020-04-14",
+      "Article": "KB4550927",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.815",
+      "Version": "18363.815",
+      "ReleaseDate": "2020-04-21",
+      "Article": "KB4550945",
       "Comment": ""
     },
     {
@@ -3484,13 +3491,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.815",
-      "Version": "18363.815",
-      "ReleaseDate": "2020-04-21",
-      "Article": "KB4550945",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.18362.815",
       "Version": "18362.815",
       "ReleaseDate": "2020-04-21",
@@ -3505,13 +3505,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1488",
-      "Version": "17134.1488",
-      "ReleaseDate": "2020-05-12",
-      "Article": "KB4556807",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.18575",
       "Version": "10240.18575",
       "ReleaseDate": "2020-05-12",
@@ -3519,15 +3512,29 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.836",
-      "Version": "18363.836",
+      "Win10Version": "10.0.15063.2375",
+      "Version": "15063.2375",
       "ReleaseDate": "2020-05-12",
-      "Article": "KB4556799",
+      "Article": "KB4556804",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1217",
+      "Version": "17763.1217",
+      "ReleaseDate": "2020-05-12",
+      "Article": "KB4551853",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.18362.836",
       "Version": "18362.836",
+      "ReleaseDate": "2020-05-12",
+      "Article": "KB4556799",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.836",
+      "Version": "18363.836",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556799",
       "Comment": ""
@@ -3540,24 +3547,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17134.1488",
+      "Version": "17134.1488",
+      "ReleaseDate": "2020-05-12",
+      "Article": "KB4556807",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.3686",
       "Version": "14393.3686",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556813",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1217",
-      "Version": "17763.1217",
-      "ReleaseDate": "2020-05-12",
-      "Article": "KB4551853",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2375",
-      "Version": "15063.2375",
-      "ReleaseDate": "2020-05-12",
-      "Article": "KB4556804",
       "Comment": ""
     },
     {
@@ -3568,22 +3568,22 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19041.329",
-      "Version": "19041.329",
+      "Win10Version": "10.0.16299.1932",
+      "Version": "16299.1932",
       "ReleaseDate": "2020-06-09",
-      "Article": "KB4557957",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18362.900",
-      "Version": "18362.900",
-      "ReleaseDate": "2020-06-09",
-      "Article": "KB4560960",
+      "Article": "KB4561602",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.18363.900",
       "Version": "18363.900",
+      "ReleaseDate": "2020-06-09",
+      "Article": "KB4560960",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18362.900",
+      "Version": "18362.900",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4560960",
       "Comment": ""
@@ -3596,17 +3596,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.1282",
-      "Version": "17763.1282",
+      "Win10Version": "10.0.19041.329",
+      "Version": "19041.329",
       "ReleaseDate": "2020-06-09",
-      "Article": "KB4561608",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.1550",
-      "Version": "17134.1550",
-      "ReleaseDate": "2020-06-09",
-      "Article": "KB4561621",
+      "Article": "KB4557957",
       "Comment": ""
     },
     {
@@ -3617,10 +3610,31 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.1932",
-      "Version": "16299.1932",
+      "Win10Version": "10.0.17134.1550",
+      "Version": "17134.1550",
       "ReleaseDate": "2020-06-09",
-      "Article": "KB4561602",
+      "Article": "KB4561621",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1282",
+      "Version": "17763.1282",
+      "ReleaseDate": "2020-06-09",
+      "Article": "KB4561608",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1294",
+      "Version": "17763.1294",
+      "ReleaseDate": "2020-06-16",
+      "Article": "KB4567513",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18362.904",
+      "Version": "18362.904",
+      "ReleaseDate": "2020-06-16",
+      "Article": "KB4567512",
       "Comment": ""
     },
     {
@@ -3638,17 +3652,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.904",
-      "Version": "18362.904",
-      "ReleaseDate": "2020-06-16",
-      "Article": "KB4567512",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1294",
-      "Version": "17763.1294",
-      "ReleaseDate": "2020-06-16",
-      "Article": "KB4567513",
+      "Win10Version": "10.0.16299.1937",
+      "Version": "16299.1937",
+      "ReleaseDate": "2020-06-18",
+      "Article": "KB4567515",
       "Comment": ""
     },
     {
@@ -3659,24 +3666,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19041.331",
-      "Version": "19041.331",
-      "ReleaseDate": "2020-06-18",
-      "Article": "KB4567523",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.3755",
       "Version": "14393.3755",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567517",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1937",
-      "Version": "16299.1937",
-      "ReleaseDate": "2020-06-18",
-      "Article": "KB4567515",
       "Comment": ""
     },
     {
@@ -3687,38 +3680,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18638",
-      "Version": "10240.18638",
-      "ReleaseDate": "2020-07-14",
-      "Article": "KB4565513",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3808",
-      "Version": "14393.3808",
-      "ReleaseDate": "2020-07-14",
-      "Article": "KB4565511",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.16299.1992",
-      "Version": "16299.1992",
-      "ReleaseDate": "2020-07-14",
-      "Article": "KB4565508",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.959",
-      "Version": "18363.959",
-      "ReleaseDate": "2020-07-14",
-      "Article": "KB4565483",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18362.959",
-      "Version": "18362.959",
-      "ReleaseDate": "2020-07-14",
-      "Article": "KB4565483",
+      "Win10Version": "10.0.19041.331",
+      "Version": "19041.331",
+      "ReleaseDate": "2020-06-18",
+      "Article": "KB4567523",
       "Comment": ""
     },
     {
@@ -3729,6 +3694,20 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.3808",
+      "Version": "14393.3808",
+      "ReleaseDate": "2020-07-14",
+      "Article": "KB4565511",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18638",
+      "Version": "10240.18638",
+      "ReleaseDate": "2020-07-14",
+      "Article": "KB4565513",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17134.1610",
       "Version": "17134.1610",
       "ReleaseDate": "2020-07-14",
@@ -3736,10 +3715,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.1339",
-      "Version": "17763.1339",
+      "Win10Version": "10.0.18362.959",
+      "Version": "18362.959",
       "ReleaseDate": "2020-07-14",
-      "Article": "KB4558998",
+      "Article": "KB4565483",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.959",
+      "Version": "18363.959",
+      "ReleaseDate": "2020-07-14",
+      "Article": "KB4565483",
       "Comment": ""
     },
     {
@@ -3750,15 +3736,29 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.997",
-      "Version": "18362.997",
-      "ReleaseDate": "2020-07-21",
-      "Article": "KB4559004",
+      "Win10Version": "10.0.16299.1992",
+      "Version": "16299.1992",
+      "ReleaseDate": "2020-07-14",
+      "Article": "KB4565508",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1339",
+      "Version": "17763.1339",
+      "ReleaseDate": "2020-07-14",
+      "Article": "KB4558998",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.18363.997",
       "Version": "18363.997",
+      "ReleaseDate": "2020-07-21",
+      "Article": "KB4559004",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18362.997",
+      "Version": "18362.997",
       "ReleaseDate": "2020-07-21",
       "Article": "KB4559004",
       "Comment": ""
@@ -3778,10 +3778,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18666",
-      "Version": "10240.18666",
+      "Win10Version": "10.0.15063.2467",
+      "Version": "15063.2467",
       "ReleaseDate": "2020-08-11",
-      "Article": "KB4571692",
+      "Article": "KB4571689",
       "Comment": ""
     },
     {
@@ -3789,6 +3789,20 @@
       "Version": "17134.1667",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571709",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1397",
+      "Version": "17763.1397",
+      "ReleaseDate": "2020-08-11",
+      "Article": "KB4565349",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.16299.2045",
+      "Version": "16299.2045",
+      "ReleaseDate": "2020-08-11",
+      "Article": "KB4571741",
       "Comment": ""
     },
     {
@@ -3813,10 +3827,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.16299.2045",
-      "Version": "16299.2045",
+      "Win10Version": "10.0.10240.18666",
+      "Version": "10240.18666",
       "ReleaseDate": "2020-08-11",
-      "Article": "KB4571741",
+      "Article": "KB4571692",
       "Comment": ""
     },
     {
@@ -3827,29 +3841,8 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.1397",
-      "Version": "17763.1397",
-      "ReleaseDate": "2020-08-11",
-      "Article": "KB4565349",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2467",
-      "Version": "15063.2467",
-      "ReleaseDate": "2020-08-11",
-      "Article": "KB4571689",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.18363.1049",
       "Version": "18363.1049",
-      "ReleaseDate": "2020-08-20",
-      "Article": "KB4566116",
-      "Comment": "Preview"
-    },
-    {
-      "Win10Version": "10.0.18362.1049",
-      "Version": "18362.1049",
       "ReleaseDate": "2020-08-20",
       "Article": "KB4566116",
       "Comment": "Preview"
@@ -3862,53 +3855,18 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.18362.1049",
+      "Version": "18362.1049",
+      "ReleaseDate": "2020-08-20",
+      "Article": "KB4566116",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.19041.488",
       "Version": "19041.488",
       "ReleaseDate": "2020-09-03",
       "Article": "KB4571744",
       "Comment": "Preview"
-    },
-    {
-      "Win10Version": "10.0.19041.508",
-      "Version": "19041.508",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4571756",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2500",
-      "Version": "15063.2500",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4577021",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.1726",
-      "Version": "17134.1726",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4577032",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18696",
-      "Version": "10240.18696",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4577049",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3930",
-      "Version": "14393.3930",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4577015",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1457",
-      "Version": "17763.1457",
-      "ReleaseDate": "2020-09-08",
-      "Article": "KB4570333",
-      "Comment": ""
     },
     {
       "Win10Version": "10.0.18363.1082",
@@ -3925,6 +3883,34 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.10240.18696",
+      "Version": "10240.18696",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4577049",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1457",
+      "Version": "17763.1457",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4570333",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.1726",
+      "Version": "17134.1726",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4577032",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.2500",
+      "Version": "15063.2500",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4577021",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.16299.2107",
       "Version": "16299.2107",
       "ReleaseDate": "2020-09-08",
@@ -3932,11 +3918,18 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.1110",
-      "Version": "18362.1110",
-      "ReleaseDate": "2020-09-16",
-      "Article": "KB4577062",
-      "Comment": "Preview"
+      "Win10Version": "10.0.19041.508",
+      "Version": "19041.508",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4571756",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3930",
+      "Version": "14393.3930",
+      "ReleaseDate": "2020-09-08",
+      "Article": "KB4577015",
+      "Comment": ""
     },
     {
       "Win10Version": "10.0.18363.1110",
@@ -3953,6 +3946,13 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.18362.1110",
+      "Version": "18362.1110",
+      "ReleaseDate": "2020-09-16",
+      "Article": "KB4577062",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.19041.546",
       "Version": "19041.546",
       "ReleaseDate": "2020-10-01",
@@ -3960,38 +3960,10 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.17763.1518",
-      "Version": "17763.1518",
-      "ReleaseDate": "2020-10-13",
-      "Article": "KB4577668",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.18362.1139",
       "Version": "18362.1139",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4577671",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.1139",
-      "Version": "18363.1139",
-      "ReleaseDate": "2020-10-13",
-      "Article": "KB4577671",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2525",
-      "Version": "15063.2525",
-      "ReleaseDate": "2020-10-13",
-      "Article": "KB4580370",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.3986",
-      "Version": "14393.3986",
-      "ReleaseDate": "2020-10-13",
-      "Article": "KB4580346",
       "Comment": ""
     },
     {
@@ -4002,6 +3974,20 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.17763.1518",
+      "Version": "17763.1518",
+      "ReleaseDate": "2020-10-13",
+      "Article": "KB4577668",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.3986",
+      "Version": "14393.3986",
+      "ReleaseDate": "2020-10-13",
+      "Article": "KB4580346",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.19041.572",
       "Version": "19041.572",
       "ReleaseDate": "2020-10-13",
@@ -4009,10 +3995,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17134.1792",
-      "Version": "17134.1792",
+      "Win10Version": "10.0.18363.1139",
+      "Version": "18363.1139",
       "ReleaseDate": "2020-10-13",
-      "Article": "KB4580330",
+      "Article": "KB4577671",
       "Comment": ""
     },
     {
@@ -4023,10 +4009,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.1171",
-      "Version": "18362.1171",
+      "Win10Version": "10.0.17134.1792",
+      "Version": "17134.1792",
+      "ReleaseDate": "2020-10-13",
+      "Article": "KB4580330",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.2525",
+      "Version": "15063.2525",
+      "ReleaseDate": "2020-10-13",
+      "Article": "KB4580370",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1554",
+      "Version": "17763.1554",
       "ReleaseDate": "2020-10-20",
-      "Article": "KB4580386",
+      "Article": "KB4580390",
       "Comment": "Preview"
     },
     {
@@ -4037,10 +4037,10 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.17763.1554",
-      "Version": "17763.1554",
+      "Win10Version": "10.0.18362.1171",
+      "Version": "18362.1171",
       "ReleaseDate": "2020-10-20",
-      "Article": "KB4580390",
+      "Article": "KB4580386",
       "Comment": "Preview"
     },
     {
@@ -4058,6 +4058,27 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.10240.18756",
+      "Version": "10240.18756",
+      "ReleaseDate": "2020-11-10",
+      "Article": "KB4586787",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.630",
+      "Version": "19042.630",
+      "ReleaseDate": "2020-11-10",
+      "Article": "KB4586781",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19041.630",
+      "Version": "19041.630",
+      "ReleaseDate": "2020-11-10",
+      "Article": "KB4586781",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17134.1845",
       "Version": "17134.1845",
       "ReleaseDate": "2020-11-10",
@@ -4069,27 +4090,6 @@
       "Version": "18362.1198",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586786",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.1198",
-      "Version": "18363.1198",
-      "ReleaseDate": "2020-11-10",
-      "Article": "KB4586786",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19041.630",
-      "Version": "19041.630",
-      "ReleaseDate": "2020-11-10",
-      "Article": "KB4586781",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.630",
-      "Version": "19042.630",
-      "ReleaseDate": "2020-11-10",
-      "Article": "KB4586781",
       "Comment": ""
     },
     {
@@ -4107,17 +4107,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18756",
-      "Version": "10240.18756",
-      "ReleaseDate": "2020-11-10",
-      "Article": "KB4586787",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15063.2554",
       "Version": "15063.2554",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586782",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1198",
+      "Version": "18363.1198",
+      "ReleaseDate": "2020-11-10",
+      "Article": "KB4586786",
       "Comment": ""
     },
     {
@@ -4135,13 +4135,6 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.18363.1199",
-      "Version": "18363.1199",
-      "ReleaseDate": "2020-11-19",
-      "Article": "KB4594443",
-      "Comment": "Out-of-band"
-    },
-    {
       "Win10Version": "10.0.18363.1237",
       "Version": "18363.1237",
       "ReleaseDate": "2020-11-19",
@@ -4149,10 +4142,10 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.18362.1199",
-      "Version": "18362.1199",
+      "Win10Version": "10.0.19042.631",
+      "Version": "19042.631",
       "ReleaseDate": "2020-11-19",
-      "Article": "KB4594443",
+      "Article": "KB4594440",
       "Comment": "Out-of-band"
     },
     {
@@ -4163,10 +4156,17 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.19042.631",
-      "Version": "19042.631",
+      "Win10Version": "10.0.18363.1199",
+      "Version": "18363.1199",
       "ReleaseDate": "2020-11-19",
-      "Article": "KB4594440",
+      "Article": "KB4594443",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.18362.1199",
+      "Version": "18362.1199",
+      "ReleaseDate": "2020-11-19",
+      "Article": "KB4594443",
       "Comment": "Out-of-band"
     },
     {
@@ -4184,13 +4184,6 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.19041.662",
-      "Version": "19041.662",
-      "ReleaseDate": "2020-11-30",
-      "Article": "KB4586853",
-      "Comment": "Preview"
-    },
-    {
       "Win10Version": "10.0.19042.662",
       "Version": "19042.662",
       "ReleaseDate": "2020-11-30",
@@ -4198,17 +4191,31 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.685",
-      "Version": "19041.685",
+      "Win10Version": "10.0.19041.662",
+      "Version": "19041.662",
+      "ReleaseDate": "2020-11-30",
+      "Article": "KB4586853",
+      "Comment": "Preview"
+    },
+    {
+      "Win10Version": "10.0.10240.18782",
+      "Version": "10240.18782",
+      "ReleaseDate": "2020-12-08",
+      "Article": "KB4592464",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.685",
+      "Version": "19042.685",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592438",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.15063.2584",
-      "Version": "15063.2584",
+      "Win10Version": "10.0.19041.685",
+      "Version": "19041.685",
       "ReleaseDate": "2020-12-08",
-      "Article": "KB4592473",
+      "Article": "KB4592438",
       "Comment": ""
     },
     {
@@ -4219,17 +4226,17 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.15063.2584",
+      "Version": "15063.2584",
+      "ReleaseDate": "2020-12-08",
+      "Article": "KB4592473",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.18363.1256",
       "Version": "18363.1256",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592449",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.685",
-      "Version": "19042.685",
-      "ReleaseDate": "2020-12-08",
-      "Article": "KB4592438",
       "Comment": ""
     },
     {
@@ -4247,13 +4254,6 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18782",
-      "Version": "10240.18782",
-      "ReleaseDate": "2020-12-08",
-      "Article": "KB4592464",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.14393.4104",
       "Version": "14393.4104",
       "ReleaseDate": "2020-12-08",
@@ -4268,24 +4268,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19041.746",
-      "Version": "19041.746",
+      "Win10Version": "10.0.10240.18818",
+      "Version": "10240.18818",
       "ReleaseDate": "2021-01-12",
-      "Article": "KB4598242",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.746",
-      "Version": "19042.746",
-      "ReleaseDate": "2021-01-12",
-      "Article": "KB4598242",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.1967",
-      "Version": "17134.1967",
-      "ReleaseDate": "2021-01-12",
-      "Article": "KB4598245",
+      "Article": "KB4598231",
       "Comment": ""
     },
     {
@@ -4303,10 +4289,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18818",
-      "Version": "10240.18818",
+      "Win10Version": "10.0.19042.746",
+      "Version": "19042.746",
       "ReleaseDate": "2021-01-12",
-      "Article": "KB4598231",
+      "Article": "KB4598242",
       "Comment": ""
     },
     {
@@ -4317,17 +4303,31 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.17763.1728",
-      "Version": "17763.1728",
-      "ReleaseDate": "2021-01-21",
-      "Article": "KB4598296",
-      "Comment": "Preview"
+      "Win10Version": "10.0.17134.1967",
+      "Version": "17134.1967",
+      "ReleaseDate": "2021-01-12",
+      "Article": "KB4598245",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19041.746",
+      "Version": "19041.746",
+      "ReleaseDate": "2021-01-12",
+      "Article": "KB4598242",
+      "Comment": ""
     },
     {
       "Win10Version": "10.0.18363.1350",
       "Version": "18363.1350",
       "ReleaseDate": "2021-01-21",
       "Article": "KB4598298",
+      "Comment": "Preview"
+    },
+    {
+      "Win10Version": "10.0.17763.1728",
+      "Version": "17763.1728",
+      "ReleaseDate": "2021-01-21",
+      "Article": "KB4598296",
       "Comment": "Preview"
     },
     {
@@ -4345,15 +4345,43 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.14393.4225",
-      "Version": "14393.4225",
+      "Win10Version": "10.0.17134.2026",
+      "Version": "17134.2026",
       "ReleaseDate": "2021-02-09",
-      "Article": "KB4601318",
+      "Article": "KB4601354",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1377",
+      "Version": "18363.1377",
+      "ReleaseDate": "2021-02-09",
+      "Article": "KB4601315",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.19041.804",
       "Version": "19041.804",
+      "ReleaseDate": "2021-02-09",
+      "Article": "KB4601319",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.15063.2642",
+      "Version": "15063.2642",
+      "ReleaseDate": "2021-02-09",
+      "Article": "KB4601330",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.1757",
+      "Version": "17763.1757",
+      "ReleaseDate": "2021-02-09",
+      "Article": "KB4601345",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.804",
+      "Version": "19042.804",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601319",
       "Comment": ""
@@ -4366,38 +4394,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19042.804",
-      "Version": "19042.804",
+      "Win10Version": "10.0.14393.4225",
+      "Version": "14393.4225",
       "ReleaseDate": "2021-02-09",
-      "Article": "KB4601319",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.2026",
-      "Version": "17134.2026",
-      "ReleaseDate": "2021-02-09",
-      "Article": "KB4601354",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.1757",
-      "Version": "17763.1757",
-      "ReleaseDate": "2021-02-09",
-      "Article": "KB4601345",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.1377",
-      "Version": "18363.1377",
-      "ReleaseDate": "2021-02-09",
-      "Article": "KB4601315",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.15063.2642",
-      "Version": "15063.2642",
-      "ReleaseDate": "2021-02-09",
-      "Article": "KB4601330",
+      "Article": "KB4601318",
       "Comment": ""
     },
     {
@@ -4436,27 +4436,6 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.867",
-      "Version": "19041.867",
-      "ReleaseDate": "2021-03-09",
-      "Article": "KB5000802",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.4283",
-      "Version": "14393.4283",
-      "ReleaseDate": "2021-03-09",
-      "Article": "KB5000803",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.867",
-      "Version": "19042.867",
-      "ReleaseDate": "2021-03-09",
-      "Article": "KB5000802",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.15063.2679",
       "Version": "15063.2679",
       "ReleaseDate": "2021-03-09",
@@ -4464,17 +4443,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.1440",
-      "Version": "18363.1440",
+      "Win10Version": "10.0.19041.867",
+      "Version": "19041.867",
       "ReleaseDate": "2021-03-09",
-      "Article": "KB5000808",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.18874",
-      "Version": "10240.18874",
-      "ReleaseDate": "2021-03-09",
-      "Article": "KB5000807",
+      "Article": "KB5000802",
       "Comment": ""
     },
     {
@@ -4485,18 +4457,39 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.14393.4283",
+      "Version": "14393.4283",
+      "ReleaseDate": "2021-03-09",
+      "Article": "KB5000803",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18874",
+      "Version": "10240.18874",
+      "ReleaseDate": "2021-03-09",
+      "Article": "KB5000807",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.867",
+      "Version": "19042.867",
+      "ReleaseDate": "2021-03-09",
+      "Article": "KB5000802",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1440",
+      "Version": "18363.1440",
+      "ReleaseDate": "2021-03-09",
+      "Article": "KB5000808",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.17763.1817",
       "Version": "17763.1817",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000822",
       "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19041.868",
-      "Version": "19041.868",
-      "ReleaseDate": "2021-03-15",
-      "Article": "KB5001567",
-      "Comment": "Out-of-band"
     },
     {
       "Win10Version": "10.0.19042.868",
@@ -4506,10 +4499,10 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.18363.1441",
-      "Version": "18363.1441",
+      "Win10Version": "10.0.19041.868",
+      "Version": "19041.868",
       "ReleaseDate": "2021-03-15",
-      "Article": "KB5001566",
+      "Article": "KB5001567",
       "Comment": "Out-of-band"
     },
     {
@@ -4520,45 +4513,17 @@
       "Comment": "Out-of-band"
     },
     {
+      "Win10Version": "10.0.18363.1441",
+      "Version": "18363.1441",
+      "ReleaseDate": "2021-03-15",
+      "Article": "KB5001566",
+      "Comment": "Out-of-band"
+    },
+    {
       "Win10Version": "10.0.17763.1821",
       "Version": "17763.1821",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001568",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.18363.1443",
-      "Version": "18363.1443",
-      "ReleaseDate": "2021-03-18",
-      "Article": "KB5001648",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.19042.870",
-      "Version": "19042.870",
-      "ReleaseDate": "2021-03-18",
-      "Article": "KB5001649",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.14393.4288",
-      "Version": "14393.4288",
-      "ReleaseDate": "2021-03-18",
-      "Article": "KB5001633",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.19041.870",
-      "Version": "19041.870",
-      "ReleaseDate": "2021-03-18",
-      "Article": "KB5001649",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.10240.18875",
-      "Version": "10240.18875",
-      "ReleaseDate": "2021-03-18",
-      "Article": "KB5001631",
       "Comment": "Out-of-band"
     },
     {
@@ -4576,6 +4541,48 @@
       "Comment": "Out-of-band"
     },
     {
+      "Win10Version": "10.0.19042.870",
+      "Version": "19042.870",
+      "ReleaseDate": "2021-03-18",
+      "Article": "KB5001649",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.18363.1443",
+      "Version": "18363.1443",
+      "ReleaseDate": "2021-03-18",
+      "Article": "KB5001648",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.10240.18875",
+      "Version": "10240.18875",
+      "ReleaseDate": "2021-03-18",
+      "Article": "KB5001631",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.14393.4288",
+      "Version": "14393.4288",
+      "ReleaseDate": "2021-03-18",
+      "Article": "KB5001633",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.19041.870",
+      "Version": "19041.870",
+      "ReleaseDate": "2021-03-18",
+      "Article": "KB5001649",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.18363.1474",
+      "Version": "18363.1474",
+      "ReleaseDate": "2021-03-25",
+      "Article": "KB5000850",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.17763.1852",
       "Version": "17763.1852",
       "ReleaseDate": "2021-03-25",
@@ -4583,10 +4590,10 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.18363.1474",
-      "Version": "18363.1474",
-      "ReleaseDate": "2021-03-25",
-      "Article": "KB5000850",
+      "Win10Version": "10.0.19041.906",
+      "Version": "19041.906",
+      "ReleaseDate": "2021-03-29",
+      "Article": "KB5000842",
       "Comment": "Preview"
     },
     {
@@ -4597,11 +4604,25 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.906",
-      "Version": "19041.906",
-      "ReleaseDate": "2021-03-29",
-      "Article": "KB5000842",
-      "Comment": "Preview"
+      "Win10Version": "10.0.14393.4350",
+      "Version": "14393.4350",
+      "ReleaseDate": "2021-04-13",
+      "Article": "KB5001347",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17134.2145",
+      "Version": "17134.2145",
+      "ReleaseDate": "2021-04-13",
+      "Article": "KB5001339",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.928",
+      "Version": "19042.928",
+      "ReleaseDate": "2021-04-13",
+      "Article": "KB5001330",
+      "Comment": ""
     },
     {
       "Win10Version": "10.0.19041.928",
@@ -4618,31 +4639,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19042.928",
-      "Version": "19042.928",
-      "ReleaseDate": "2021-04-13",
-      "Article": "KB5001330",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.18363.1500",
       "Version": "18363.1500",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001337",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17134.2145",
-      "Version": "17134.2145",
-      "ReleaseDate": "2021-04-13",
-      "Article": "KB5001339",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.4350",
-      "Version": "14393.4350",
-      "ReleaseDate": "2021-04-13",
-      "Article": "KB5001347",
       "Comment": ""
     },
     {
@@ -4667,15 +4667,15 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.964",
-      "Version": "19041.964",
+      "Win10Version": "10.0.19042.964",
+      "Version": "19042.964",
       "ReleaseDate": "2021-04-28",
       "Article": "KB5001391",
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19042.964",
-      "Version": "19042.964",
+      "Win10Version": "10.0.19041.964",
+      "Version": "19041.964",
       "ReleaseDate": "2021-04-28",
       "Article": "KB5001391",
       "Comment": "Preview"
@@ -4685,13 +4685,6 @@
       "Version": "19041.985",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003173",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.4402",
-      "Version": "14393.4402",
-      "ReleaseDate": "2021-05-11",
-      "Article": "KB5003197",
       "Comment": ""
     },
     {
@@ -4709,17 +4702,24 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.18932",
-      "Version": "10240.18932",
-      "ReleaseDate": "2021-05-11",
-      "Article": "KB5003172",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.17763.1935",
       "Version": "17763.1935",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003171",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.4402",
+      "Version": "14393.4402",
+      "ReleaseDate": "2021-05-11",
+      "Article": "KB5003197",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.18932",
+      "Version": "10240.18932",
+      "ReleaseDate": "2021-05-11",
+      "Article": "KB5003172",
       "Comment": ""
     },
     {
@@ -4772,20 +4772,6 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19042.1052",
-      "Version": "19042.1052",
-      "ReleaseDate": "2021-06-08",
-      "Article": "KB5003637",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19043.1052",
-      "Version": "19043.1052",
-      "ReleaseDate": "2021-06-08",
-      "Article": "KB5003637",
-      "Comment": ""
-    },
-    {
       "Win10Version": "10.0.10240.18967",
       "Version": "10240.18967",
       "ReleaseDate": "2021-06-08",
@@ -4800,10 +4786,17 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.4467",
-      "Version": "14393.4467",
+      "Win10Version": "10.0.19042.1052",
+      "Version": "19042.1052",
       "ReleaseDate": "2021-06-08",
-      "Article": "KB5003638",
+      "Article": "KB5003637",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19043.1052",
+      "Version": "19043.1052",
+      "ReleaseDate": "2021-06-08",
+      "Article": "KB5003637",
       "Comment": ""
     },
     {
@@ -4821,8 +4814,15 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19043.1055",
-      "Version": "19043.1055",
+      "Win10Version": "10.0.14393.4467",
+      "Version": "14393.4467",
+      "ReleaseDate": "2021-06-08",
+      "Article": "KB5003638",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19042.1055",
+      "Version": "19042.1055",
       "ReleaseDate": "2021-06-11",
       "Article": "KB5004476",
       "Comment": "Out-of-band"
@@ -4835,24 +4835,24 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.19042.1055",
-      "Version": "19042.1055",
+      "Win10Version": "10.0.19043.1055",
+      "Version": "19043.1055",
       "ReleaseDate": "2021-06-11",
       "Article": "KB5004476",
       "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.17763.2028",
-      "Version": "17763.2028",
-      "ReleaseDate": "2021-06-15",
-      "Article": "KB5003703",
-      "Comment": "Preview"
     },
     {
       "Win10Version": "10.0.18363.1645",
       "Version": "18363.1645",
       "ReleaseDate": "2021-06-15",
       "Article": "KB5003698",
+      "Comment": "Preview"
+    },
+    {
+      "Win10Version": "10.0.17763.2028",
+      "Version": "17763.2028",
+      "ReleaseDate": "2021-06-15",
+      "Article": "KB5003703",
       "Comment": "Preview"
     },
     {
@@ -4863,15 +4863,15 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19042.1081",
-      "Version": "19042.1081",
+      "Win10Version": "10.0.19041.1081",
+      "Version": "19041.1081",
       "ReleaseDate": "2021-06-21",
       "Article": "KB5003690",
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.1081",
-      "Version": "19041.1081",
+      "Win10Version": "10.0.19042.1081",
+      "Version": "19042.1081",
       "ReleaseDate": "2021-06-21",
       "Article": "KB5003690",
       "Comment": "Preview"
@@ -4898,8 +4898,29 @@
       "Comment": "Out-of-band"
     },
     {
+      "Win10Version": "10.0.19043.1083",
+      "Version": "19043.1083",
+      "ReleaseDate": "2021-07-06",
+      "Article": "KB5004945",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.10240.18969",
+      "Version": "10240.18969",
+      "ReleaseDate": "2021-07-06",
+      "Article": "KB5004950",
+      "Comment": "Out-of-band"
+    },
+    {
       "Win10Version": "10.0.19041.1083",
       "Version": "19041.1083",
+      "ReleaseDate": "2021-07-06",
+      "Article": "KB5004945",
+      "Comment": "Out-of-band"
+    },
+    {
+      "Win10Version": "10.0.19042.1083",
+      "Version": "19042.1083",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004945",
       "Comment": "Out-of-band"
@@ -4912,31 +4933,10 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.19042.1083",
-      "Version": "19042.1083",
-      "ReleaseDate": "2021-07-06",
-      "Article": "KB5004945",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.19043.1083",
-      "Version": "19043.1083",
-      "ReleaseDate": "2021-07-06",
-      "Article": "KB5004945",
-      "Comment": "Out-of-band"
-    },
-    {
       "Win10Version": "10.0.18363.1646",
       "Version": "18363.1646",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004946",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.10240.18969",
-      "Version": "10240.18969",
-      "ReleaseDate": "2021-07-06",
-      "Article": "KB5004950",
       "Comment": "Out-of-band"
     },
     {
@@ -4947,10 +4947,17 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.19042.1110",
-      "Version": "19042.1110",
+      "Win10Version": "10.0.14393.4530",
+      "Version": "14393.4530",
       "ReleaseDate": "2021-07-13",
-      "Article": "KB5004237",
+      "Article": "KB5004238",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1679",
+      "Version": "18363.1679",
+      "ReleaseDate": "2021-07-13",
+      "Article": "KB5004245",
       "Comment": ""
     },
     {
@@ -4968,10 +4975,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.14393.4530",
-      "Version": "14393.4530",
+      "Win10Version": "10.0.19042.1110",
+      "Version": "19042.1110",
       "ReleaseDate": "2021-07-13",
-      "Article": "KB5004238",
+      "Article": "KB5004237",
       "Comment": ""
     },
     {
@@ -4979,13 +4986,6 @@
       "Version": "10240.19003",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004249",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.1679",
-      "Version": "18363.1679",
-      "ReleaseDate": "2021-07-13",
-      "Article": "KB5004245",
       "Comment": ""
     },
     {
@@ -5010,6 +5010,13 @@
       "Comment": "Out-of-band"
     },
     {
+      "Win10Version": "10.0.19042.1151",
+      "Version": "19042.1151",
+      "ReleaseDate": "2021-07-29",
+      "Article": "KB5004296",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.19041.1151",
       "Version": "19041.1151",
       "ReleaseDate": "2021-07-29",
@@ -5017,11 +5024,11 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19042.1151",
-      "Version": "19042.1151",
+      "Win10Version": "10.0.14393.4532",
+      "Version": "14393.4532",
       "ReleaseDate": "2021-07-29",
-      "Article": "KB5004296",
-      "Comment": "Preview"
+      "Article": "KB5005393",
+      "Comment": "Out-of-band"
     },
     {
       "Win10Version": "10.0.19043.1151",
@@ -5038,15 +5045,8 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.14393.4532",
-      "Version": "14393.4532",
-      "ReleaseDate": "2021-07-29",
-      "Article": "KB5005393",
-      "Comment": "Out-of-band"
-    },
-    {
-      "Win10Version": "10.0.19042.1165",
-      "Version": "19042.1165",
+      "Win10Version": "10.0.19043.1165",
+      "Version": "19043.1165",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005033",
       "Comment": ""
@@ -5059,17 +5059,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19043.1165",
-      "Version": "19043.1165",
+      "Win10Version": "10.0.19042.1165",
+      "Version": "19042.1165",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005033",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.2114",
-      "Version": "17763.2114",
-      "ReleaseDate": "2021-08-10",
-      "Article": "KB5005030",
       "Comment": ""
     },
     {
@@ -5080,6 +5073,13 @@
       "Comment": ""
     },
     {
+      "Win10Version": "10.0.18363.1734",
+      "Version": "18363.1734",
+      "ReleaseDate": "2021-08-10",
+      "Article": "KB5005031",
+      "Comment": ""
+    },
+    {
       "Win10Version": "10.0.14393.4583",
       "Version": "14393.4583",
       "ReleaseDate": "2021-08-10",
@@ -5087,10 +5087,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.1734",
-      "Version": "18363.1734",
+      "Win10Version": "10.0.17763.2114",
+      "Version": "17763.2114",
       "ReleaseDate": "2021-08-10",
-      "Article": "KB5005031",
+      "Article": "KB5005030",
       "Comment": ""
     },
     {
@@ -5115,13 +5115,6 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19043.1202",
-      "Version": "19043.1202",
-      "ReleaseDate": "2021-09-01",
-      "Article": "KB5005101",
-      "Comment": "Preview"
-    },
-    {
       "Win10Version": "10.0.19041.1202",
       "Version": "19041.1202",
       "ReleaseDate": "2021-09-01",
@@ -5129,39 +5122,11 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.1237",
-      "Version": "19041.1237",
-      "ReleaseDate": "2021-09-14",
-      "Article": "KB5005565",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.1237",
-      "Version": "19042.1237",
-      "ReleaseDate": "2021-09-14",
-      "Article": "KB5005565",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19043.1237",
-      "Version": "19043.1237",
-      "ReleaseDate": "2021-09-14",
-      "Article": "KB5005565",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.2183",
-      "Version": "17763.2183",
-      "ReleaseDate": "2021-09-14",
-      "Article": "KB5005568",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.18363.1801",
-      "Version": "18363.1801",
-      "ReleaseDate": "2021-09-14",
-      "Article": "KB5005566",
-      "Comment": ""
+      "Win10Version": "10.0.19043.1202",
+      "Version": "19043.1202",
+      "ReleaseDate": "2021-09-01",
+      "Article": "KB5005101",
+      "Comment": "Preview"
     },
     {
       "Win10Version": "10.0.14393.4651",
@@ -5178,11 +5143,39 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.1830",
-      "Version": "18363.1830",
-      "ReleaseDate": "2021-09-21",
-      "Article": "KB5005624",
-      "Comment": "Preview"
+      "Win10Version": "10.0.19042.1237",
+      "Version": "19042.1237",
+      "ReleaseDate": "2021-09-14",
+      "Article": "KB5005565",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.2183",
+      "Version": "17763.2183",
+      "ReleaseDate": "2021-09-14",
+      "Article": "KB5005568",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19041.1237",
+      "Version": "19041.1237",
+      "ReleaseDate": "2021-09-14",
+      "Article": "KB5005565",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19043.1237",
+      "Version": "19043.1237",
+      "ReleaseDate": "2021-09-14",
+      "Article": "KB5005565",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1801",
+      "Version": "18363.1801",
+      "ReleaseDate": "2021-09-14",
+      "Article": "KB5005566",
+      "Comment": ""
     },
     {
       "Win10Version": "10.0.17763.2210",
@@ -5192,8 +5185,22 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.18363.1830",
+      "Version": "18363.1830",
+      "ReleaseDate": "2021-09-21",
+      "Article": "KB5005624",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.19043.1266",
       "Version": "19043.1266",
+      "ReleaseDate": "2021-09-30",
+      "Article": "KB5005611",
+      "Comment": "Preview"
+    },
+    {
+      "Win10Version": "10.0.19041.1266",
+      "Version": "19041.1266",
       "ReleaseDate": "2021-09-30",
       "Article": "KB5005611",
       "Comment": "Preview"
@@ -5206,11 +5213,18 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19041.1266",
-      "Version": "19041.1266",
-      "ReleaseDate": "2021-09-30",
-      "Article": "KB5005611",
-      "Comment": "Preview"
+      "Win10Version": "10.0.19042.1288",
+      "Version": "19042.1288",
+      "ReleaseDate": "2021-10-12",
+      "Article": "KB5006670",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1854",
+      "Version": "18363.1854",
+      "ReleaseDate": "2021-10-12",
+      "Article": "KB5006667",
+      "Comment": ""
     },
     {
       "Win10Version": "10.0.19041.1288",
@@ -5227,17 +5241,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.10240.19086",
-      "Version": "10240.19086",
+      "Win10Version": "10.0.14393.4704",
+      "Version": "14393.4704",
       "ReleaseDate": "2021-10-12",
-      "Article": "KB5006675",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19042.1288",
-      "Version": "19042.1288",
-      "ReleaseDate": "2021-10-12",
-      "Article": "KB5006670",
+      "Article": "KB5006669",
       "Comment": ""
     },
     {
@@ -5248,17 +5255,10 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18363.1854",
-      "Version": "18363.1854",
+      "Win10Version": "10.0.10240.19086",
+      "Version": "10240.19086",
       "ReleaseDate": "2021-10-12",
-      "Article": "KB5006667",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.14393.4704",
-      "Version": "14393.4704",
-      "ReleaseDate": "2021-10-12",
-      "Article": "KB5006669",
+      "Article": "KB5006675",
       "Comment": ""
     },
     {
@@ -5290,31 +5290,17 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.14393.4770",
-      "Version": "14393.4770",
-      "ReleaseDate": "2021-11-09",
-      "Article": "KB5007192",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.10240.19119",
-      "Version": "10240.19119",
-      "ReleaseDate": "2021-11-09",
-      "Article": "KB5007207",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.17763.2300",
-      "Version": "17763.2300",
-      "ReleaseDate": "2021-11-09",
-      "Article": "KB5007206",
-      "Comment": ""
-    },
-    {
-      "Win10Version": "10.0.19043.1348",
-      "Version": "19043.1348",
+      "Win10Version": "10.0.19041.1348",
+      "Version": "19041.1348",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007186",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1916",
+      "Version": "18363.1916",
+      "ReleaseDate": "2021-11-09",
+      "Article": "KB5007189",
       "Comment": ""
     },
     {
@@ -5325,18 +5311,39 @@
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.19041.1348",
-      "Version": "19041.1348",
+      "Win10Version": "10.0.19043.1348",
+      "Version": "19043.1348",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007186",
       "Comment": ""
     },
     {
-      "Win10Version": "10.0.18362.1916",
-      "Version": "18362.1916",
+      "Win10Version": "10.0.10240.19119",
+      "Version": "10240.19119",
       "ReleaseDate": "2021-11-09",
-      "Article": "KB5007189",
+      "Article": "KB5007207",
       "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.4770",
+      "Version": "14393.4770",
+      "ReleaseDate": "2021-11-09",
+      "Article": "KB5007192",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.2300",
+      "Version": "17763.2300",
+      "ReleaseDate": "2021-11-09",
+      "Article": "KB5007206",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.4771",
+      "Version": "14393.4771",
+      "ReleaseDate": "2021-11-14",
+      "Article": "KB5008601",
+      "Comment": "Out-of-band"
     },
     {
       "Win10Version": "10.0.17763.2305",
@@ -5346,11 +5353,11 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.14393.4771",
-      "Version": "14393.4771",
-      "ReleaseDate": "2021-11-14",
-      "Article": "KB5008601",
-      "Comment": "Out-of-band"
+      "Win10Version": "10.0.19043.1387",
+      "Version": "19043.1387",
+      "ReleaseDate": "2021-11-22",
+      "Article": "KB5007253",
+      "Comment": "Preview"
     },
     {
       "Win10Version": "10.0.19041.1387",
@@ -5367,6 +5374,13 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.19044.1387",
+      "Version": "19044.1387",
+      "ReleaseDate": "2021-11-22",
+      "Article": "KB5007253",
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.17763.2330",
       "Version": "17763.2330",
       "ReleaseDate": "2021-11-22",
@@ -5374,18 +5388,60 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.19043.1387",
-      "Version": "19043.1387",
-      "ReleaseDate": "2021-11-22",
-      "Article": "KB5007253",
-      "Comment": "Preview"
+      "Win10Version": "10.0.19042.1415",
+      "Version": "19042.1415",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008212",
+      "Comment": ""
     },
     {
-      "Win10Version": "10.0.19044.1387",
-      "Version": "19044.1387",
-      "ReleaseDate": "2021-11-22",
-      "Article": "KB5007253",
-      "Comment": "Preview"
+      "Win10Version": "10.0.19043.1415",
+      "Version": "19043.1415",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008212",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.14393.4825",
+      "Version": "14393.4825",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008207",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.17763.2366",
+      "Version": "17763.2366",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008218",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.18363.1977",
+      "Version": "18363.1977",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008206",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19044.1415",
+      "Version": "19044.1415",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008212",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.10240.19145",
+      "Version": "10240.19145",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008230",
+      "Comment": ""
+    },
+    {
+      "Win10Version": "10.0.19041.1415",
+      "Version": "19041.1415",
+      "ReleaseDate": "2021-12-14",
+      "Article": "KB5008212",
+      "Comment": ""
     }
   ]
 }
