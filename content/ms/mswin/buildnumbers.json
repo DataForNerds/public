@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2022-02-17T19:16:31.8244343Z",
+    "LastUpdatedUTC": "2022-03-07T19:52:27.5501051Z",
     "SourceList": "https://support.microsoft.com/en-us/topic/windows-10-update-history-1b6aac92-bf01-42b5-b158-f80c6d93eb11"
   },
   "Data": [
@@ -9,6 +9,7 @@
       "Version": "10240.16683",
       "ReleaseDate": "2016-02-09",
       "Article": "KB3135174",
+      "KBTitle": "February 9, 2016 — KB3135174 (OS Build 10240.16683)",
       "Comment": ""
     },
     {
@@ -16,6 +17,7 @@
       "Version": "10586.104",
       "ReleaseDate": "2016-02-09",
       "Article": "KB3135173",
+      "KBTitle": "February 9, 2016 — KB3135173 (OS Build 10586.104)",
       "Comment": ""
     },
     {
@@ -23,6 +25,7 @@
       "Version": "10586.122",
       "ReleaseDate": "2016-03-01",
       "Article": "KB3140743",
+      "KBTitle": "March 1, 2016 — KB3140743 (OS Build 10586.122)",
       "Comment": ""
     },
     {
@@ -30,6 +33,7 @@
       "Version": "10240.16725",
       "ReleaseDate": "2016-03-08",
       "Article": "KB3140745",
+      "KBTitle": "March 8, 2016 — KB3140745 (OS Build 10240.16725)",
       "Comment": ""
     },
     {
@@ -37,6 +41,7 @@
       "Version": "10586.164",
       "ReleaseDate": "2016-03-08",
       "Article": "KB3140768",
+      "KBTitle": "March 8, 2016 — KB3140768 (OS Build 10586.164)",
       "Comment": ""
     },
     {
@@ -44,6 +49,7 @@
       "Version": "10240.16769",
       "ReleaseDate": "2016-04-12",
       "Article": "KB3147461",
+      "KBTitle": "April 12, 2016 — KB3147461 (OS Build 10240.16769)",
       "Comment": ""
     },
     {
@@ -51,6 +57,7 @@
       "Version": "10586.218",
       "ReleaseDate": "2016-04-12",
       "Article": "KB3147458",
+      "KBTitle": "April 12, 2016 — KB3147458 (OS Build 10586.218)",
       "Comment": ""
     },
     {
@@ -58,6 +65,7 @@
       "Version": "10586.318",
       "ReleaseDate": "2016-05-10",
       "Article": "KB3156421",
+      "KBTitle": "May 10, 2016 — KB3156421 (OS Build 10586.318)",
       "Comment": ""
     },
     {
@@ -65,6 +73,7 @@
       "Version": "10240.16854",
       "ReleaseDate": "2016-05-10",
       "Article": "KB3156387",
+      "KBTitle": "May 10, 2016 — KB3156387 (OS Build 10240.16854)",
       "Comment": ""
     },
     {
@@ -72,6 +81,7 @@
       "Version": "10240.16942",
       "ReleaseDate": "2016-06-14",
       "Article": "KB3163017",
+      "KBTitle": "June 14, 2016 — KB3163017 (OS Build 10240.16942)",
       "Comment": ""
     },
     {
@@ -79,6 +89,7 @@
       "Version": "10586.420",
       "ReleaseDate": "2016-06-14",
       "Article": "KB3163018",
+      "KBTitle": "June 14, 2016 — KB3163018 (OS Build 10586.420)",
       "Comment": ""
     },
     {
@@ -86,6 +97,7 @@
       "Version": "10240.17024",
       "ReleaseDate": "2016-07-12",
       "Article": "KB3163912",
+      "KBTitle": "July 12, 2016 — KB3163912 (OS Build 10240.17024)",
       "Comment": ""
     },
     {
@@ -93,6 +105,7 @@
       "Version": "10586.494",
       "ReleaseDate": "2016-07-12",
       "Article": "KB3172985",
+      "KBTitle": "July 12, 2016 — KB3172985 (OS Build 10586.494)",
       "Comment": ""
     },
     {
@@ -100,6 +113,7 @@
       "Version": "14393.10",
       "ReleaseDate": "2016-08-02",
       "Article": "KB3176929",
+      "KBTitle": "August 2, 2016 — KB3176929 (OS Build 14393.10)",
       "Comment": ""
     },
     {
@@ -107,6 +121,7 @@
       "Version": "14393.51",
       "ReleaseDate": "2016-08-09",
       "Article": "KB3176495",
+      "KBTitle": "August 9, 2016 — KB3176495 (OS Build 14393.51)",
       "Comment": ""
     },
     {
@@ -114,6 +129,7 @@
       "Version": "10240.17071",
       "ReleaseDate": "2016-08-09",
       "Article": "KB3176492",
+      "KBTitle": "August 9, 2016 — KB3176492 (OS Build 10240.17071)",
       "Comment": ""
     },
     {
@@ -121,6 +137,7 @@
       "Version": "10586.545",
       "ReleaseDate": "2016-08-09",
       "Article": "KB3176493",
+      "KBTitle": "August 9, 2016 — KB3176493 (OS Build 10586.545)",
       "Comment": ""
     },
     {
@@ -128,6 +145,7 @@
       "Version": "14393.82",
       "ReleaseDate": "2016-08-23",
       "Article": "KB3176934",
+      "KBTitle": "August 23, 2016 — KB3176934 (OS Build 14393.82)",
       "Comment": ""
     },
     {
@@ -135,6 +153,7 @@
       "Version": "14393.105",
       "ReleaseDate": "2016-08-31",
       "Article": "KB3176938",
+      "KBTitle": "August 31, 2016 — KB3176938 (OS Build 14393.105)",
       "Comment": ""
     },
     {
@@ -142,6 +161,7 @@
       "Version": "10240.17113",
       "ReleaseDate": "2016-09-13",
       "Article": "KB3185611",
+      "KBTitle": "September 13, 2016 — KB3185611 (OS Build 10240.17113)",
       "Comment": ""
     },
     {
@@ -149,6 +169,7 @@
       "Version": "14393.189",
       "ReleaseDate": "2016-09-13",
       "Article": "KB3189866",
+      "KBTitle": "September 13, 2016 — KB3189866 (OS Builds 14393.187 and 14393.189)",
       "Comment": ""
     },
     {
@@ -156,6 +177,7 @@
       "Version": "10586.589",
       "ReleaseDate": "2016-09-13",
       "Article": "KB3185614",
+      "KBTitle": "September 13, 2016 — KB3185614 (OS Build 10586.589)",
       "Comment": ""
     },
     {
@@ -163,6 +185,7 @@
       "Version": "14393.187",
       "ReleaseDate": "2016-09-13",
       "Article": "KB3189866",
+      "KBTitle": "September 13, 2016 — KB3189866 (OS Builds 14393.187 and 14393.189)",
       "Comment": ""
     },
     {
@@ -170,6 +193,7 @@
       "Version": "14393.189",
       "ReleaseDate": "2016-09-20",
       "Article": "KB3193494",
+      "KBTitle": "September 20, 2016 — KB3193494 (OS Builds 14393.187 and 14393.189)",
       "Comment": ""
     },
     {
@@ -177,6 +201,7 @@
       "Version": "14393.187",
       "ReleaseDate": "2016-09-20",
       "Article": "KB3193494",
+      "KBTitle": "September 20, 2016 — KB3193494 (OS Builds 14393.187 and 14393.189)",
       "Comment": ""
     },
     {
@@ -184,6 +209,7 @@
       "Version": "10240.17113",
       "ReleaseDate": "2016-09-20",
       "Article": "KB3193821",
+      "KBTitle": "September 20, 2016 — KB3193821 (OS Build 10240.17113)",
       "Comment": ""
     },
     {
@@ -191,6 +217,7 @@
       "Version": "14393.222",
       "ReleaseDate": "2016-09-29",
       "Article": "KB3194496",
+      "KBTitle": "September 29, 2016 — KB3194496 (OS Builds 14393.222)",
       "Comment": ""
     },
     {
@@ -198,6 +225,7 @@
       "Version": "10240.17146",
       "ReleaseDate": "2016-10-11",
       "Article": "KB3192440",
+      "KBTitle": "October 11, 2016 — KB3192440 (OS Build 10240.17146)",
       "Comment": ""
     },
     {
@@ -205,6 +233,7 @@
       "Version": "10586.633",
       "ReleaseDate": "2016-10-11",
       "Article": "KB3192441",
+      "KBTitle": "October 11, 2016 — KB3192441 (OS Build 10586.633)",
       "Comment": ""
     },
     {
@@ -212,6 +241,7 @@
       "Version": "14393.321",
       "ReleaseDate": "2016-10-11",
       "Article": "KB3194798",
+      "KBTitle": "October 11, 2016 — KB3194798 (OS Build 14393.321)",
       "Comment": ""
     },
     {
@@ -219,6 +249,7 @@
       "Version": "14393.351",
       "ReleaseDate": "2016-10-27",
       "Article": "KB3197954",
+      "KBTitle": "October 27, 2016 — KB3197954 (OS Build 14393.351)",
       "Comment": ""
     },
     {
@@ -226,6 +257,7 @@
       "Version": "10586.679",
       "ReleaseDate": "2016-11-08",
       "Article": "KB3198586",
+      "KBTitle": "November 8, 2016 — KB3198586 (OS Build 10586.679)",
       "Comment": ""
     },
     {
@@ -233,6 +265,7 @@
       "Version": "14393.447",
       "ReleaseDate": "2016-11-08",
       "Article": "KB3200970",
+      "KBTitle": "November 8, 2016 — KB3200970 (OS Build 14393.447)",
       "Comment": ""
     },
     {
@@ -240,6 +273,7 @@
       "Version": "10240.17190",
       "ReleaseDate": "2016-11-08",
       "Article": "KB3198585",
+      "KBTitle": "November 8, 2016 — KB3198585 (OS Build 10240.17190)",
       "Comment": ""
     },
     {
@@ -247,6 +281,7 @@
       "Version": "14393.448",
       "ReleaseDate": "2016-11-09",
       "Article": "KB3200970",
+      "KBTitle": "November 9, 2016 — KB3200970 (OS Build 14393.448)",
       "Comment": ""
     },
     {
@@ -254,6 +289,7 @@
       "Version": "10586.682",
       "ReleaseDate": "2016-11-14",
       "Article": "KB3198586",
+      "KBTitle": "November 14, 2016 — KB3198586 (OS Build 10586.682)",
       "Comment": ""
     },
     {
@@ -261,6 +297,7 @@
       "Version": "14393.479",
       "ReleaseDate": "2016-12-09",
       "Article": "KB3201845",
+      "KBTitle": "December 9, 2016 — KB3201845 (OS Build 14393.479)",
       "Comment": ""
     },
     {
@@ -268,6 +305,7 @@
       "Version": "10240.17202",
       "ReleaseDate": "2016-12-13",
       "Article": "KB3205383",
+      "KBTitle": "December 13, 2016 — KB3205383 (OS Build 10240.17202)",
       "Comment": ""
     },
     {
@@ -275,6 +313,7 @@
       "Version": "10586.713",
       "ReleaseDate": "2016-12-13",
       "Article": "KB3205386",
+      "KBTitle": "December 13, 2016 — KB3205386 (OS Build 10586.713)",
       "Comment": ""
     },
     {
@@ -282,6 +321,7 @@
       "Version": "14393.571",
       "ReleaseDate": "2016-12-13",
       "Article": "KB3206632",
+      "KBTitle": "December 13, 2016 — KB3206632 (OS Build 14393.571)",
       "Comment": ""
     },
     {
@@ -289,6 +329,7 @@
       "Version": "10240.17236",
       "ReleaseDate": "2017-01-10",
       "Article": "KB3210720",
+      "KBTitle": "January 10, 2017—KB3210720 (OS Build 10240.17236)",
       "Comment": ""
     },
     {
@@ -296,6 +337,7 @@
       "Version": "14393.693",
       "ReleaseDate": "2017-01-10",
       "Article": "KB3213986",
+      "KBTitle": "January 10, 2017—KB3213986 (OS Build 14393.693)",
       "Comment": ""
     },
     {
@@ -303,13 +345,15 @@
       "Version": "10586.753",
       "ReleaseDate": "2017-01-10",
       "Article": "KB3210721",
+      "KBTitle": "January 10, 2017—KB3210721 (OS Build 10586.753)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.14393.726",
       "Version": "14393.726",
       "ReleaseDate": "2017-01-26",
-      "Article": "KB 3216755",
+      "Article": "KB3216755",
+      "KBTitle": "January 26, 2017—KB 3216755 (OS Build 14393.726)",
       "Comment": ""
     },
     {
@@ -317,6 +361,7 @@
       "Version": "14393.729",
       "ReleaseDate": "2017-01-30",
       "Article": "KB4010672",
+      "KBTitle": "January 30, 2017—KB4010672 (OS Build 14393.729)",
       "Comment": ""
     },
     {
@@ -324,6 +369,7 @@
       "Version": "10240.17319",
       "ReleaseDate": "2017-03-14",
       "Article": "KB4012606",
+      "KBTitle": "March 14, 2017—KB4012606 (OS Build 10240.17319)",
       "Comment": ""
     },
     {
@@ -331,6 +377,7 @@
       "Version": "14393.953",
       "ReleaseDate": "2017-03-14",
       "Article": "KB4013429",
+      "KBTitle": "March 14, 2017—KB4013429 (OS Build 14393.953)",
       "Comment": ""
     },
     {
@@ -338,6 +385,7 @@
       "Version": "10586.839",
       "ReleaseDate": "2017-03-14",
       "Article": "KB4013198",
+      "KBTitle": "March 14, 2017—KB4013198 (OS Build 10586.839)",
       "Comment": ""
     },
     {
@@ -345,6 +393,7 @@
       "Version": "14393.969",
       "ReleaseDate": "2017-03-20",
       "Article": "KB4015438",
+      "KBTitle": "March 20, 2017—KB4015438 (OS Build 14393.969)",
       "Comment": ""
     },
     {
@@ -352,6 +401,7 @@
       "Version": "10240.17320",
       "ReleaseDate": "2017-03-22",
       "Article": "KB4016637",
+      "KBTitle": "March 22, 2017—KB4016637 (OS Build 10240.17320)",
       "Comment": ""
     },
     {
@@ -359,6 +409,7 @@
       "Version": "10586.842",
       "ReleaseDate": "2017-03-22",
       "Article": "KB4016636",
+      "KBTitle": "March 22, 2017—KB4016636 (OS Build 10586.842)",
       "Comment": ""
     },
     {
@@ -366,6 +417,7 @@
       "Version": "14393.970",
       "ReleaseDate": "2017-03-22",
       "Article": "KB4016635",
+      "KBTitle": "March 22, 2017—KB4016635 (OS Build 14393.970)",
       "Comment": ""
     },
     {
@@ -373,6 +425,7 @@
       "Version": "15063.13",
       "ReleaseDate": "2017-04-05",
       "Article": "KB4016251",
+      "KBTitle": "April 5, 2017—KB4016251 (OS Build 15063.13)",
       "Comment": ""
     },
     {
@@ -380,6 +433,7 @@
       "Version": "10240.17354",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015221",
+      "KBTitle": "April 11, 2017—KB4015221 (OS Build 10240.17354)",
       "Comment": ""
     },
     {
@@ -387,6 +441,7 @@
       "Version": "10586.873",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015219",
+      "KBTitle": "April 11, 2017—KB4015219 (OS Build 10586.873)",
       "Comment": ""
     },
     {
@@ -394,6 +449,7 @@
       "Version": "15063.138",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015583",
+      "KBTitle": "April 11, 2017—KB4015583 (OS Build 15063.138)",
       "Comment": ""
     },
     {
@@ -401,6 +457,7 @@
       "Version": "14393.1083",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015217",
+      "KBTitle": "April 11, 2017—KB4015217 (OS Build 14393.1066 and 14393.1083)",
       "Comment": ""
     },
     {
@@ -408,6 +465,7 @@
       "Version": "14393.1066",
       "ReleaseDate": "2017-04-11",
       "Article": "KB4015217",
+      "KBTitle": "April 11, 2017—KB4015217 (OS Build 14393.1066 and 14393.1083)",
       "Comment": ""
     },
     {
@@ -415,6 +473,7 @@
       "Version": "15063.250",
       "ReleaseDate": "2017-04-25",
       "Article": "KB4016240",
+      "KBTitle": "April 25, 2017—KB4016240 (OS Build 15063.250)",
       "Comment": ""
     },
     {
@@ -422,6 +481,7 @@
       "Version": "10586.916",
       "ReleaseDate": "2017-05-09",
       "Article": "KB4019473",
+      "KBTitle": "May 9, 2017—KB4019473 (OS Build 10586.916)",
       "Comment": ""
     },
     {
@@ -429,6 +489,7 @@
       "Version": "15063.297",
       "ReleaseDate": "2017-05-09",
       "Article": "KB4016871",
+      "KBTitle": "May 9, 2017—KB4016871 (OS Build 15063.296 and 15063.297)",
       "Comment": ""
     },
     {
@@ -436,6 +497,7 @@
       "Version": "10240.17394",
       "ReleaseDate": "2017-05-09",
       "Article": "KB4019474",
+      "KBTitle": "May 9, 2017—KB4019474 (OS Build 10240.17394)",
       "Comment": ""
     },
     {
@@ -443,6 +505,7 @@
       "Version": "14393.1198",
       "ReleaseDate": "2017-05-09",
       "Article": "KB4019472",
+      "KBTitle": "May 9, 2017—KB4019472 (OS Build 14393.1198)",
       "Comment": ""
     },
     {
@@ -450,6 +513,7 @@
       "Version": "15063.296",
       "ReleaseDate": "2017-05-09",
       "Article": "KB4016871",
+      "KBTitle": "May 9, 2017—KB4016871 (OS Build 15063.296 and 15063.297)",
       "Comment": ""
     },
     {
@@ -457,6 +521,7 @@
       "Version": "15063.332",
       "ReleaseDate": "2017-05-25",
       "Article": "KB4020102",
+      "KBTitle": "May 25, 2017—KB4020102 (OS Build 15063.332)",
       "Comment": ""
     },
     {
@@ -464,6 +529,7 @@
       "Version": "14393.1230",
       "ReleaseDate": "2017-05-26",
       "Article": "KB4023680",
+      "KBTitle": "May 26, 2017—KB4023680 (OS Build 14393.1230)",
       "Comment": ""
     },
     {
@@ -471,6 +537,7 @@
       "Version": "10586.962",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022714",
+      "KBTitle": "June 13, 2017—KB4022714 (OS Build 10586.962)",
       "Comment": ""
     },
     {
@@ -478,6 +545,7 @@
       "Version": "10240.17443",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022727",
+      "KBTitle": "June 13, 2017—KB4022727 (OS Build 10240.17443)",
       "Comment": ""
     },
     {
@@ -485,6 +553,7 @@
       "Version": "15063.413",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022725",
+      "KBTitle": "June 13, 2017—KB4022725 (OS Build 15063.413 and 15063.414)",
       "Comment": ""
     },
     {
@@ -492,6 +561,7 @@
       "Version": "15063.414",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022725",
+      "KBTitle": "June 13, 2017—KB4022725 (OS Build 15063.413 and 15063.414)",
       "Comment": ""
     },
     {
@@ -499,6 +569,7 @@
       "Version": "14393.1358",
       "ReleaseDate": "2017-06-13",
       "Article": "KB4022715",
+      "KBTitle": "June 13, 2017—KB4022715 (OS Build 14393.1358)",
       "Comment": ""
     },
     {
@@ -506,6 +577,7 @@
       "Version": "14393.1378",
       "ReleaseDate": "2017-06-27",
       "Article": "KB4022723",
+      "KBTitle": "June 27, 2017—KB4022723 (OS Build 14393.1378)",
       "Comment": ""
     },
     {
@@ -513,6 +585,7 @@
       "Version": "10240.17446",
       "ReleaseDate": "2017-06-27",
       "Article": "KB4032695",
+      "KBTitle": "June 27, 2017—KB4032695 (OS Build 10240.17446)",
       "Comment": ""
     },
     {
@@ -520,6 +593,7 @@
       "Version": "10586.965",
       "ReleaseDate": "2017-06-27",
       "Article": "KB4032693",
+      "KBTitle": "June 27, 2017—KB4032693 (OS Build 10586.965)",
       "Comment": ""
     },
     {
@@ -527,6 +601,7 @@
       "Version": "15063.447",
       "ReleaseDate": "2017-06-27",
       "Article": "KB4022716",
+      "KBTitle": "June 27, 2017—KB4022716 (OS Build 15063.447)",
       "Comment": ""
     },
     {
@@ -534,6 +609,7 @@
       "Version": "14393.1480",
       "ReleaseDate": "2017-07-11",
       "Article": "KB4025339",
+      "KBTitle": "July 11, 2017—KB4025339 (OS Build 14393.1480)",
       "Comment": ""
     },
     {
@@ -541,6 +617,7 @@
       "Version": "15063.483",
       "ReleaseDate": "2017-07-11",
       "Article": "KB4025342",
+      "KBTitle": "July 11, 2017—KB4025342 (OS Build 15063.483)",
       "Comment": ""
     },
     {
@@ -548,6 +625,7 @@
       "Version": "10240.17488",
       "ReleaseDate": "2017-07-11",
       "Article": "KB4025338",
+      "KBTitle": "July 11, 2017—KB4025338 (OS Build 10240.17488)",
       "Comment": ""
     },
     {
@@ -555,13 +633,15 @@
       "Version": "10586.1007",
       "ReleaseDate": "2017-07-11",
       "Article": "KB4025344",
+      "KBTitle": "July 11, 2017—KB4025344 (OS Build 10586.1007)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.14393.1532",
       "Version": "14393.1532",
       "ReleaseDate": "2017-07-18",
-      "Article": "KB4025334 ",
+      "Article": "KB4025334",
+      "KBTitle": "July 18, 2017—KB4025334  (OS Build 14393.1532)",
       "Comment": ""
     },
     {
@@ -569,6 +649,7 @@
       "Version": "15063.502",
       "ReleaseDate": "2017-07-31",
       "Article": "KB4032188",
+      "KBTitle": "July 31, 2017—KB4032188 (OS Build 15063.502)",
       "Comment": ""
     },
     {
@@ -576,6 +657,7 @@
       "Version": "14393.1537",
       "ReleaseDate": "2017-08-07",
       "Article": "KB4038220",
+      "KBTitle": "August 7, 2017—KB4038220 (OS Build 14393.1537)",
       "Comment": ""
     },
     {
@@ -583,6 +665,7 @@
       "Version": "14393.1593",
       "ReleaseDate": "2017-08-08",
       "Article": "KB4034658",
+      "KBTitle": "August 8, 2017—KB4034658 (OS Build 14393.1593)",
       "Comment": ""
     },
     {
@@ -590,6 +673,7 @@
       "Version": "15063.540",
       "ReleaseDate": "2017-08-08",
       "Article": "KB4034674",
+      "KBTitle": "August 8, 2017—KB4034674 (OS Build 15063.540)",
       "Comment": ""
     },
     {
@@ -597,6 +681,7 @@
       "Version": "10586.1045",
       "ReleaseDate": "2017-08-08",
       "Article": "KB4034660",
+      "KBTitle": "August 8, 2017—KB4034660 (OS Build 10586.1045)",
       "Comment": ""
     },
     {
@@ -604,6 +689,7 @@
       "Version": "10240.17533",
       "ReleaseDate": "2017-08-08",
       "Article": "KB4034668",
+      "KBTitle": "August 8, 2017—KB4034668 (OS Build 10240.17533)",
       "Comment": ""
     },
     {
@@ -611,6 +697,7 @@
       "Version": "14393.1613",
       "ReleaseDate": "2017-08-16",
       "Article": "KB4034661",
+      "KBTitle": "August 16, 2017—KB4034661 (OS Build 14393.1613)",
       "Comment": ""
     },
     {
@@ -618,6 +705,7 @@
       "Version": "14393.1670",
       "ReleaseDate": "2017-08-28",
       "Article": "KB4039396",
+      "KBTitle": "August 28, 2017—KB4039396 (OS Build 14393.1670)",
       "Comment": ""
     },
     {
@@ -625,6 +713,7 @@
       "Version": "10586.1106",
       "ReleaseDate": "2017-09-12",
       "Article": "KB4038783",
+      "KBTitle": "September 12, 2017—KB4038783 (OS Build 10586.1106)",
       "Comment": ""
     },
     {
@@ -632,6 +721,7 @@
       "Version": "15063.608",
       "ReleaseDate": "2017-09-12",
       "Article": "KB4038788",
+      "KBTitle": "September 12, 2017—KB4038788 (OS Build 15063.608)",
       "Comment": ""
     },
     {
@@ -639,6 +729,7 @@
       "Version": "14393.1715",
       "ReleaseDate": "2017-09-12",
       "Article": "KB4038782",
+      "KBTitle": "September 12, 2017—KB4038782 (OS Build 14393.1715)",
       "Comment": ""
     },
     {
@@ -646,6 +737,7 @@
       "Version": "10240.17609",
       "ReleaseDate": "2017-09-12",
       "Article": "KB4038781",
+      "KBTitle": "September 12, 2017—KB4038781 (OS Build 10240.17609)",
       "Comment": ""
     },
     {
@@ -653,6 +745,7 @@
       "Version": "15063.632",
       "ReleaseDate": "2017-09-25",
       "Article": "KB4040724",
+      "KBTitle": "September 25, 2017—KB4040724 (OS Build 15063.632)",
       "Comment": ""
     },
     {
@@ -660,6 +753,7 @@
       "Version": "14393.1737",
       "ReleaseDate": "2017-09-28",
       "Article": "KB4038801",
+      "KBTitle": "September 28, 2017—KB4038801 (OS Build 14393.1737)",
       "Comment": ""
     },
     {
@@ -667,6 +761,7 @@
       "Version": "15063.674",
       "ReleaseDate": "2017-10-10",
       "Article": "KB4041676",
+      "KBTitle": "October 10, 2017—KB4041676 (OS Build 15063.674)",
       "Comment": ""
     },
     {
@@ -674,6 +769,7 @@
       "Version": "10240.17643",
       "ReleaseDate": "2017-10-10",
       "Article": "KB4042895",
+      "KBTitle": "October 10, 2017—KB4042895 (OS Build 10240.17643)",
       "Comment": ""
     },
     {
@@ -681,6 +777,7 @@
       "Version": "10586.1176",
       "ReleaseDate": "2017-10-10",
       "Article": "KB4041689",
+      "KBTitle": "October 10, 2017—KB4041689 (OS Build 10586.1176)",
       "Comment": ""
     },
     {
@@ -688,6 +785,7 @@
       "Version": "14393.1770",
       "ReleaseDate": "2017-10-10",
       "Article": "KB4041691",
+      "KBTitle": "October 10, 2017—KB4041691 (OS Build 14393.1770)",
       "Comment": ""
     },
     {
@@ -695,6 +793,7 @@
       "Version": "14393.1794",
       "ReleaseDate": "2017-10-17",
       "Article": "KB4041688",
+      "KBTitle": "October 17, 2017—KB4041688 (OS Build 14393.1794)",
       "Comment": ""
     },
     {
@@ -702,6 +801,7 @@
       "Version": "16299.19",
       "ReleaseDate": "2017-10-17",
       "Article": "KB4043961",
+      "KBTitle": "October 17, 2017—KB4043961 (OS Build 16299.19)",
       "Comment": ""
     },
     {
@@ -709,6 +809,7 @@
       "Version": "15063.675",
       "ReleaseDate": "2017-11-02",
       "Article": "KB4049370",
+      "KBTitle": "November 2, 2017—KB4049370 (OS Build 15063.675)",
       "Comment": ""
     },
     {
@@ -716,6 +817,7 @@
       "Version": "14393.1797",
       "ReleaseDate": "2017-11-02",
       "Article": "KB4052231",
+      "KBTitle": "November 2, 2017—KB4052231 (OS Build 14393.1797)",
       "Comment": ""
     },
     {
@@ -723,6 +825,7 @@
       "Version": "10586.1177",
       "ReleaseDate": "2017-11-02",
       "Article": "KB4052232",
+      "KBTitle": "November 2, 2017—KB4052232 (OS Build 10586.1177)",
       "Comment": ""
     },
     {
@@ -730,6 +833,7 @@
       "Version": "15063.728",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048954",
+      "KBTitle": "November 14, 2017—KB4048954 (OS Build 15063.726 and 15063.728)",
       "Comment": ""
     },
     {
@@ -737,6 +841,7 @@
       "Version": "15063.726",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048954",
+      "KBTitle": "November 14, 2017—KB4048954 (OS Build 15063.726 and 15063.728)",
       "Comment": ""
     },
     {
@@ -744,6 +849,7 @@
       "Version": "16299.64",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048955",
+      "KBTitle": "November 14, 2017—KB4048955 (OS Build 16299.64)",
       "Comment": ""
     },
     {
@@ -751,6 +857,7 @@
       "Version": "10240.17673",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048956",
+      "KBTitle": "November 14, 2017—KB4048956 (OS Build 10240.17673)",
       "Comment": ""
     },
     {
@@ -758,6 +865,7 @@
       "Version": "15254.12",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4052314",
+      "KBTitle": "November 14, 2017—KB4052314 (OS Build 15254.12)",
       "Comment": ""
     },
     {
@@ -765,6 +873,7 @@
       "Version": "10586.1232",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048952",
+      "KBTitle": "November 14, 2017—KB4048952 (OS Build 10586.1232)",
       "Comment": ""
     },
     {
@@ -772,6 +881,7 @@
       "Version": "14393.1884",
       "ReleaseDate": "2017-11-14",
       "Article": "KB4048953",
+      "KBTitle": "November 14, 2017—KB4048953 (OS Build 14393.1884)",
       "Comment": ""
     },
     {
@@ -779,6 +889,7 @@
       "Version": "15063.729",
       "ReleaseDate": "2017-11-22",
       "Article": "KB4055254",
+      "KBTitle": "November 22, 2017—KB4055254 (OS Build 15063.729)",
       "Comment": ""
     },
     {
@@ -786,6 +897,7 @@
       "Version": "14393.1914",
       "ReleaseDate": "2017-11-27",
       "Article": "KB4051033",
+      "KBTitle": "November 27, 2017—KB4051033 (OS Build 14393.1914)",
       "Comment": ""
     },
     {
@@ -793,6 +905,7 @@
       "Version": "16299.98",
       "ReleaseDate": "2017-11-30",
       "Article": "KB4051963",
+      "KBTitle": "November 30, 2017—KB4051963 (OS Build 16299.98)",
       "Comment": ""
     },
     {
@@ -800,6 +913,7 @@
       "Version": "16299.125",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4054517",
+      "KBTitle": "December 12, 2017—KB4054517 (OS Build 16299.125)",
       "Comment": ""
     },
     {
@@ -807,6 +921,7 @@
       "Version": "10240.17709",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4053581",
+      "KBTitle": "December 12, 2017—KB4053581 (OS Build 10240.17709)",
       "Comment": ""
     },
     {
@@ -814,13 +929,15 @@
       "Version": "10586.1295",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4053578",
+      "KBTitle": "December 12, 2017—KB4053578 (OS Build 10586.1295)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.124",
       "Version": "15254.124",
       "ReleaseDate": "2017-12-12",
-      "Article": "KB4056342 Update for Windows 10 Mobile",
+      "Article": "KB4056342",
+      "KBTitle": "December 12, 2017—KB4056342 Update for Windows 10 Mobile (OS Build 15254.124)",
       "Comment": ""
     },
     {
@@ -828,6 +945,7 @@
       "Version": "15063.786",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4053580",
+      "KBTitle": "December 12, 2017—KB4053580 (OS Build 15063.786)",
       "Comment": ""
     },
     {
@@ -835,6 +953,7 @@
       "Version": "14393.1944",
       "ReleaseDate": "2017-12-12",
       "Article": "KB4053579",
+      "KBTitle": "December 12, 2017—KB4053579 (OS Build 14393.1944)",
       "Comment": ""
     },
     {
@@ -842,6 +961,7 @@
       "Version": "14393.2007",
       "ReleaseDate": "2018-01-03",
       "Article": "KB4056890",
+      "KBTitle": "January 3, 2018—KB4056890 (OS Build 14393.2007)",
       "Comment": ""
     },
     {
@@ -849,6 +969,7 @@
       "Version": "15063.850",
       "ReleaseDate": "2018-01-03",
       "Article": "KB4056891",
+      "KBTitle": "January 3, 2018—KB4056891 (OS Build 15063.850)",
       "Comment": ""
     },
     {
@@ -856,6 +977,7 @@
       "Version": "16299.192",
       "ReleaseDate": "2018-01-03",
       "Article": "KB4056892",
+      "KBTitle": "January 3, 2018—KB4056892 (OS Build 16299.192)",
       "Comment": ""
     },
     {
@@ -863,6 +985,7 @@
       "Version": "10240.17738",
       "ReleaseDate": "2018-01-03",
       "Article": "KB4056893",
+      "KBTitle": "January 3, 2018—KB4056893 (OS Build 10240.17738)",
       "Comment": ""
     },
     {
@@ -870,6 +993,7 @@
       "Version": "10586.1356",
       "ReleaseDate": "2018-01-03",
       "Article": "KB4056888",
+      "KBTitle": "January 3, 2018—KB4056888 (OS Build 10586.1356)",
       "Comment": ""
     },
     {
@@ -877,6 +1001,7 @@
       "Version": "15254.158",
       "ReleaseDate": "2018-01-05",
       "Article": "KB4073117",
+      "KBTitle": "January 5, 2018—KB4073117 (OS Build 15254.158)",
       "Comment": ""
     },
     {
@@ -884,6 +1009,7 @@
       "Version": "14393.2034",
       "ReleaseDate": "2018-01-17",
       "Article": "KB4057142",
+      "KBTitle": "January 17, 2018—KB4057142 (OS Build 14393.2034)",
       "Comment": ""
     },
     {
@@ -891,6 +1017,7 @@
       "Version": "15063.877",
       "ReleaseDate": "2018-01-17",
       "Article": "KB4057144",
+      "KBTitle": "January 17, 2018—KB4057144 (OS Build 15063.877)",
       "Comment": ""
     },
     {
@@ -898,6 +1025,7 @@
       "Version": "10586.1358",
       "ReleaseDate": "2018-01-18",
       "Article": "KB4075200",
+      "KBTitle": "January 18, 2018—KB4075200 (OS Build 10586.1358)",
       "Comment": ""
     },
     {
@@ -905,6 +1033,7 @@
       "Version": "10240.17741",
       "ReleaseDate": "2018-01-18",
       "Article": "KB4075199",
+      "KBTitle": "January 18, 2018—KB4075199 (OS Build 10240.17741)",
       "Comment": ""
     },
     {
@@ -912,6 +1041,7 @@
       "Version": "16299.201",
       "ReleaseDate": "2018-01-18",
       "Article": "KB4073291",
+      "KBTitle": "January 18, 2018—KB4073291 (OS Build 16299.201)",
       "Comment": ""
     },
     {
@@ -919,6 +1049,7 @@
       "Version": "16299.214",
       "ReleaseDate": "2018-01-31",
       "Article": "KB4058258",
+      "KBTitle": "January 31, 2018—KB4058258 (OS Build 16299.214)",
       "Comment": ""
     },
     {
@@ -926,6 +1057,7 @@
       "Version": "10240.17741",
       "ReleaseDate": "2018-01-31",
       "Article": "KB4077735",
+      "KBTitle": "January 31, 2018—KB4077735 (OS Build 10240.17741)",
       "Comment": ""
     },
     {
@@ -933,6 +1065,7 @@
       "Version": "16299.248",
       "ReleaseDate": "2018-02-13",
       "Article": "KB4074588",
+      "KBTitle": "February 13, 2018—KB4074588 (OS Build 16299.248)",
       "Comment": ""
     },
     {
@@ -940,6 +1073,7 @@
       "Version": "10240.17770",
       "ReleaseDate": "2018-02-13",
       "Article": "KB4074596",
+      "KBTitle": "February 13, 2018—KB4074596 (OS Build 10240.17770)",
       "Comment": ""
     },
     {
@@ -947,6 +1081,7 @@
       "Version": "10586.1417",
       "ReleaseDate": "2018-02-13",
       "Article": "KB4074591",
+      "KBTitle": "February 13, 2018—KB4074591 (OS Build 10586.1417)",
       "Comment": ""
     },
     {
@@ -954,6 +1089,7 @@
       "Version": "15063.909",
       "ReleaseDate": "2018-02-13",
       "Article": "KB4074592",
+      "KBTitle": "February 13, 2018—KB4074592 (OS Build 15063.909)",
       "Comment": ""
     },
     {
@@ -961,6 +1097,7 @@
       "Version": "14393.2068",
       "ReleaseDate": "2018-02-13",
       "Article": "KB4074590",
+      "KBTitle": "February 13, 2018—KB4074590 (OS Build 14393.2068)",
       "Comment": ""
     },
     {
@@ -968,6 +1105,7 @@
       "Version": "15254.248",
       "ReleaseDate": "2018-02-14",
       "Article": "KB4077675",
+      "KBTitle": "February 14, 2018—KB4077675 (OS Build 15254.248)",
       "Comment": ""
     },
     {
@@ -975,6 +1113,7 @@
       "Version": "15063.936",
       "ReleaseDate": "2018-02-22",
       "Article": "KB4077528",
+      "KBTitle": "February 22, 2018—KB4077528 (OS Build 15063.936)",
       "Comment": ""
     },
     {
@@ -982,6 +1121,7 @@
       "Version": "14393.2097",
       "ReleaseDate": "2018-02-22",
       "Article": "KB4077525",
+      "KBTitle": "February 22, 2018—KB4077525 (OS Build 14393.2097)",
       "Comment": ""
     },
     {
@@ -989,6 +1129,7 @@
       "Version": "16299.251",
       "ReleaseDate": "2018-03-05",
       "Article": "KB4090913",
+      "KBTitle": "March 5, 2018—KB4090913 (OS Build 16299.251)",
       "Comment": ""
     },
     {
@@ -996,6 +1137,7 @@
       "Version": "15063.936",
       "ReleaseDate": "2018-03-08",
       "Article": "KB4092077",
+      "KBTitle": "March 8, 2018—KB4092077 (OS Build 15063.936)",
       "Comment": ""
     },
     {
@@ -1003,6 +1145,7 @@
       "Version": "14393.2125",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088787",
+      "KBTitle": "March 13, 2018—KB4088787 (OS Build 14393.2125 and 14393.2126)",
       "Comment": ""
     },
     {
@@ -1010,6 +1153,7 @@
       "Version": "15063.968",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088782",
+      "KBTitle": "March 13, 2018—KB4088782 (OS Build 15063.966 and 15063.968)",
       "Comment": ""
     },
     {
@@ -1017,6 +1161,7 @@
       "Version": "16299.309",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088776",
+      "KBTitle": "March 13, 2018—KB4088776 (OS Build 16299.309)",
       "Comment": ""
     },
     {
@@ -1024,6 +1169,7 @@
       "Version": "15063.966",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088782",
+      "KBTitle": "March 13, 2018—KB4088782 (OS Build 15063.966 and 15063.968)",
       "Comment": ""
     },
     {
@@ -1031,6 +1177,7 @@
       "Version": "10586.1478",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088779",
+      "KBTitle": "March 13, 2018—KB4088779 (OS Build 10586.1478)",
       "Comment": ""
     },
     {
@@ -1038,6 +1185,7 @@
       "Version": "14393.2126",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088787",
+      "KBTitle": "March 13, 2018—KB4088787 (OS Build 14393.2125 and 14393.2126)",
       "Comment": ""
     },
     {
@@ -1045,13 +1193,15 @@
       "Version": "10240.17797",
       "ReleaseDate": "2018-03-13",
       "Article": "KB4088786",
+      "KBTitle": "March 13, 2018—KB4088786 (OS Build 10240.17797)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.313",
       "Version": "15254.313",
       "ReleaseDate": "2018-03-15",
-      "Article": "KB4090912 Update for Windows 10 Mobile",
+      "Article": "KB4090912",
+      "KBTitle": "March 15, 2018—KB4090912 Update for Windows 10 Mobile (OS Build 15254.313)",
       "Comment": ""
     },
     {
@@ -1059,6 +1209,7 @@
       "Version": "15063.994",
       "ReleaseDate": "2018-03-22",
       "Article": "KB4088891",
+      "KBTitle": "March 22, 2018—KB4088891 (OS Build 15063.994)",
       "Comment": ""
     },
     {
@@ -1066,6 +1217,7 @@
       "Version": "16299.334",
       "ReleaseDate": "2018-03-22",
       "Article": "KB4089848",
+      "KBTitle": "March 22, 2018—KB4089848 (OS Build 16299.334)",
       "Comment": ""
     },
     {
@@ -1073,6 +1225,7 @@
       "Version": "14393.2155",
       "ReleaseDate": "2018-03-22",
       "Article": "KB4088889",
+      "KBTitle": "March 22, 2018—KB4088889 (OS Build 14393.2155)",
       "Comment": ""
     },
     {
@@ -1080,6 +1233,7 @@
       "Version": "14393.2156",
       "ReleaseDate": "2018-03-29",
       "Article": "KB4096309",
+      "KBTitle": "March 29, 2018—KB4096309 (OS Build 14393.2156)",
       "Comment": ""
     },
     {
@@ -1087,6 +1241,7 @@
       "Version": "10586.1540",
       "ReleaseDate": "2018-04-10",
       "Article": "KB4093109",
+      "KBTitle": "April 10, 2018—KB4093109 (OS Build 10586.1540)",
       "Comment": ""
     },
     {
@@ -1094,6 +1249,7 @@
       "Version": "14393.2189",
       "ReleaseDate": "2018-04-10",
       "Article": "KB4093119",
+      "KBTitle": "April 10, 2018—KB4093119 (OS Build 14393.2189)",
       "Comment": ""
     },
     {
@@ -1101,6 +1257,7 @@
       "Version": "10240.17831",
       "ReleaseDate": "2018-04-10",
       "Article": "KB4093111",
+      "KBTitle": "April 10, 2018—KB4093111 (OS Build 10240.17831)",
       "Comment": ""
     },
     {
@@ -1108,6 +1265,7 @@
       "Version": "15063.1029",
       "ReleaseDate": "2018-04-10",
       "Article": "KB4093107",
+      "KBTitle": "April 10, 2018—KB4093107 (OS Build 15063.1029)",
       "Comment": ""
     },
     {
@@ -1115,13 +1273,15 @@
       "Version": "16299.371",
       "ReleaseDate": "2018-04-10",
       "Article": "KB4093112",
+      "KBTitle": "April 10, 2018—KB4093112 (OS Build 16299.371)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.369",
       "Version": "15254.369",
       "ReleaseDate": "2018-04-10",
-      "Article": "KB4099572 Update for Windows 10 Mobile",
+      "Article": "KB4099572",
+      "KBTitle": "April 10, 2018—KB4099572 Update for Windows 10 Mobile (OS Build 15254.369)",
       "Comment": ""
     },
     {
@@ -1129,6 +1289,7 @@
       "Version": "15063.1058",
       "ReleaseDate": "2018-04-17",
       "Article": "KB4093117",
+      "KBTitle": "April 17, 2018—KB4093117 (OS Build 15063.1058)",
       "Comment": ""
     },
     {
@@ -1136,6 +1297,7 @@
       "Version": "14393.2214",
       "ReleaseDate": "2018-04-17",
       "Article": "KB4093120",
+      "KBTitle": "April 17, 2018—KB4093120 (OS Build 14393.2214)",
       "Comment": ""
     },
     {
@@ -1143,6 +1305,7 @@
       "Version": "16299.402",
       "ReleaseDate": "2018-04-23",
       "Article": "KB4093105",
+      "KBTitle": "April 23, 2018—KB4093105 (OS Build 16299.402)",
       "Comment": ""
     },
     {
@@ -1150,6 +1313,7 @@
       "Version": "15063.1088",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4103731",
+      "KBTitle": "May 8, 2018—KB4103731 (OS Build 15063.1088)",
       "Comment": ""
     },
     {
@@ -1157,13 +1321,15 @@
       "Version": "16299.431",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4103727",
+      "KBTitle": "May 8, 2018—KB4103727 (OS Build 16299.431)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.401",
       "Version": "15254.401",
       "ReleaseDate": "2018-05-08",
-      "Article": "KB4134196 Update for Windows 10 Mobile",
+      "Article": "KB4134196",
+      "KBTitle": "May 8, 2018—KB4134196 Update for Windows 10 Mobile (OS Build 15254.401)",
       "Comment": ""
     },
     {
@@ -1171,6 +1337,7 @@
       "Version": "17134.48",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4103721",
+      "KBTitle": "May 8, 2018—KB4103721 (OS Build 17134.48)",
       "Comment": ""
     },
     {
@@ -1178,6 +1345,7 @@
       "Version": "14393.2248",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4103723",
+      "KBTitle": "May 8, 2018—KB4103723 (OS Build 14393.2248)",
       "Comment": ""
     },
     {
@@ -1185,6 +1353,7 @@
       "Version": "10240.17861",
       "ReleaseDate": "2018-05-08",
       "Article": "KB4103716",
+      "KBTitle": "May 8, 2018—KB4103716 (OS Build 10240.17861)",
       "Comment": ""
     },
     {
@@ -1192,6 +1361,7 @@
       "Version": "14393.2273",
       "ReleaseDate": "2018-05-17",
       "Article": "KB4103720",
+      "KBTitle": "May 17, 2018—KB4103720 (OS Build 14393.2273)",
       "Comment": ""
     },
     {
@@ -1199,6 +1369,7 @@
       "Version": "15063.1112",
       "ReleaseDate": "2018-05-17",
       "Article": "KB4103722",
+      "KBTitle": "May 17, 2018—KB4103722 (OS Build 15063.1112)",
       "Comment": ""
     },
     {
@@ -1206,6 +1377,7 @@
       "Version": "16299.461",
       "ReleaseDate": "2018-05-21",
       "Article": "KB4103714",
+      "KBTitle": "May 21, 2018—KB4103714 (OS Build 16299.461)",
       "Comment": ""
     },
     {
@@ -1213,6 +1385,7 @@
       "Version": "17134.81",
       "ReleaseDate": "2018-05-23",
       "Article": "KB4100403",
+      "KBTitle": "May 23, 2018—KB4100403 (OS Build 17134.81)",
       "Comment": ""
     },
     {
@@ -1220,6 +1393,7 @@
       "Version": "17134.83",
       "ReleaseDate": "2018-06-05",
       "Article": "KB4338548",
+      "KBTitle": "June 5, 2018—KB4338548 (OS Build 17134.83)",
       "Comment": ""
     },
     {
@@ -1227,6 +1401,7 @@
       "Version": "17134.112",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284835",
+      "KBTitle": "June 12, 2018—KB4284835 (OS Build 17134.112)",
       "Comment": ""
     },
     {
@@ -1234,6 +1409,7 @@
       "Version": "14393.2312",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284880",
+      "KBTitle": "June 12, 2018—KB4284880 (OS Build 14393.2312)",
       "Comment": ""
     },
     {
@@ -1241,13 +1417,15 @@
       "Version": "16299.492",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284819",
+      "KBTitle": "June 12, 2018—KB4284819 (OS Build 16299.492)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.489",
       "Version": "15254.489",
       "ReleaseDate": "2018-06-12",
-      "Article": "KB4316692 Update for Windows 10 Mobile",
+      "Article": "KB4316692",
+      "KBTitle": "June 12, 2018—KB4316692 Update for Windows 10 Mobile (OS Build 15254.489)",
       "Comment": ""
     },
     {
@@ -1255,6 +1433,7 @@
       "Version": "15063.1155",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284874",
+      "KBTitle": "June 12, 2018—KB4284874 (OS Build 15063.1155)",
       "Comment": ""
     },
     {
@@ -1262,6 +1441,7 @@
       "Version": "10240.17889",
       "ReleaseDate": "2018-06-12",
       "Article": "KB4284860",
+      "KBTitle": "June 12, 2018—KB4284860 (OS Build 10240.17889)",
       "Comment": ""
     },
     {
@@ -1269,6 +1449,7 @@
       "Version": "14393.2339",
       "ReleaseDate": "2018-06-21",
       "Article": "KB4284833",
+      "KBTitle": "June 21, 2018—KB4284833 (OS Build 14393.2339)",
       "Comment": ""
     },
     {
@@ -1276,6 +1457,7 @@
       "Version": "16299.522",
       "ReleaseDate": "2018-06-21",
       "Article": "KB4284822",
+      "KBTitle": "June 21, 2018—KB4284822 (OS Build 16299.522)",
       "Comment": ""
     },
     {
@@ -1283,6 +1465,7 @@
       "Version": "15063.1182",
       "ReleaseDate": "2018-06-21",
       "Article": "KB4284830",
+      "KBTitle": "June 21, 2018—KB4284830 (OS Build 15063.1182)",
       "Comment": ""
     },
     {
@@ -1290,6 +1473,7 @@
       "Version": "17134.137",
       "ReleaseDate": "2018-06-26",
       "Article": "KB4284848",
+      "KBTitle": "June 26, 2018—KB4284848 (OS Build 17134.137)",
       "Comment": ""
     },
     {
@@ -1297,6 +1481,7 @@
       "Version": "16299.547",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338825",
+      "KBTitle": "July 10, 2018—KB4338825 (OS Build 16299.547)",
       "Comment": ""
     },
     {
@@ -1304,6 +1489,7 @@
       "Version": "17134.165",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338819",
+      "KBTitle": "July 10, 2018—KB4338819 (OS Build 17134.165)",
       "Comment": ""
     },
     {
@@ -1311,6 +1497,7 @@
       "Version": "14393.2363",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338814",
+      "KBTitle": "July 10, 2018—KB4338814 (OS Build 14393.2363)",
       "Comment": ""
     },
     {
@@ -1318,6 +1505,7 @@
       "Version": "10240.17914",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338829",
+      "KBTitle": "July 10, 2018—KB4338829 (OS Build 10240.17914)",
       "Comment": ""
     },
     {
@@ -1325,6 +1513,7 @@
       "Version": "15063.1206",
       "ReleaseDate": "2018-07-10",
       "Article": "KB4338826",
+      "KBTitle": "July 10, 2018—KB4338826 (OS Build 15063.1206)",
       "Comment": ""
     },
     {
@@ -1332,6 +1521,7 @@
       "Version": "14393.2368",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345418",
+      "KBTitle": "July 16, 2018—KB4345418 (OS Build 14393.2368)",
       "Comment": ""
     },
     {
@@ -1339,6 +1529,7 @@
       "Version": "17134.167",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345421",
+      "KBTitle": "July 16, 2018—KB4345421 (OS Build 17134.167)",
       "Comment": ""
     },
     {
@@ -1346,6 +1537,7 @@
       "Version": "15063.1209",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345419",
+      "KBTitle": "July 16, 2018—KB4345419 (OS Build 15063.1209)",
       "Comment": ""
     },
     {
@@ -1353,6 +1545,7 @@
       "Version": "16299.551",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345420",
+      "KBTitle": "July 16, 2018—KB4345420 (OS Build 16299.551)",
       "Comment": ""
     },
     {
@@ -1360,6 +1553,7 @@
       "Version": "10240.17918",
       "ReleaseDate": "2018-07-16",
       "Article": "KB4345455",
+      "KBTitle": "July 16, 2018—KB4345455 (OS Build 10240.17918)",
       "Comment": ""
     },
     {
@@ -1367,6 +1561,7 @@
       "Version": "15063.1235",
       "ReleaseDate": "2018-07-24",
       "Article": "KB4338827",
+      "KBTitle": "July 24, 2018—KB4338827 (OS Build 15063.1235)",
       "Comment": ""
     },
     {
@@ -1374,6 +1569,7 @@
       "Version": "16299.579",
       "ReleaseDate": "2018-07-24",
       "Article": "KB4338817",
+      "KBTitle": "July 24, 2018—KB4338817 (OS Build 16299.579)",
       "Comment": ""
     },
     {
@@ -1381,6 +1577,7 @@
       "Version": "14393.2395",
       "ReleaseDate": "2018-07-24",
       "Article": "KB4338822",
+      "KBTitle": "July 24, 2018—KB4338822 (OS Build 14393.2395)",
       "Comment": ""
     },
     {
@@ -1388,6 +1585,7 @@
       "Version": "17134.191",
       "ReleaseDate": "2018-07-24",
       "Article": "KB4340917",
+      "KBTitle": "July 24, 2018—KB4340917 (OS Build 17134.191)",
       "Comment": ""
     },
     {
@@ -1395,6 +1593,7 @@
       "Version": "14393.2396",
       "ReleaseDate": "2018-07-30",
       "Article": "KB4346877",
+      "KBTitle": "July 30, 2018 - KB4346877 (OS Build 14393.2396)",
       "Comment": ""
     },
     {
@@ -1402,6 +1601,7 @@
       "Version": "17134.228",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343909",
+      "KBTitle": "August 14, 2018—KB4343909 (OS Build 17134.228)",
       "Comment": ""
     },
     {
@@ -1409,6 +1609,7 @@
       "Version": "10240.17946",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343892",
+      "KBTitle": "August 14, 2018—KB4343892 (OS Build 10240.17946)",
       "Comment": ""
     },
     {
@@ -1416,6 +1617,7 @@
       "Version": "15063.1266",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343885",
+      "KBTitle": "August 14, 2018—KB4343885 (OS Build 15063.1266)",
       "Comment": ""
     },
     {
@@ -1423,6 +1625,7 @@
       "Version": "14393.2430",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343887",
+      "KBTitle": "August 14, 2018—KB4343887 (OS Build 14393.2430)",
       "Comment": ""
     },
     {
@@ -1430,13 +1633,15 @@
       "Version": "16299.611",
       "ReleaseDate": "2018-08-14",
       "Article": "KB4343897",
+      "KBTitle": "August 14, 2018—KB4343897 (OS Build 16299.611)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.527",
       "Version": "15254.527",
       "ReleaseDate": "2018-08-14",
-      "Article": "KB4346644 Update for Windows 10 Mobile",
+      "Article": "KB4346644",
+      "KBTitle": "August 14, 2018—KB4346644 Update for Windows 10 Mobile (OS Build 15254.527)",
       "Comment": ""
     },
     {
@@ -1444,6 +1649,7 @@
       "Version": "17134.254",
       "ReleaseDate": "2018-08-30",
       "Article": "KB4346783",
+      "KBTitle": "August 30, 2018—KB4346783 (OS Build 17134.254)",
       "Comment": ""
     },
     {
@@ -1451,6 +1657,7 @@
       "Version": "16299.637",
       "ReleaseDate": "2018-08-30",
       "Article": "KB4343893",
+      "KBTitle": "August 30, 2018—KB4343893 (OS Build 16299.637)",
       "Comment": ""
     },
     {
@@ -1458,6 +1665,7 @@
       "Version": "14393.2457",
       "ReleaseDate": "2018-08-30",
       "Article": "KB4343884",
+      "KBTitle": "August 30, 2018—KB4343884 (OS Build 14393.2457)",
       "Comment": ""
     },
     {
@@ -1465,6 +1673,7 @@
       "Version": "15063.1292",
       "ReleaseDate": "2018-08-30",
       "Article": "KB4343889",
+      "KBTitle": "August 30, 2018—KB4343889 (OS Build 15063.1292)",
       "Comment": ""
     },
     {
@@ -1472,6 +1681,7 @@
       "Version": "17134.285",
       "ReleaseDate": "2018-09-11",
       "Article": "KB4457128",
+      "KBTitle": "September 11, 2018—KB4457128 (OS Build 17134.285)",
       "Comment": ""
     },
     {
@@ -1479,6 +1689,7 @@
       "Version": "14393.2485",
       "ReleaseDate": "2018-09-11",
       "Article": "KB4457131",
+      "KBTitle": "September 11, 2018—KB4457131 (OS Build 14393.2485)",
       "Comment": ""
     },
     {
@@ -1486,6 +1697,7 @@
       "Version": "10240.17976",
       "ReleaseDate": "2018-09-11",
       "Article": "KB4457132",
+      "KBTitle": "September 11, 2018-KB4457132 (OS Build 10240.17976)",
       "Comment": ""
     },
     {
@@ -1493,6 +1705,7 @@
       "Version": "15063.1324",
       "ReleaseDate": "2018-09-11",
       "Article": "KB4457138",
+      "KBTitle": "September 11, 2018—KB4457138 (OS Build 15063.1324)",
       "Comment": ""
     },
     {
@@ -1500,13 +1713,15 @@
       "Version": "16299.665",
       "ReleaseDate": "2018-09-11",
       "Article": "KB4457142",
+      "KBTitle": "September 11, 2018—KB4457142 (OS Build 16299.665)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.530",
       "Version": "15254.530",
       "ReleaseDate": "2018-09-11",
-      "Article": "KB4459082 Update for Windows 10 Mobile",
+      "Article": "KB4459082",
+      "KBTitle": "September 11, 2018—KB4459082 Update for Windows 10 Mobile (OS Build 15254.530)",
       "Comment": ""
     },
     {
@@ -1514,6 +1729,7 @@
       "Version": "16299.666",
       "ReleaseDate": "2018-09-17",
       "Article": "KB4464217",
+      "KBTitle": "September 17, 2018—KB4464217 (OS Build 16299.666)",
       "Comment": ""
     },
     {
@@ -1521,6 +1737,7 @@
       "Version": "17134.286",
       "ReleaseDate": "2018-09-17",
       "Article": "KB4464218",
+      "KBTitle": "September 17, 2018—KB4464218 (OS Build 17134.286)",
       "Comment": ""
     },
     {
@@ -1528,6 +1745,7 @@
       "Version": "15063.1358",
       "ReleaseDate": "2018-09-20",
       "Article": "KB4457141",
+      "KBTitle": "September 20, 2018—KB4457141 (OS Build 15063.1358)",
       "Comment": ""
     },
     {
@@ -1535,6 +1753,7 @@
       "Version": "14393.2515",
       "ReleaseDate": "2018-09-20",
       "Article": "KB4457127",
+      "KBTitle": "September 20, 2018—KB4457127 (OS Build 14393.2515)",
       "Comment": ""
     },
     {
@@ -1542,6 +1761,7 @@
       "Version": "17134.320",
       "ReleaseDate": "2018-09-26",
       "Article": "KB4458469",
+      "KBTitle": "September 26, 2018—KB4458469 (OS Build 17134.320)",
       "Comment": ""
     },
     {
@@ -1549,6 +1769,7 @@
       "Version": "16299.699",
       "ReleaseDate": "2018-09-26",
       "Article": "KB4457136",
+      "KBTitle": "September 26, 2018—KB4457136 (OS Build 16299.699)",
       "Comment": ""
     },
     {
@@ -1556,13 +1777,15 @@
       "Version": "15063.1387",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462937",
+      "KBTitle": "October 9, 2018—KB4462937 (OS Build 15063.1387)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.538",
       "Version": "15254.538",
       "ReleaseDate": "2018-10-09",
-      "Article": "KB4464853 Update for Windows 10 Mobile",
+      "Article": "KB4464853",
+      "KBTitle": "October 9, 2018—KB4464853 Update for Windows 10 Mobile (OS Build 15254.538)",
       "Comment": ""
     },
     {
@@ -1570,6 +1793,7 @@
       "Version": "16299.726",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462918",
+      "KBTitle": "October 9, 2018—KB4462918 (OS Build 16299.726)",
       "Comment": ""
     },
     {
@@ -1577,6 +1801,7 @@
       "Version": "17763.55",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4464330",
+      "KBTitle": "October 9, 2018—KB4464330 (OS Build 17763.55)",
       "Comment": ""
     },
     {
@@ -1584,6 +1809,7 @@
       "Version": "10240.18005",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462922",
+      "KBTitle": "October 9, 2018-KB4462922 (OS Build 10240.18005)",
       "Comment": ""
     },
     {
@@ -1591,6 +1817,7 @@
       "Version": "14393.2551",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462917",
+      "KBTitle": "October 9, 2018—KB4462917 (OS Build 14393.2551)",
       "Comment": ""
     },
     {
@@ -1598,6 +1825,7 @@
       "Version": "17134.345",
       "ReleaseDate": "2018-10-09",
       "Article": "KB4462919",
+      "KBTitle": "October 9, 2018—KB4462919 (OS Build 17134.345)",
       "Comment": ""
     },
     {
@@ -1605,6 +1833,7 @@
       "Version": "16299.755",
       "ReleaseDate": "2018-10-18",
       "Article": "KB4462932",
+      "KBTitle": "October 18, 2018—KB4462932 (OS Build 16299.755)",
       "Comment": ""
     },
     {
@@ -1612,6 +1841,7 @@
       "Version": "14393.2580",
       "ReleaseDate": "2018-10-18",
       "Article": "KB4462928",
+      "KBTitle": "October 18, 2018—KB4462928 (OS Build 14393.2580)",
       "Comment": ""
     },
     {
@@ -1619,6 +1849,7 @@
       "Version": "15063.1418",
       "ReleaseDate": "2018-10-18",
       "Article": "KB4462939",
+      "KBTitle": "October 18, 2018—KB4462939 (OS Build 15063.1418)",
       "Comment": ""
     },
     {
@@ -1626,6 +1857,7 @@
       "Version": "17134.376",
       "ReleaseDate": "2018-10-24",
       "Article": "KB4462933",
+      "KBTitle": "October 24, 2018—KB4462933 (OS Build 17134.376)",
       "Comment": ""
     },
     {
@@ -1633,6 +1865,7 @@
       "Version": "17763.107",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4464455",
+      "KBTitle": "November 13, 2018—KB4464455 (OS Build 17763.107)",
       "Comment": ""
     },
     {
@@ -1640,6 +1873,7 @@
       "Version": "16299.785",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467686",
+      "KBTitle": "November 13, 2018—KB4467686 (OS Build 16299.785)",
       "Comment": ""
     },
     {
@@ -1647,6 +1881,7 @@
       "Version": "17134.407",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467702",
+      "KBTitle": "November 13, 2018—KB4467702 (OS Build 17134.407)",
       "Comment": ""
     },
     {
@@ -1654,6 +1889,7 @@
       "Version": "10240.18036",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467680",
+      "KBTitle": "November 13, 2018-KB4467680 (OS Build 10240.18036)",
       "Comment": ""
     },
     {
@@ -1661,6 +1897,7 @@
       "Version": "14393.2608",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467691",
+      "KBTitle": "November 13, 2018—KB4467691 (OS Build 14393.2608)",
       "Comment": ""
     },
     {
@@ -1668,6 +1905,7 @@
       "Version": "17763.134",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467708",
+      "KBTitle": "November 13, 2018—KB4467708 (OS Build 17763.134)",
       "Comment": ""
     },
     {
@@ -1675,13 +1913,15 @@
       "Version": "15063.1446",
       "ReleaseDate": "2018-11-13",
       "Article": "KB4467696",
+      "KBTitle": "November 13, 2018—KB4467696 (OS Build 15063.1446)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.541",
       "Version": "15254.541",
       "ReleaseDate": "2018-11-13",
-      "Article": "KB4469220 Update for Windows 10 Mobile",
+      "Article": "KB4469220",
+      "KBTitle": "November 13, 2018—KB4469220 Update for Windows 10 Mobile (OS Build 15254.541)",
       "Comment": ""
     },
     {
@@ -1689,6 +1929,7 @@
       "Version": "15063.1478",
       "ReleaseDate": "2018-11-27",
       "Article": "KB4467699",
+      "KBTitle": "November 27, 2018—KB4467699 (OS Build 15063.1478)",
       "Comment": ""
     },
     {
@@ -1696,6 +1937,7 @@
       "Version": "17134.441",
       "ReleaseDate": "2018-11-27",
       "Article": "KB4467682",
+      "KBTitle": "November 27, 2018—KB4467682 (OS Build 17134.441)",
       "Comment": ""
     },
     {
@@ -1703,6 +1945,7 @@
       "Version": "14393.2639",
       "ReleaseDate": "2018-11-27",
       "Article": "KB4467684",
+      "KBTitle": "November 27, 2018—KB4467684 (OS Build 14393.2639)",
       "Comment": ""
     },
     {
@@ -1710,6 +1953,7 @@
       "Version": "16299.820",
       "ReleaseDate": "2018-11-27",
       "Article": "KB4467681",
+      "KBTitle": "November 27, 2018—KB4467681 (OS Build 16299.820)",
       "Comment": ""
     },
     {
@@ -1717,6 +1961,7 @@
       "Version": "14393.2641",
       "ReleaseDate": "2018-12-03",
       "Article": "KB4478877",
+      "KBTitle": "December 3, 2018—KB4478877 (OS Build 14393.2641)",
       "Comment": ""
     },
     {
@@ -1724,6 +1969,7 @@
       "Version": "17763.168",
       "ReleaseDate": "2018-12-05",
       "Article": "KB4469342",
+      "KBTitle": "December 5, 2018—KB4469342 (OS Build 17763.168)",
       "Comment": ""
     },
     {
@@ -1731,6 +1977,7 @@
       "Version": "17763.194",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471332",
+      "KBTitle": "December 11, 2018—KB4471332 (OS Build 17763.194)",
       "Comment": ""
     },
     {
@@ -1738,6 +1985,7 @@
       "Version": "15063.1506",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471327",
+      "KBTitle": "December 11, 2018—KB4471327 (OS Build 15063.1506)",
       "Comment": ""
     },
     {
@@ -1745,13 +1993,15 @@
       "Version": "17134.471",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471324",
+      "KBTitle": "December 11, 2018—KB4471324 (OS Build 17134.471)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.544",
       "Version": "15254.544",
       "ReleaseDate": "2018-12-11",
-      "Article": "KB4478936 Update for Windows 10 Mobile",
+      "Article": "KB4478936",
+      "KBTitle": "December 11, 2018—KB4478936 Update for Windows 10 Mobile (OS Build 15254.544)",
       "Comment": ""
     },
     {
@@ -1759,6 +2009,7 @@
       "Version": "16299.846",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471329",
+      "KBTitle": "December 11, 2018—KB4471329 (OS Build 16299.846)",
       "Comment": ""
     },
     {
@@ -1766,6 +2017,7 @@
       "Version": "14393.2665",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471321",
+      "KBTitle": "December 11, 2018—KB4471321 (OS Build 14393.2665)",
       "Comment": ""
     },
     {
@@ -1773,6 +2025,7 @@
       "Version": "10240.18063",
       "ReleaseDate": "2018-12-11",
       "Article": "KB4471323",
+      "KBTitle": "December 11, 2018-KB4471323 (OS Build 10240.18063)",
       "Comment": ""
     },
     {
@@ -1780,6 +2033,7 @@
       "Version": "16299.847",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483232",
+      "KBTitle": "December 19, 2018—KB4483232 (OS Build 16299.847)",
       "Comment": ""
     },
     {
@@ -1787,6 +2041,7 @@
       "Version": "14393.2670",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483229",
+      "KBTitle": "December 19, 2018—KB4483229 (OS Build 14393.2670)",
       "Comment": ""
     },
     {
@@ -1794,6 +2049,7 @@
       "Version": "17134.472",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483234",
+      "KBTitle": "December 19, 2018—KB4483234 (OS Build 17134.472)",
       "Comment": ""
     },
     {
@@ -1801,6 +2057,7 @@
       "Version": "15063.1508",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483230",
+      "KBTitle": "December 19, 2018—KB4483230 (OS Build 15063.1508)",
       "Comment": ""
     },
     {
@@ -1808,6 +2065,7 @@
       "Version": "10240.18064",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483228",
+      "KBTitle": "December 19, 2018-KB4483228 (OS Build 10240.18064)",
       "Comment": ""
     },
     {
@@ -1815,6 +2073,7 @@
       "Version": "17763.195",
       "ReleaseDate": "2018-12-19",
       "Article": "KB4483235",
+      "KBTitle": "December 19, 2018—KB4483235 (OS Build 17763.195)",
       "Comment": ""
     },
     {
@@ -1822,6 +2081,7 @@
       "Version": "17763.253",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480116",
+      "KBTitle": "January 8, 2019—KB4480116 (OS Build 17763.253)",
       "Comment": ""
     },
     {
@@ -1829,6 +2089,7 @@
       "Version": "14393.2724",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480961",
+      "KBTitle": "January 8, 2019—KB4480961 (OS Build 14393.2724)",
       "Comment": ""
     },
     {
@@ -1836,13 +2097,15 @@
       "Version": "10240.18094",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480962",
+      "KBTitle": "January 8, 2019-KB4480962 (OS Build 10240.18094)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.547",
       "Version": "15254.547",
       "ReleaseDate": "2019-01-08",
-      "Article": "KB4483203 Update for Windows 10 Mobile",
+      "Article": "KB4483203",
+      "KBTitle": "January 8, 2019—KB4483203 Update for Windows 10 Mobile (OS Build 15254.547)",
       "Comment": ""
     },
     {
@@ -1850,6 +2113,7 @@
       "Version": "17134.523",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480966",
+      "KBTitle": "January 8, 2019—KB4480966 (OS Build 17134.523)",
       "Comment": ""
     },
     {
@@ -1857,6 +2121,7 @@
       "Version": "15063.1563",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480973",
+      "KBTitle": "January 8, 2019—KB4480973 (OS Build 15063.1563)",
       "Comment": ""
     },
     {
@@ -1864,6 +2129,7 @@
       "Version": "16299.904",
       "ReleaseDate": "2019-01-08",
       "Article": "KB4480978",
+      "KBTitle": "January 8, 2019—KB4480978 (OS Build 16299.904)",
       "Comment": ""
     },
     {
@@ -1871,6 +2137,7 @@
       "Version": "16299.936",
       "ReleaseDate": "2019-01-15",
       "Article": "KB4480967",
+      "KBTitle": "January 15, 2019—KB4480967 (OS Build 16299.936)",
       "Comment": ""
     },
     {
@@ -1878,6 +2145,7 @@
       "Version": "15063.1596",
       "ReleaseDate": "2019-01-15",
       "Article": "KB4480959",
+      "KBTitle": "January 15, 2019—KB4480959 (OS Build 15063.1596)",
       "Comment": ""
     },
     {
@@ -1885,6 +2153,7 @@
       "Version": "17134.556",
       "ReleaseDate": "2019-01-15",
       "Article": "KB4480976",
+      "KBTitle": "January 15, 2019—KB4480976 (OS Build 17134.556)",
       "Comment": ""
     },
     {
@@ -1892,6 +2161,7 @@
       "Version": "14393.2759",
       "ReleaseDate": "2019-01-17",
       "Article": "KB4480977",
+      "KBTitle": "January 17, 2019—KB4480977 (OS Build 14393.2759)",
       "Comment": ""
     },
     {
@@ -1899,13 +2169,15 @@
       "Version": "17763.292",
       "ReleaseDate": "2019-01-22",
       "Article": "KB4476976",
+      "KBTitle": "January 22, 2019—KB4476976 (OS Build 17763.292)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.552",
       "Version": "15254.552",
       "ReleaseDate": "2019-02-12",
-      "Article": "KB4487695 Update for Windows 10 Mobile",
+      "Article": "KB4487695",
+      "KBTitle": "February 12, 2019—KB4487695 Update for Windows 10 Mobile (OS Build 15254.552)",
       "Comment": ""
     },
     {
@@ -1913,6 +2185,7 @@
       "Version": "15063.1631",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487020",
+      "KBTitle": "February 12, 2019—KB4487020 (OS Build 15063.1631)",
       "Comment": ""
     },
     {
@@ -1920,6 +2193,7 @@
       "Version": "17763.316",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487044",
+      "KBTitle": "February 12, 2019—KB4487044 (OS Build 17763.316)",
       "Comment": ""
     },
     {
@@ -1927,6 +2201,7 @@
       "Version": "14393.2791",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487026",
+      "KBTitle": "February 12, 2019—KB4487026 (OS Build 14393.2791)",
       "Comment": ""
     },
     {
@@ -1934,6 +2209,7 @@
       "Version": "16299.967",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4486996",
+      "KBTitle": "February 12, 2019—KB4486996 (OS Build 16299.967)",
       "Comment": ""
     },
     {
@@ -1941,6 +2217,7 @@
       "Version": "17134.590",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487017",
+      "KBTitle": "February 12, 2019—KB4487017 (OS Build 17134.590)",
       "Comment": ""
     },
     {
@@ -1948,6 +2225,7 @@
       "Version": "10240.18132",
       "ReleaseDate": "2019-02-12",
       "Article": "KB4487018",
+      "KBTitle": "February 12, 2019-KB4487018 (OS Build 10240.18132)",
       "Comment": ""
     },
     {
@@ -1955,6 +2233,7 @@
       "Version": "14393.2828",
       "ReleaseDate": "2019-02-19",
       "Article": "KB4487006",
+      "KBTitle": "February 19, 2019—KB4487006 (OS Build 14393.2828)",
       "Comment": ""
     },
     {
@@ -1962,6 +2241,7 @@
       "Version": "17134.619",
       "ReleaseDate": "2019-02-19",
       "Article": "KB4487029",
+      "KBTitle": "February 19, 2019—KB4487029 (OS Build 17134.619)",
       "Comment": ""
     },
     {
@@ -1969,6 +2249,7 @@
       "Version": "15063.1659",
       "ReleaseDate": "2019-02-19",
       "Article": "KB4487011",
+      "KBTitle": "February 19, 2019—KB4487011 (OS Build 15063.1659)",
       "Comment": ""
     },
     {
@@ -1976,6 +2257,7 @@
       "Version": "16299.1004",
       "ReleaseDate": "2019-02-19",
       "Article": "KB4487021",
+      "KBTitle": "February 19, 2019—KB4487021 (OS Build 16299.1004)",
       "Comment": ""
     },
     {
@@ -1983,6 +2265,7 @@
       "Version": "10240.18135",
       "ReleaseDate": "2019-02-21",
       "Article": "KB4491101",
+      "KBTitle": "February 21, 2019-KB4491101 (OS Build 10240.18135)",
       "Comment": ""
     },
     {
@@ -1990,13 +2273,15 @@
       "Version": "17763.348",
       "ReleaseDate": "2019-03-01",
       "Article": "KB4482887",
+      "KBTitle": "March 1, 2019—KB4482887 (OS Build 17763.348)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.556",
       "Version": "15254.556",
       "ReleaseDate": "2019-03-12",
-      "Article": "KB4491736 Update for Windows 10 Mobile",
+      "Article": "KB4491736",
+      "KBTitle": "March 12, 2019—KB4491736 Update for Windows 10 Mobile (OS Build 15254.556)",
       "Comment": ""
     },
     {
@@ -2004,6 +2289,7 @@
       "Version": "17763.379",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489899",
+      "KBTitle": "March 12, 2019—KB4489899 (OS Build 17763.379)",
       "Comment": ""
     },
     {
@@ -2011,6 +2297,7 @@
       "Version": "10240.18158",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489872",
+      "KBTitle": "March 12, 2019-KB4489872 (OS Build 10240.18158)",
       "Comment": ""
     },
     {
@@ -2018,6 +2305,7 @@
       "Version": "14393.2848",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489882",
+      "KBTitle": "March 12, 2019—KB4489882 (OS Build 14393.2848)",
       "Comment": ""
     },
     {
@@ -2025,6 +2313,7 @@
       "Version": "17134.648",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489868",
+      "KBTitle": "March 12, 2019—KB4489868 (OS Build 17134.648)",
       "Comment": ""
     },
     {
@@ -2032,6 +2321,7 @@
       "Version": "15063.1689",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489871",
+      "KBTitle": "March 12, 2019—KB4489871 (OS Build 15063.1689)",
       "Comment": ""
     },
     {
@@ -2039,6 +2329,7 @@
       "Version": "16299.1029",
       "ReleaseDate": "2019-03-12",
       "Article": "KB4489886",
+      "KBTitle": "March 12, 2019—KB4489886 (OS Build 16299.1029)",
       "Comment": ""
     },
     {
@@ -2046,6 +2337,7 @@
       "Version": "15063.1716",
       "ReleaseDate": "2019-03-19",
       "Article": "KB4489888",
+      "KBTitle": "March 19, 2019—KB4489888 (OS Build 15063.1716)",
       "Comment": ""
     },
     {
@@ -2053,6 +2345,7 @@
       "Version": "17134.677",
       "ReleaseDate": "2019-03-19",
       "Article": "KB4489894",
+      "KBTitle": "March 19, 2019—KB4489894 (OS Build 17134.677)",
       "Comment": ""
     },
     {
@@ -2060,6 +2353,7 @@
       "Version": "16299.1059",
       "ReleaseDate": "2019-03-19",
       "Article": "KB4489890",
+      "KBTitle": "March 19, 2019—KB4489890 (OS Build 16299.1059)",
       "Comment": ""
     },
     {
@@ -2067,6 +2361,7 @@
       "Version": "14393.2879",
       "ReleaseDate": "2019-03-19",
       "Article": "KB4489889",
+      "KBTitle": "March 19, 2019—KB4489889 (OS Build 14393.2879)",
       "Comment": ""
     },
     {
@@ -2074,6 +2369,7 @@
       "Version": "17763.402",
       "ReleaseDate": "2019-03-26",
       "Article": "KB4490481",
+      "KBTitle": "March 26, 2019—KB4490481 (OS Build 17763.402)",
       "Comment": ""
     },
     {
@@ -2081,6 +2377,7 @@
       "Version": "17134.706",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493464",
+      "KBTitle": "April 9, 2019—KB4493464 (OS Build 17134.706)",
       "Comment": ""
     },
     {
@@ -2088,6 +2385,7 @@
       "Version": "17763.437",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493509",
+      "KBTitle": "April 9, 2019—KB4493509 (OS Build 17763.437)",
       "Comment": ""
     },
     {
@@ -2095,6 +2393,7 @@
       "Version": "10240.18186",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493475",
+      "KBTitle": "April 9, 2019-KB4493475 (OS Build 10240.18186)",
       "Comment": ""
     },
     {
@@ -2102,13 +2401,15 @@
       "Version": "15063.1746",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493474",
+      "KBTitle": "April 9, 2019—KB4493474 (OS Build 15063.1746)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.562",
       "Version": "15254.562",
       "ReleaseDate": "2019-04-09",
-      "Article": "KB4495357 Update for Windows 10 Mobile",
+      "Article": "KB4495357",
+      "KBTitle": "April 9, 2019—KB4495357 Update for Windows 10 Mobile (OS Build 15254.562)",
       "Comment": ""
     },
     {
@@ -2116,6 +2417,7 @@
       "Version": "14393.2906",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493470",
+      "KBTitle": "April 9, 2019—KB4493470 (OS Build 14393.2906)",
       "Comment": ""
     },
     {
@@ -2123,6 +2425,7 @@
       "Version": "16299.1087",
       "ReleaseDate": "2019-04-09",
       "Article": "KB4493441",
+      "KBTitle": "April 9, 2019—KB4493441 (OS Build 16299.1087)",
       "Comment": ""
     },
     {
@@ -2130,6 +2433,7 @@
       "Version": "10240.18187",
       "ReleaseDate": "2019-04-25",
       "Article": "KB4498375",
+      "KBTitle": "April 25, 2019-KB4498375 (OS Build 10240.18187)",
       "Comment": ""
     },
     {
@@ -2137,6 +2441,7 @@
       "Version": "16299.1127",
       "ReleaseDate": "2019-04-25",
       "Article": "KB4493440",
+      "KBTitle": "April 25, 2019—KB4493440 (OS Build 16299.1127)",
       "Comment": ""
     },
     {
@@ -2144,6 +2449,7 @@
       "Version": "15063.1784",
       "ReleaseDate": "2019-04-25",
       "Article": "KB4493436",
+      "KBTitle": "April 25, 2019—KB4493436 (OS Build 15063.1784)",
       "Comment": ""
     },
     {
@@ -2151,6 +2457,7 @@
       "Version": "17134.753",
       "ReleaseDate": "2019-04-25",
       "Article": "KB4493437",
+      "KBTitle": "April 25, 2019—KB4493437 (OS Build 17134.753)",
       "Comment": ""
     },
     {
@@ -2158,6 +2465,7 @@
       "Version": "14393.2941",
       "ReleaseDate": "2019-04-25",
       "Article": "KB4493473",
+      "KBTitle": "April 25, 2019—KB4493473 (OS Build 14393.2941)",
       "Comment": ""
     },
     {
@@ -2165,6 +2473,7 @@
       "Version": "17763.439",
       "ReleaseDate": "2019-05-01",
       "Article": "KB4501835",
+      "KBTitle": "May 1, 2019—KB4501835 (OS Build 17763.439)",
       "Comment": ""
     },
     {
@@ -2172,6 +2481,7 @@
       "Version": "15063.1785",
       "ReleaseDate": "2019-05-02",
       "Article": "KB4502112",
+      "KBTitle": "May 2, 2019—KB4502112 (OS Build 15063.1785)",
       "Comment": ""
     },
     {
@@ -2179,6 +2489,7 @@
       "Version": "17763.475",
       "ReleaseDate": "2019-05-03",
       "Article": "KB4495667",
+      "KBTitle": "May 3, 2019—KB4495667 (OS Build 17763.475)",
       "Comment": ""
     },
     {
@@ -2186,6 +2497,7 @@
       "Version": "15063.1805",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4499181",
+      "KBTitle": "May 14, 2019—KB4499181 (OS Build 15063.1805)",
       "Comment": ""
     },
     {
@@ -2193,6 +2505,7 @@
       "Version": "17763.503",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4494441",
+      "KBTitle": "May 14, 2019—KB4494441 (OS Build 17763.503)",
       "Comment": ""
     },
     {
@@ -2200,13 +2513,15 @@
       "Version": "14393.2969",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4494440",
+      "KBTitle": "May 14, 2019—KB4494440 (OS Build 14393.2969)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.566",
       "Version": "15254.566",
       "ReleaseDate": "2019-05-14",
-      "Article": "KB4500154 Update for Windows 10 Mobile",
+      "Article": "KB4500154",
+      "KBTitle": "May 14, 2019—KB4500154 Update for Windows 10 Mobile (OS Build 15254.566)",
       "Comment": ""
     },
     {
@@ -2214,6 +2529,7 @@
       "Version": "10240.18215",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4499154",
+      "KBTitle": "May 14, 2019-KB4499154 (OS Build 10240.18215)",
       "Comment": ""
     },
     {
@@ -2221,6 +2537,7 @@
       "Version": "16299.1146",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4499179",
+      "KBTitle": "May 14, 2019—KB4499179 (OS Build 16299.1146)",
       "Comment": ""
     },
     {
@@ -2228,6 +2545,7 @@
       "Version": "17134.765",
       "ReleaseDate": "2019-05-14",
       "Article": "KB4499167",
+      "KBTitle": "May 14, 2019—KB4499167 (OS Build 17134.765)",
       "Comment": ""
     },
     {
@@ -2235,6 +2553,7 @@
       "Version": "17763.504",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505056",
+      "KBTitle": "May 19, 2019—KB4505056 (OS Build 17763.504)",
       "Comment": ""
     },
     {
@@ -2242,6 +2561,7 @@
       "Version": "17134.766",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505064",
+      "KBTitle": "May 19, 2019—KB4505064 (OS Build 17134.766)",
       "Comment": ""
     },
     {
@@ -2249,6 +2569,7 @@
       "Version": "15063.1808",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505055",
+      "KBTitle": "May 19, 2019—KB4505055 (OS Build 15063.1808)",
       "Comment": ""
     },
     {
@@ -2256,6 +2577,7 @@
       "Version": "10240.18218",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505051",
+      "KBTitle": "May 19, 2019-KB4505051 (OS Build 10240.18218)",
       "Comment": ""
     },
     {
@@ -2263,6 +2585,7 @@
       "Version": "14393.2972",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505052",
+      "KBTitle": "May 19, 2019—KB4505052 (OS Build 14393.2972)",
       "Comment": ""
     },
     {
@@ -2270,6 +2593,7 @@
       "Version": "16299.1150",
       "ReleaseDate": "2019-05-19",
       "Article": "KB4505062",
+      "KBTitle": "May 19, 2019—KB4505062 (OS Build 16299.1150)",
       "Comment": ""
     },
     {
@@ -2277,6 +2601,7 @@
       "Version": "17763.529",
       "ReleaseDate": "2019-05-21",
       "Article": "KB4497934",
+      "KBTitle": "May 21, 2019—KB4497934 (OS Build OS 17763.529)",
       "Comment": ""
     },
     {
@@ -2284,6 +2609,7 @@
       "Version": "17134.799",
       "ReleaseDate": "2019-05-21",
       "Article": "KB4499183",
+      "KBTitle": "May 21, 2019—KB4499183 (OS Build 17134.799)",
       "Comment": ""
     },
     {
@@ -2291,6 +2617,7 @@
       "Version": "14393.2999",
       "ReleaseDate": "2019-05-23",
       "Article": "KB4499177",
+      "KBTitle": "May 23, 2019—KB4499177 (OS Build 14393.2999)",
       "Comment": ""
     },
     {
@@ -2298,6 +2625,7 @@
       "Version": "15063.1839",
       "ReleaseDate": "2019-05-28",
       "Article": "KB4499162",
+      "KBTitle": "May 28, 2019—KB4499162 (OS Build 15063.1839)",
       "Comment": ""
     },
     {
@@ -2305,6 +2633,7 @@
       "Version": "16299.1182",
       "ReleaseDate": "2019-05-28",
       "Article": "KB4499147",
+      "KBTitle": "May 28, 2019—KB4499147 (OS Build 16299.1182)",
       "Comment": ""
     },
     {
@@ -2312,6 +2641,7 @@
       "Version": "18362.145",
       "ReleaseDate": "2019-05-29",
       "Article": "KB4497935",
+      "KBTitle": "May 29, 2019—KB4497935 (OS Build 18362.145)",
       "Comment": ""
     },
     {
@@ -2319,13 +2649,15 @@
       "Version": "17134.829",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503286",
+      "KBTitle": "June 11, 2019—KB4503286 (OS Build 17134.829)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.572",
       "Version": "15254.572",
       "ReleaseDate": "2019-06-11",
-      "Article": "KB4505390 Update for Windows 10 Mobile",
+      "Article": "KB4505390",
+      "KBTitle": "June 11, 2019—KB4505390 Update for Windows 10 Mobile (OS Build 15254.572)",
       "Comment": ""
     },
     {
@@ -2333,6 +2665,7 @@
       "Version": "14393.3025",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503267",
+      "KBTitle": "June 11, 2019—KB4503267 (OS Build 14393.3025)",
       "Comment": ""
     },
     {
@@ -2340,6 +2673,7 @@
       "Version": "18362.175",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503293",
+      "KBTitle": "June 11, 2019—KB4503293 (OS Build 18362.175)",
       "Comment": ""
     },
     {
@@ -2347,6 +2681,7 @@
       "Version": "17763.557",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503327",
+      "KBTitle": "June 11, 2019—KB4503327 (OS Build 17763.557)",
       "Comment": ""
     },
     {
@@ -2354,6 +2689,7 @@
       "Version": "15063.1868",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503279",
+      "KBTitle": "June 11, 2019—KB4503279 (OS Build 15063.1868)",
       "Comment": ""
     },
     {
@@ -2361,6 +2697,7 @@
       "Version": "10240.18244",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503291",
+      "KBTitle": "June 11, 2019-KB4503291 (OS Build 10240.18244)",
       "Comment": ""
     },
     {
@@ -2368,6 +2705,7 @@
       "Version": "16299.1217",
       "ReleaseDate": "2019-06-11",
       "Article": "KB4503284",
+      "KBTitle": "June 11, 2019—KB4503284 (OS Build 16299.1217)",
       "Comment": ""
     },
     {
@@ -2375,6 +2713,7 @@
       "Version": "17763.592",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4501371",
+      "KBTitle": "June 18, 2019—KB4501371 (OS Build 17763.592)",
       "Comment": ""
     },
     {
@@ -2382,6 +2721,7 @@
       "Version": "14393.3053",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4503294",
+      "KBTitle": "June 18, 2019—KB4503294 (OS Build 14393.3053)",
       "Comment": ""
     },
     {
@@ -2389,6 +2729,7 @@
       "Version": "15063.1897",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4503289",
+      "KBTitle": "June 18, 2019—KB4503289 (OS Build 15063.1897)",
       "Comment": ""
     },
     {
@@ -2396,6 +2737,7 @@
       "Version": "16299.1237",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4503281",
+      "KBTitle": "June 18, 2019—KB4503281 (OS Build 16299.1237)",
       "Comment": ""
     },
     {
@@ -2403,6 +2745,7 @@
       "Version": "17134.858",
       "ReleaseDate": "2019-06-18",
       "Article": "KB4503288",
+      "KBTitle": "June 18, 2019—KB4503288 (OS Build 17134.858)",
       "Comment": ""
     },
     {
@@ -2410,6 +2753,7 @@
       "Version": "17763.593",
       "ReleaseDate": "2019-06-26",
       "Article": "KB4509479",
+      "KBTitle": "June 26, 2019—KB4509479 (OS Build 17763.593)",
       "Comment": ""
     },
     {
@@ -2417,6 +2761,7 @@
       "Version": "17134.860",
       "ReleaseDate": "2019-06-26",
       "Article": "KB4509478",
+      "KBTitle": "June 26, 2019—KB4509478 (OS Build 17134.860)",
       "Comment": ""
     },
     {
@@ -2424,6 +2769,7 @@
       "Version": "16299.1239",
       "ReleaseDate": "2019-06-26",
       "Article": "KB4509477",
+      "KBTitle": "June 26, 2019—KB4509477 (OS Build 16299.1239)",
       "Comment": ""
     },
     {
@@ -2431,6 +2777,7 @@
       "Version": "15063.1898",
       "ReleaseDate": "2019-06-26",
       "Article": "KB4509476",
+      "KBTitle": "June 26, 2019—KB4509476 (OS Build 15063.1898)",
       "Comment": ""
     },
     {
@@ -2438,6 +2785,7 @@
       "Version": "14393.3056",
       "ReleaseDate": "2019-06-27",
       "Article": "KB4509475",
+      "KBTitle": "June 27, 2019—KB4509475 (OS Build 14393.3056)",
       "Comment": ""
     },
     {
@@ -2445,6 +2793,7 @@
       "Version": "18362.207",
       "ReleaseDate": "2019-06-27",
       "Article": "KB4501375",
+      "KBTitle": "June 27, 2019—KB4501375 (OS Build 18362.207)",
       "Comment": ""
     },
     {
@@ -2452,6 +2801,7 @@
       "Version": "15063.1928",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507450",
+      "KBTitle": "July 9, 2019—KB4507450 (OS Build 15063.1928)",
       "Comment": ""
     },
     {
@@ -2459,6 +2809,7 @@
       "Version": "17134.885",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507435",
+      "KBTitle": "July 9, 2019—KB4507435 (OS Build 17134.885)",
       "Comment": ""
     },
     {
@@ -2466,6 +2817,7 @@
       "Version": "14393.3085",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507460",
+      "KBTitle": "July 9, 2019—KB4507460 (OS Build 14393.3085)",
       "Comment": ""
     },
     {
@@ -2473,6 +2825,7 @@
       "Version": "16299.1268",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507455",
+      "KBTitle": "July 9, 2019—KB4507455 (OS Build 16299.1268)",
       "Comment": ""
     },
     {
@@ -2480,6 +2833,7 @@
       "Version": "18362.239",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507453",
+      "KBTitle": "July 9, 2019—KB4507453 (OS Build 18362.239)",
       "Comment": ""
     },
     {
@@ -2487,6 +2841,7 @@
       "Version": "17763.615",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507469",
+      "KBTitle": "July 9, 2019—KB4507469 (OS Build 17763.615)",
       "Comment": ""
     },
     {
@@ -2494,13 +2849,15 @@
       "Version": "10240.18275",
       "ReleaseDate": "2019-07-09",
       "Article": "KB4507458",
+      "KBTitle": "July 9, 2019-KB4507458 (OS Build 10240.18275)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.575",
       "Version": "15254.575",
       "ReleaseDate": "2019-07-09",
-      "Article": "KB4509104 Update for Windows 10 Mobile ",
+      "Article": "KB4509104",
+      "KBTitle": "July 9, 2019—KB4509104 Update for Windows 10 Mobile  (OS Build 15254.575)",
       "Comment": ""
     },
     {
@@ -2508,6 +2865,7 @@
       "Version": "14393.3115",
       "ReleaseDate": "2019-07-16",
       "Article": "KB4507459",
+      "KBTitle": "July 16, 2019—KB4507459 (OS Build 14393.3115)",
       "Comment": ""
     },
     {
@@ -2515,6 +2873,7 @@
       "Version": "16299.1296",
       "ReleaseDate": "2019-07-16",
       "Article": "KB4507465",
+      "KBTitle": "July 16, 2019—KB4507465 (OS Build 16299.1296 )",
       "Comment": ""
     },
     {
@@ -2522,6 +2881,7 @@
       "Version": "17134.915",
       "ReleaseDate": "2019-07-16",
       "Article": "KB4507466",
+      "KBTitle": "July 16, 2019—KB4507466 (OS Build 17134.915)",
       "Comment": ""
     },
     {
@@ -2529,6 +2889,7 @@
       "Version": "15063.1955",
       "ReleaseDate": "2019-07-16",
       "Article": "KB4507467",
+      "KBTitle": "July 16, 2019—KB4507467 (OS Build 15063.1955)",
       "Comment": ""
     },
     {
@@ -2536,6 +2897,7 @@
       "Version": "17763.652",
       "ReleaseDate": "2019-07-22",
       "Article": "KB4505658",
+      "KBTitle": "July 22, 2019—KB4505658 (OS Build 17763.652)",
       "Comment": ""
     },
     {
@@ -2543,6 +2905,7 @@
       "Version": "18362.267",
       "ReleaseDate": "2019-07-26",
       "Article": "KB4505903",
+      "KBTitle": "July 26, 2019—KB4505903 (OS Build 18362.267)",
       "Comment": ""
     },
     {
@@ -2550,13 +2913,15 @@
       "Version": "15063.1988",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512507",
+      "KBTitle": "August 13, 2019—KB4512507 (OS Build 15063.1988)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.582",
       "Version": "15254.582",
       "ReleaseDate": "2019-08-13",
-      "Article": "KB4513172 Update for Windows 10 Mobile",
+      "Article": "KB4513172",
+      "KBTitle": "August 13, 2019—KB4513172 Update for Windows 10 Mobile (OS Build 15254.582)",
       "Comment": ""
     },
     {
@@ -2564,6 +2929,7 @@
       "Version": "16299.1331",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512516",
+      "KBTitle": "August 13, 2019—KB4512516 (OS Build 16299.1331)",
       "Comment": ""
     },
     {
@@ -2571,6 +2937,7 @@
       "Version": "17763.678",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4511553",
+      "KBTitle": "August 13, 2019—KB4511553 (OS Build 17763.678)",
       "Comment": ""
     },
     {
@@ -2578,6 +2945,7 @@
       "Version": "10240.18305",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512497",
+      "KBTitle": "August 13, 2019-KB4512497 (OS Build 10240.18305)",
       "Comment": ""
     },
     {
@@ -2585,6 +2953,7 @@
       "Version": "17134.950",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512501",
+      "KBTitle": "August 13, 2019—KB4512501 (OS Build 17134.950)",
       "Comment": ""
     },
     {
@@ -2592,6 +2961,7 @@
       "Version": "18362.295",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512508",
+      "KBTitle": "August 13, 2019—KB4512508 (OS Build 18362.295)",
       "Comment": ""
     },
     {
@@ -2599,6 +2969,7 @@
       "Version": "14393.3144",
       "ReleaseDate": "2019-08-13",
       "Article": "KB4512517",
+      "KBTitle": "August 13, 2019—KB4512517 (OS Build 14393.3144)",
       "Comment": ""
     },
     {
@@ -2606,6 +2977,7 @@
       "Version": "16299.1365",
       "ReleaseDate": "2019-08-16",
       "Article": "KB4512494",
+      "KBTitle": "August 16, 2019—KB4512494 (OS Build 16299.1365)",
       "Comment": ""
     },
     {
@@ -2613,6 +2985,7 @@
       "Version": "17763.720",
       "ReleaseDate": "2019-08-17",
       "Article": "KB4512534",
+      "KBTitle": "August 17, 2019—KB4512534 (OS Build 17763.720)",
       "Comment": ""
     },
     {
@@ -2620,6 +2993,7 @@
       "Version": "10240.18308",
       "ReleaseDate": "2019-08-17",
       "Article": "KB4517276",
+      "KBTitle": "August 17, 2019-KB4517276 (OS Build 10240.18308)",
       "Comment": ""
     },
     {
@@ -2627,6 +3001,7 @@
       "Version": "15063.2021",
       "ReleaseDate": "2019-08-17",
       "Article": "KB4512474",
+      "KBTitle": "August 17, 2019—KB4512474 (OS Build 15063.2021)",
       "Comment": ""
     },
     {
@@ -2634,6 +3009,7 @@
       "Version": "14393.3181",
       "ReleaseDate": "2019-08-17",
       "Article": "KB4512495",
+      "KBTitle": "August 17, 2019—KB4512495 (OS Build 14393.3181)",
       "Comment": ""
     },
     {
@@ -2641,6 +3017,7 @@
       "Version": "17134.984",
       "ReleaseDate": "2019-08-19",
       "Article": "KB4512509",
+      "KBTitle": "August 19, 2019—KB4512509 (OS Build 17134.984)",
       "Comment": ""
     },
     {
@@ -2648,6 +3025,7 @@
       "Version": "18362.329",
       "ReleaseDate": "2019-08-30",
       "Article": "KB4512941",
+      "KBTitle": "August 30, 2019—KB4512941 (OS Build 18362.329)",
       "Comment": ""
     },
     {
@@ -2655,6 +3033,7 @@
       "Version": "18362.356",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4515384",
+      "KBTitle": "September 10, 2019—KB4515384 (OS Build 18362.356)",
       "Comment": ""
     },
     {
@@ -2662,6 +3041,7 @@
       "Version": "14393.3204",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4516044",
+      "KBTitle": "September 10, 2019—KB4516044 (OS Build 14393.3204)",
       "Comment": ""
     },
     {
@@ -2669,6 +3049,7 @@
       "Version": "15063.2045",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4516068",
+      "KBTitle": "September 10, 2019—KB4516068 (OS Build 15063.2045)",
       "Comment": ""
     },
     {
@@ -2676,6 +3057,7 @@
       "Version": "10240.18333",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4516070",
+      "KBTitle": "September 10, 2019-KB4516070 (OS Build 10240.18333)",
       "Comment": ""
     },
     {
@@ -2683,6 +3065,7 @@
       "Version": "17134.1006",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4516058",
+      "KBTitle": "September 10, 2019—KB4516058 (OS Build 17134.1006)",
       "Comment": ""
     },
     {
@@ -2690,6 +3073,7 @@
       "Version": "17763.737",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4512578",
+      "KBTitle": "September 10, 2019—KB4512578 (OS Build 17763.737)",
       "Comment": ""
     },
     {
@@ -2697,13 +3081,15 @@
       "Version": "16299.1387",
       "ReleaseDate": "2019-09-10",
       "Article": "KB4516066",
+      "KBTitle": "September 10, 2019—KB4516066 (OS Build 16299.1387)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.587",
       "Version": "15254.587",
       "ReleaseDate": "2019-09-10",
-      "Article": "KB4518514 Update for Windows 10 Mobile",
+      "Article": "KB4518514",
+      "KBTitle": "September 10, 2019—KB4518514 Update for Windows 10 Mobile (OS Build 15254.587)",
       "Comment": ""
     },
     {
@@ -2711,6 +3097,7 @@
       "Version": "14393.3206",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522010",
+      "KBTitle": "September 23, 2019—KB4522010 (OS Build 14393.3206)",
       "Comment": ""
     },
     {
@@ -2718,6 +3105,7 @@
       "Version": "10240.18334",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522009",
+      "KBTitle": "September 23, 2019-KB4522009 (OS Build 10240.18334)",
       "Comment": ""
     },
     {
@@ -2725,6 +3113,7 @@
       "Version": "18362.357",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522016",
+      "KBTitle": "September 23, 2019—KB4522016 (OS Build 18362.357)",
       "Comment": ""
     },
     {
@@ -2732,6 +3121,7 @@
       "Version": "17134.1009",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522014",
+      "KBTitle": "September 23, 2019—KB4522014 (OS Build 17134.1009)",
       "Comment": ""
     },
     {
@@ -2739,6 +3129,7 @@
       "Version": "17763.740",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522015",
+      "KBTitle": "September 23, 2019—KB4522015 (OS Build 17763.740)",
       "Comment": ""
     },
     {
@@ -2746,6 +3137,7 @@
       "Version": "16299.1392",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522012",
+      "KBTitle": "September 23, 2019—KB4522012 (OS Build 16299.1392)",
       "Comment": ""
     },
     {
@@ -2753,6 +3145,7 @@
       "Version": "15063.2046",
       "ReleaseDate": "2019-09-23",
       "Article": "KB4522011",
+      "KBTitle": "September 23, 2019—KB4522011 (OS Build 15063.2046)",
       "Comment": ""
     },
     {
@@ -2760,6 +3153,7 @@
       "Version": "17763.774",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516077",
+      "KBTitle": "September 24, 2019—KB4516077 (OS Build 17763.774)",
       "Comment": ""
     },
     {
@@ -2767,6 +3161,7 @@
       "Version": "15063.2078",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516059",
+      "KBTitle": "September 24, 2019—KB4516059 (OS Build 15063.2078)",
       "Comment": ""
     },
     {
@@ -2774,6 +3169,7 @@
       "Version": "14393.3242",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516061",
+      "KBTitle": "September 24, 2019—KB4516061 (OS Build 14393.3242)",
       "Comment": ""
     },
     {
@@ -2781,6 +3177,7 @@
       "Version": "17134.1039",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516045",
+      "KBTitle": "September 24, 2019—KB4516045 (OS Build 17134.1039)",
       "Comment": ""
     },
     {
@@ -2788,6 +3185,7 @@
       "Version": "16299.1420",
       "ReleaseDate": "2019-09-24",
       "Article": "KB4516071",
+      "KBTitle": "September 24, 2019—KB4516071 (OS Build 16299.1420)",
       "Comment": ""
     },
     {
@@ -2795,6 +3193,7 @@
       "Version": "18362.387",
       "ReleaseDate": "2019-09-26",
       "Article": "KB4517211",
+      "KBTitle": "September 26, 2019—KB4517211 (OS Build 18362.387)",
       "Comment": ""
     },
     {
@@ -2802,6 +3201,7 @@
       "Version": "14393.3243",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524152",
+      "KBTitle": "October 3, 2019—KB4524152 (OS Build 14393.3243)",
       "Comment": ""
     },
     {
@@ -2809,6 +3209,7 @@
       "Version": "17763.775",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524148",
+      "KBTitle": "October 3, 2019—KB4524148 (OS Build 17763.775)",
       "Comment": ""
     },
     {
@@ -2816,6 +3217,7 @@
       "Version": "18362.388",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524147",
+      "KBTitle": "October 3, 2019—KB4524147 (OS Build 18362.388)",
       "Comment": ""
     },
     {
@@ -2823,6 +3225,7 @@
       "Version": "10240.18335",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524153",
+      "KBTitle": "October 3, 2019-KB4524153 (OS Build 10240.18335)",
       "Comment": ""
     },
     {
@@ -2830,6 +3233,7 @@
       "Version": "15063.2079",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524151",
+      "KBTitle": "October 3, 2019—KB4524151 (OS Build 15063.2079)",
       "Comment": ""
     },
     {
@@ -2837,6 +3241,7 @@
       "Version": "17134.1040",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524149",
+      "KBTitle": "October 3, 2019—KB4524149 (OS Build 17134.1040)",
       "Comment": ""
     },
     {
@@ -2844,6 +3249,7 @@
       "Version": "16299.1421",
       "ReleaseDate": "2019-10-03",
       "Article": "KB4524150",
+      "KBTitle": "October 3, 2019—KB4524150 (OS Build 16299.1421)",
       "Comment": ""
     },
     {
@@ -2851,6 +3257,7 @@
       "Version": "14393.3274",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4519998",
+      "KBTitle": "October 8, 2019—KB4519998 (OS Build 14393.3274)",
       "Comment": ""
     },
     {
@@ -2858,6 +3265,7 @@
       "Version": "17134.1069",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4520008",
+      "KBTitle": "October 8, 2019—KB4520008 (OS Build 17134.1069)",
       "Comment": ""
     },
     {
@@ -2865,6 +3273,7 @@
       "Version": "18362.418",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4517389",
+      "KBTitle": "October 8, 2019—KB4517389 (OS Build 18362.418)",
       "Comment": ""
     },
     {
@@ -2872,6 +3281,7 @@
       "Version": "15063.2108",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4520010",
+      "KBTitle": "October 8, 2019—KB4520010 (OS Build 15063.2108)",
       "Comment": ""
     },
     {
@@ -2879,13 +3289,15 @@
       "Version": "17763.805",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4519338",
+      "KBTitle": "October 8, 2019—KB4519338 (OS Build 17763.805)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.590",
       "Version": "15254.590",
       "ReleaseDate": "2019-10-08",
-      "Article": "KB4522809 Update for Windows 10 Mobile",
+      "Article": "KB4522809",
+      "KBTitle": "October 8, 2019—KB4522809 Update for Windows 10 Mobile (OS Build 15254.590)",
       "Comment": ""
     },
     {
@@ -2893,6 +3305,7 @@
       "Version": "10240.18368",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4520011",
+      "KBTitle": "October 8, 2019-KB4520011 (OS Build 10240.18368)",
       "Comment": ""
     },
     {
@@ -2900,6 +3313,7 @@
       "Version": "16299.1451",
       "ReleaseDate": "2019-10-08",
       "Article": "KB4520004",
+      "KBTitle": "October 8, 2019—KB4520004 (OS Build 16299.1451)",
       "Comment": ""
     },
     {
@@ -2907,6 +3321,7 @@
       "Version": "14393.3300",
       "ReleaseDate": "2019-10-15",
       "Article": "KB4519979",
+      "KBTitle": "October 15, 2019—KB4519979 (OS Build 14393.3300)",
       "Comment": ""
     },
     {
@@ -2914,6 +3329,7 @@
       "Version": "16299.1481",
       "ReleaseDate": "2019-10-15",
       "Article": "KB4520006",
+      "KBTitle": "October 15, 2019—KB4520006 (OS Build 16299.1481)",
       "Comment": ""
     },
     {
@@ -2921,6 +3337,7 @@
       "Version": "17763.832",
       "ReleaseDate": "2019-10-15",
       "Article": "KB4520062",
+      "KBTitle": "October 15, 2019—KB4520062 (OS Build 17763.832)",
       "Comment": ""
     },
     {
@@ -2928,6 +3345,7 @@
       "Version": "17134.1099",
       "ReleaseDate": "2019-10-15",
       "Article": "KB4519978",
+      "KBTitle": "October 15, 2019—KB4519978 (OS Build 17134.1099)",
       "Comment": ""
     },
     {
@@ -2935,6 +3353,7 @@
       "Version": "18362.449",
       "ReleaseDate": "2019-10-24",
       "Article": "KB4522355",
+      "KBTitle": "October 24, 2019—KB4522355 (OS Build 18362.449)",
       "Comment": ""
     },
     {
@@ -2942,6 +3361,7 @@
       "Version": "18362.476",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4524570",
+      "KBTitle": "November 12, 2019—KB4524570 (OS Builds 18362.476 and 18363.476)",
       "Comment": ""
     },
     {
@@ -2949,6 +3369,7 @@
       "Version": "10240.18395",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4525232",
+      "KBTitle": "November 12, 2019-KB4525232 (OS Build 10240.18395)",
       "Comment": ""
     },
     {
@@ -2956,6 +3377,7 @@
       "Version": "18363.476",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4524570",
+      "KBTitle": "November 12, 2019—KB4524570 (OS Builds 18362.476 and 18363.476)",
       "Comment": ""
     },
     {
@@ -2963,6 +3385,7 @@
       "Version": "17134.1130",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4525237",
+      "KBTitle": "November 12, 2019—KB4525237 (OS Build 17134.1130)",
       "Comment": ""
     },
     {
@@ -2970,6 +3393,7 @@
       "Version": "14393.3326",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4525236",
+      "KBTitle": "November 12, 2019—KB4525236 (OS Build 14393.3326)",
       "Comment": ""
     },
     {
@@ -2977,13 +3401,15 @@
       "Version": "17763.864",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4523205",
+      "KBTitle": "November 12, 2019—KB4523205 (OS Build 17763.864)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.597",
       "Version": "15254.597",
       "ReleaseDate": "2019-11-12",
-      "Article": "KB4522811 Update for Windows 10 Mobile",
+      "Article": "KB4522811",
+      "KBTitle": "November 12, 2019—KB4522811 Update for Windows 10 Mobile (OS Build 15254.597)",
       "Comment": ""
     },
     {
@@ -2991,6 +3417,7 @@
       "Version": "15063.2172",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4525245",
+      "KBTitle": "November 12, 2019—KB4525245 (OS Build 15063.2172)",
       "Comment": ""
     },
     {
@@ -2998,6 +3425,7 @@
       "Version": "16299.1508",
       "ReleaseDate": "2019-11-12",
       "Article": "KB4525241",
+      "KBTitle": "November 12, 2019—KB4525241 (OS Build 16299.1508)",
       "Comment": ""
     },
     {
@@ -3005,6 +3433,7 @@
       "Version": "15063.2224",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530711",
+      "KBTitle": "December 10, 2019—KB4530711 (OS Build 15063.2224)",
       "Comment": ""
     },
     {
@@ -3012,6 +3441,7 @@
       "Version": "17763.914",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530715",
+      "KBTitle": "December 10, 2019—KB4530715 (OS Build 17763.914)",
       "Comment": ""
     },
     {
@@ -3019,6 +3449,7 @@
       "Version": "18363.535",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530684",
+      "KBTitle": "December 10, 2019—KB4530684 (OS Builds 18362.535 and 18363.535)",
       "Comment": ""
     },
     {
@@ -3026,13 +3457,15 @@
       "Version": "18362.535",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530684",
+      "KBTitle": "December 10, 2019—KB4530684 (OS Builds 18362.535 and 18363.535)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.600",
       "Version": "15254.600",
       "ReleaseDate": "2019-12-10",
-      "Article": "KB4522812 Update for Windows 10 Mobile",
+      "Article": "KB4522812",
+      "KBTitle": "December 10, 2019—KB4522812 Update for Windows 10 Mobile (OS Build 15254.600)",
       "Comment": ""
     },
     {
@@ -3040,6 +3473,7 @@
       "Version": "16299.1565",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530714",
+      "KBTitle": "December 10, 2019—KB4530714 (OS Build 16299.1565)",
       "Comment": ""
     },
     {
@@ -3047,6 +3481,7 @@
       "Version": "17134.1184",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530717",
+      "KBTitle": "December 10, 2019—KB4530717 (OS Build 17134.1184)",
       "Comment": ""
     },
     {
@@ -3054,6 +3489,7 @@
       "Version": "14393.3384",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530689",
+      "KBTitle": "December 10, 2019—KB4530689 (OS Build 14393.3384)",
       "Comment": ""
     },
     {
@@ -3061,13 +3497,15 @@
       "Version": "10240.18427",
       "ReleaseDate": "2019-12-10",
       "Article": "KB4530681",
+      "KBTitle": "December 10, 2019-KB4530681 (OS Build 10240.18427)",
       "Comment": ""
     },
     {
       "Win10Version": "10.0.15254.603",
       "Version": "15254.603",
       "ReleaseDate": "2020-01-14",
-      "Article": "KB4535289 Update for Windows 10 Mobile",
+      "Article": "KB4535289",
+      "KBTitle": "January 14, 2020—KB4535289 Update for Windows 10 Mobile (OS Build 15254.603)",
       "Comment": ""
     },
     {
@@ -3075,6 +3513,7 @@
       "Version": "17134.1246",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534293",
+      "KBTitle": "January 14, 2020—KB4534293 (OS Build 17134.1246)",
       "Comment": ""
     },
     {
@@ -3082,6 +3521,7 @@
       "Version": "15063.2254",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534296",
+      "KBTitle": "January 14, 2020—KB4534296 (OS Build 15063.2254)",
       "Comment": ""
     },
     {
@@ -3089,6 +3529,7 @@
       "Version": "18363.592",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4528760",
+      "KBTitle": "January 14, 2020—KB4528760 (OS Builds 18362.592 and 18363.592)",
       "Comment": ""
     },
     {
@@ -3096,6 +3537,7 @@
       "Version": "18362.592",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4528760",
+      "KBTitle": "January 14, 2020—KB4528760 (OS Builds 18362.592 and 18363.592)",
       "Comment": ""
     },
     {
@@ -3103,6 +3545,7 @@
       "Version": "16299.1625",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534276",
+      "KBTitle": "January 14, 2020—KB4534276 (OS Build 16299.1625)",
       "Comment": ""
     },
     {
@@ -3110,6 +3553,7 @@
       "Version": "17763.973",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534273",
+      "KBTitle": "January 14, 2020—KB4534273 (OS Build 17763.973)",
       "Comment": ""
     },
     {
@@ -3117,6 +3561,7 @@
       "Version": "10240.18453",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534306",
+      "KBTitle": "January 14, 2020-KB4534306 (OS Build 10240.18453)",
       "Comment": ""
     },
     {
@@ -3124,6 +3569,7 @@
       "Version": "14393.3443",
       "ReleaseDate": "2020-01-14",
       "Article": "KB4534271",
+      "KBTitle": "January 14, 2020—KB4534271 (OS Build 14393.3443)",
       "Comment": ""
     },
     {
@@ -3131,6 +3577,7 @@
       "Version": "17134.1276",
       "ReleaseDate": "2020-01-23",
       "Article": "KB4534308",
+      "KBTitle": "January 23, 2020—KB4534308 (OS Build 17134.1276)",
       "Comment": ""
     },
     {
@@ -3138,6 +3585,7 @@
       "Version": "17763.1012",
       "ReleaseDate": "2020-01-23",
       "Article": "KB4534321",
+      "KBTitle": "January 23, 2020—KB4534321 (OS Build 17763.1012)",
       "Comment": ""
     },
     {
@@ -3145,6 +3593,7 @@
       "Version": "16299.1654",
       "ReleaseDate": "2020-01-23",
       "Article": "KB4534318",
+      "KBTitle": "January 23, 2020—KB4534318 (OS Build 16299.1654)",
       "Comment": ""
     },
     {
@@ -3152,6 +3601,7 @@
       "Version": "14393.3474",
       "ReleaseDate": "2020-01-23",
       "Article": "KB4534307",
+      "KBTitle": "January 23, 2020—KB4534307 (OS Build 14393.3474)",
       "Comment": ""
     },
     {
@@ -3159,6 +3609,7 @@
       "Version": "18362.628",
       "ReleaseDate": "2020-01-28",
       "Article": "KB4532695",
+      "KBTitle": "January 28, 2020—KB4532695 (OS Builds 18362.628 and 18363.628)",
       "Comment": ""
     },
     {
@@ -3166,6 +3617,7 @@
       "Version": "18363.628",
       "ReleaseDate": "2020-01-28",
       "Article": "KB4532695",
+      "KBTitle": "January 28, 2020—KB4532695 (OS Builds 18362.628 and 18363.628)",
       "Comment": ""
     },
     {
@@ -3173,6 +3625,7 @@
       "Version": "18362.657",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4532693",
+      "KBTitle": "February 11, 2020—KB4532693 (OS Builds 18362.657 and 18363.657)",
       "Comment": ""
     },
     {
@@ -3180,6 +3633,7 @@
       "Version": "18363.657",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4532693",
+      "KBTitle": "February 11, 2020—KB4532693 (OS Builds 18362.657 and 18363.657)",
       "Comment": ""
     },
     {
@@ -3187,6 +3641,7 @@
       "Version": "14393.3504",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4537764",
+      "KBTitle": "February 11, 2020—KB4537764 (OS Build 14393.3504)",
       "Comment": ""
     },
     {
@@ -3194,6 +3649,7 @@
       "Version": "17134.1304",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4537762",
+      "KBTitle": "February 11, 2020—KB4537762 (OS Build 17134.1304)",
       "Comment": ""
     },
     {
@@ -3201,6 +3657,7 @@
       "Version": "10240.18486",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4537776",
+      "KBTitle": "February 11, 2020-KB4537776 (OS Build 10240.18486)",
       "Comment": ""
     },
     {
@@ -3208,6 +3665,7 @@
       "Version": "17763.1039",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4532691",
+      "KBTitle": "February 11, 2020—KB4532691 (OS Build 17763.1039)",
       "Comment": ""
     },
     {
@@ -3215,6 +3673,7 @@
       "Version": "15063.2284",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4537765",
+      "KBTitle": "February 11, 2020—KB4537765 (OS Build 15063.2284)",
       "Comment": ""
     },
     {
@@ -3222,6 +3681,7 @@
       "Version": "16299.1686",
       "ReleaseDate": "2020-02-11",
       "Article": "KB4537789",
+      "KBTitle": "February 11, 2020—KB4537789 (OS Build 16299.1686)",
       "Comment": ""
     },
     {
@@ -3229,6 +3689,7 @@
       "Version": "17134.1345",
       "ReleaseDate": "2020-02-25",
       "Article": "KB4537795",
+      "KBTitle": "February 25, 2020—KB4537795 (OS Build 17134.1345)",
       "Comment": ""
     },
     {
@@ -3236,6 +3697,7 @@
       "Version": "17763.1075",
       "ReleaseDate": "2020-02-25",
       "Article": "KB4537818",
+      "KBTitle": "February 25, 2020—KB4537818 (OS Build 17763.1075)",
       "Comment": ""
     },
     {
@@ -3243,6 +3705,7 @@
       "Version": "16299.1717",
       "ReleaseDate": "2020-02-25",
       "Article": "KB4537816",
+      "KBTitle": "February 25, 2020—KB4537816 (OS Build 16299.1717)",
       "Comment": ""
     },
     {
@@ -3250,6 +3713,7 @@
       "Version": "14393.3542",
       "ReleaseDate": "2020-02-25",
       "Article": "KB4537806",
+      "KBTitle": "February 25, 2020—KB4537806 (OS Build 14393.3542)",
       "Comment": ""
     },
     {
@@ -3257,6 +3721,7 @@
       "Version": "18363.693",
       "ReleaseDate": "2020-02-27",
       "Article": "KB4535996",
+      "KBTitle": "February 27, 2020—KB4535996 (OS Builds 18362.693 and 18363.693)",
       "Comment": ""
     },
     {
@@ -3264,6 +3729,7 @@
       "Version": "18362.693",
       "ReleaseDate": "2020-02-27",
       "Article": "KB4535996",
+      "KBTitle": "February 27, 2020—KB4535996 (OS Builds 18362.693 and 18363.693)",
       "Comment": ""
     },
     {
@@ -3271,6 +3737,7 @@
       "Version": "17763.1098",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4538461",
+      "KBTitle": "March 10, 2020—KB4538461 (OS Build 17763.1098)",
       "Comment": ""
     },
     {
@@ -3278,6 +3745,7 @@
       "Version": "16299.1747",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540681",
+      "KBTitle": "March 10, 2020—KB4540681 (OS Build 16299.1747)",
       "Comment": ""
     },
     {
@@ -3285,6 +3753,7 @@
       "Version": "15063.2313",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540705",
+      "KBTitle": "March 10, 2020—KB4540705 (OS Build 15063.2313)",
       "Comment": ""
     },
     {
@@ -3292,6 +3761,7 @@
       "Version": "18362.719",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540673",
+      "KBTitle": "March 10, 2020—KB4540673 (OS Builds 18362.719 and 18363.719)",
       "Comment": ""
     },
     {
@@ -3299,6 +3769,7 @@
       "Version": "18363.719",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540673",
+      "KBTitle": "March 10, 2020—KB4540673 (OS Builds 18362.719 and 18363.719)",
       "Comment": ""
     },
     {
@@ -3306,6 +3777,7 @@
       "Version": "17134.1365",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540689",
+      "KBTitle": "March 10, 2020—KB4540689 (OS Build 17134.1365)",
       "Comment": ""
     },
     {
@@ -3313,6 +3785,7 @@
       "Version": "14393.3564",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540670",
+      "KBTitle": "March 10, 2020—KB4540670 (OS Build 14393.3564)",
       "Comment": ""
     },
     {
@@ -3320,6 +3793,7 @@
       "Version": "10240.18519",
       "ReleaseDate": "2020-03-10",
       "Article": "KB4540693",
+      "KBTitle": "March 10, 2020-KB4540693 (OS Build 10240.18519)",
       "Comment": ""
     },
     {
@@ -3327,6 +3801,7 @@
       "Version": "18362.720",
       "ReleaseDate": "2020-03-12",
       "Article": "KB4551762",
+      "KBTitle": "March 12, 2020—KB4551762 (OS Builds 18362.720 and 18363.720)",
       "Comment": ""
     },
     {
@@ -3334,6 +3809,7 @@
       "Version": "18363.720",
       "ReleaseDate": "2020-03-12",
       "Article": "KB4551762",
+      "KBTitle": "March 12, 2020—KB4551762 (OS Builds 18362.720 and 18363.720)",
       "Comment": ""
     },
     {
@@ -3341,6 +3817,7 @@
       "Version": "14393.3595",
       "ReleaseDate": "2020-03-17",
       "Article": "KB4541329",
+      "KBTitle": "March 17, 2020—KB4541329 (OS Build 14393.3595)",
       "Comment": ""
     },
     {
@@ -3348,6 +3825,7 @@
       "Version": "17134.1399",
       "ReleaseDate": "2020-03-17",
       "Article": "KB4541333",
+      "KBTitle": "March 17, 2020—KB4541333 (OS Build 17134.1399)",
       "Comment": ""
     },
     {
@@ -3355,6 +3833,7 @@
       "Version": "16299.1775",
       "ReleaseDate": "2020-03-17",
       "Article": "KB4541330",
+      "KBTitle": "March 17, 2020—KB4541330 (OS Build 16299.1775)",
       "Comment": ""
     },
     {
@@ -3362,6 +3841,7 @@
       "Version": "17763.1131",
       "ReleaseDate": "2020-03-17",
       "Article": "KB4541331",
+      "KBTitle": "March 17, 2020—KB4541331 (OS Build 17763.1131)",
       "Comment": ""
     },
     {
@@ -3369,6 +3849,7 @@
       "Version": "18362.752",
       "ReleaseDate": "2020-03-24",
       "Article": "KB4541335",
+      "KBTitle": "March 24, 2020—KB4541335 (OS Builds 18362.752 and 18363.752)",
       "Comment": ""
     },
     {
@@ -3376,6 +3857,7 @@
       "Version": "18363.752",
       "ReleaseDate": "2020-03-24",
       "Article": "KB4541335",
+      "KBTitle": "March 24, 2020—KB4541335 (OS Builds 18362.752 and 18363.752)",
       "Comment": ""
     },
     {
@@ -3383,6 +3865,7 @@
       "Version": "17763.1132",
       "ReleaseDate": "2020-03-30",
       "Article": "KB4554354",
+      "KBTitle": "March 30, 2020—KB4554354 (OS Build 17763.1132)",
       "Comment": ""
     },
     {
@@ -3390,6 +3873,7 @@
       "Version": "16299.1776",
       "ReleaseDate": "2020-03-30",
       "Article": "KB4554342",
+      "KBTitle": "March 30, 2020—KB4554342 (OS Build 16299.1776)",
       "Comment": ""
     },
     {
@@ -3397,6 +3881,7 @@
       "Version": "17134.1401",
       "ReleaseDate": "2020-03-30",
       "Article": "KB4554349",
+      "KBTitle": "March 30, 2020—KB4554349 (OS Build 17134.1401)",
       "Comment": ""
     },
     {
@@ -3404,6 +3889,7 @@
       "Version": "18363.753",
       "ReleaseDate": "2020-03-30",
       "Article": "KB4554364",
+      "KBTitle": "March 30, 2020—KB4554364 (OS Builds 18362.753 and 18363.753)",
       "Comment": ""
     },
     {
@@ -3411,6 +3897,7 @@
       "Version": "18362.753",
       "ReleaseDate": "2020-03-30",
       "Article": "KB4554364",
+      "KBTitle": "March 30, 2020—KB4554364 (OS Builds 18362.753 and 18363.753)",
       "Comment": ""
     },
     {
@@ -3418,6 +3905,7 @@
       "Version": "17134.1425",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4550922",
+      "KBTitle": "April 14, 2020—KB4550922 (OS Build 17134.1425)",
       "Comment": ""
     },
     {
@@ -3425,6 +3913,7 @@
       "Version": "18362.778",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4549951",
+      "KBTitle": "April 14, 2020—KB4549951 (OS Builds 18362.778 and 18363.778)",
       "Comment": ""
     },
     {
@@ -3432,6 +3921,7 @@
       "Version": "16299.1806",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4550927",
+      "KBTitle": "April 14, 2020—KB4550927 (OS Build 16299.1806)",
       "Comment": ""
     },
     {
@@ -3439,6 +3929,7 @@
       "Version": "10240.18545",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4550930",
+      "KBTitle": "April 14, 2020-KB4550930 (OS Build 10240.18545)",
       "Comment": ""
     },
     {
@@ -3446,6 +3937,7 @@
       "Version": "17763.1158",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4549949",
+      "KBTitle": "April 14, 2020—KB4549949 (OS Build 17763.1158)",
       "Comment": ""
     },
     {
@@ -3453,6 +3945,7 @@
       "Version": "18363.778",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4549951",
+      "KBTitle": "April 14, 2020—KB4549951 (OS Builds 18362.778 and 18363.778)",
       "Comment": ""
     },
     {
@@ -3460,6 +3953,7 @@
       "Version": "15063.2346",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4550939",
+      "KBTitle": "April 14, 2020—KB4550939 (OS Build 15063.2346)",
       "Comment": ""
     },
     {
@@ -3467,6 +3961,7 @@
       "Version": "14393.3630",
       "ReleaseDate": "2020-04-14",
       "Article": "KB4550929",
+      "KBTitle": "April 14, 2020—KB4550929 (OS Build 14393.3630)",
       "Comment": ""
     },
     {
@@ -3474,6 +3969,7 @@
       "Version": "14393.3659",
       "ReleaseDate": "2020-04-21",
       "Article": "KB4550947",
+      "KBTitle": "April 21, 2020—KB4550947 (OS Build 14393.3659)",
       "Comment": ""
     },
     {
@@ -3481,6 +3977,7 @@
       "Version": "18363.815",
       "ReleaseDate": "2020-04-21",
       "Article": "KB4550945",
+      "KBTitle": "April 21, 2020—KB4550945 (OS Builds 18362.815 and 18363.815)",
       "Comment": ""
     },
     {
@@ -3488,6 +3985,7 @@
       "Version": "17763.1192",
       "ReleaseDate": "2020-04-21",
       "Article": "KB4550969",
+      "KBTitle": "April 21, 2020—KB4550969 (OS Build 17763.1192)",
       "Comment": ""
     },
     {
@@ -3495,6 +3993,7 @@
       "Version": "18362.815",
       "ReleaseDate": "2020-04-21",
       "Article": "KB4550945",
+      "KBTitle": "April 21, 2020—KB4550945 (OS Builds 18362.815 and 18363.815)",
       "Comment": ""
     },
     {
@@ -3502,6 +4001,7 @@
       "Version": "17134.1456",
       "ReleaseDate": "2020-04-21",
       "Article": "KB4550944",
+      "KBTitle": "April 21, 2020—KB4550944 (OS Build 17134.1456)",
       "Comment": ""
     },
     {
@@ -3509,6 +4009,7 @@
       "Version": "18362.836",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556799",
+      "KBTitle": "May 12, 2020—KB4556799 (OS Builds 18362.836 and 18363.836)",
       "Comment": ""
     },
     {
@@ -3516,6 +4017,7 @@
       "Version": "18363.836",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556799",
+      "KBTitle": "May 12, 2020—KB4556799 (OS Builds 18362.836 and 18363.836)",
       "Comment": ""
     },
     {
@@ -3523,6 +4025,7 @@
       "Version": "14393.3686",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556813",
+      "KBTitle": "May 12, 2020—KB4556813 (OS Build 14393.3686)",
       "Comment": ""
     },
     {
@@ -3530,6 +4033,7 @@
       "Version": "17763.1217",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4551853",
+      "KBTitle": "May 12, 2020—KB4551853 (OS Build 17763.1217)",
       "Comment": ""
     },
     {
@@ -3537,6 +4041,7 @@
       "Version": "16299.1868",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556812",
+      "KBTitle": "May 12, 2020—KB4556812 (OS Build 16299.1868)",
       "Comment": ""
     },
     {
@@ -3544,6 +4049,7 @@
       "Version": "15063.2375",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556804",
+      "KBTitle": "May 12, 2020—KB4556804 (OS Build 15063.2375)",
       "Comment": ""
     },
     {
@@ -3551,6 +4057,7 @@
       "Version": "10240.18575",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556826",
+      "KBTitle": "May 12, 2020-KB4556826 (OS Build 10240.18575)",
       "Comment": ""
     },
     {
@@ -3558,6 +4065,7 @@
       "Version": "17134.1488",
       "ReleaseDate": "2020-05-12",
       "Article": "KB4556807",
+      "KBTitle": "May 12, 2020—KB4556807 (OS Build 17134.1488)",
       "Comment": ""
     },
     {
@@ -3565,6 +4073,7 @@
       "Version": "18363.900",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4560960",
+      "KBTitle": "June 9, 2020—KB4560960 (OS Builds 18362.900 and 18363.900)",
       "Comment": ""
     },
     {
@@ -3572,6 +4081,7 @@
       "Version": "18362.900",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4560960",
+      "KBTitle": "June 9, 2020—KB4560960 (OS Builds 18362.900 and 18363.900)",
       "Comment": ""
     },
     {
@@ -3579,6 +4089,7 @@
       "Version": "14393.3750",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561616",
+      "KBTitle": "June 9, 2020—KB4561616 (OS Build 14393.3750)",
       "Comment": ""
     },
     {
@@ -3586,6 +4097,7 @@
       "Version": "19041.329",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4557957",
+      "KBTitle": "June 9, 2020—KB4557957 (OS Build 19041.329)",
       "Comment": ""
     },
     {
@@ -3593,6 +4105,7 @@
       "Version": "17134.1550",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561621",
+      "KBTitle": "June 9, 2020—KB4561621 (OS Build 17134.1550)",
       "Comment": ""
     },
     {
@@ -3600,6 +4113,7 @@
       "Version": "10240.18608",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561649",
+      "KBTitle": "June 9, 2020-KB4561649 (OS Build 10240.18608)",
       "Comment": ""
     },
     {
@@ -3607,6 +4121,7 @@
       "Version": "15063.2409",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561605",
+      "KBTitle": "June 9, 2020—KB4561605 (OS Build 15063.2409)",
       "Comment": ""
     },
     {
@@ -3614,6 +4129,7 @@
       "Version": "17763.1282",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561608",
+      "KBTitle": "June 9, 2020—KB4561608 (OS Build 17763.1282)",
       "Comment": ""
     },
     {
@@ -3621,6 +4137,7 @@
       "Version": "16299.1932",
       "ReleaseDate": "2020-06-09",
       "Article": "KB4561602",
+      "KBTitle": "June 9, 2020—KB4561602 (OS Build 16299.1932)",
       "Comment": ""
     },
     {
@@ -3628,6 +4145,7 @@
       "Version": "18362.904",
       "ReleaseDate": "2020-06-16",
       "Article": "KB4567512",
+      "KBTitle": "June 16, 2020—KB4567512 (OS Builds 18362.904 and 18363.904)",
       "Comment": ""
     },
     {
@@ -3635,6 +4153,7 @@
       "Version": "18363.904",
       "ReleaseDate": "2020-06-16",
       "Article": "KB4567512",
+      "KBTitle": "June 16, 2020—KB4567512 (OS Builds 18362.904 and 18363.904)",
       "Comment": ""
     },
     {
@@ -3642,6 +4161,7 @@
       "Version": "17134.1553",
       "ReleaseDate": "2020-06-16",
       "Article": "KB4567514",
+      "KBTitle": "June 16, 2020—KB4567514 (OS Build 17134.1553)",
       "Comment": ""
     },
     {
@@ -3649,6 +4169,7 @@
       "Version": "17763.1294",
       "ReleaseDate": "2020-06-16",
       "Article": "KB4567513",
+      "KBTitle": "June 16, 2020—KB4567513 (OS Build 17763.1294)",
       "Comment": ""
     },
     {
@@ -3656,6 +4177,7 @@
       "Version": "19041.331",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567523",
+      "KBTitle": "June 18, 2020—KB4567523 (OS Build 19041.331)",
       "Comment": ""
     },
     {
@@ -3663,6 +4185,7 @@
       "Version": "15063.2411",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567516",
+      "KBTitle": "June 18, 2020—KB4567516 (OS Build 15063.2411)",
       "Comment": ""
     },
     {
@@ -3670,6 +4193,7 @@
       "Version": "16299.1937",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567515",
+      "KBTitle": "June 18, 2020—KB4567515 (OS Build 16299.1937)",
       "Comment": ""
     },
     {
@@ -3677,6 +4201,7 @@
       "Version": "14393.3755",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567517",
+      "KBTitle": "June 18, 2020—KB4567517 (OS Build 14393.3755)",
       "Comment": ""
     },
     {
@@ -3684,6 +4209,7 @@
       "Version": "10240.18609",
       "ReleaseDate": "2020-06-18",
       "Article": "KB4567518",
+      "KBTitle": "June 18, 2020-KB4567518 (OS Build 10240.18609)",
       "Comment": ""
     },
     {
@@ -3691,6 +4217,7 @@
       "Version": "15063.2439",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565499",
+      "KBTitle": "July 14, 2020—KB4565499 (OS Build 15063.2439)",
       "Comment": ""
     },
     {
@@ -3698,6 +4225,7 @@
       "Version": "18362.959",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565483",
+      "KBTitle": "July 14, 2020—KB4565483 (OS Builds 18362.959 and 18363.959)",
       "Comment": ""
     },
     {
@@ -3705,6 +4233,7 @@
       "Version": "10240.18638",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565513",
+      "KBTitle": "July 14, 2020-KB4565513 (OS Build 10240.18638)",
       "Comment": ""
     },
     {
@@ -3712,6 +4241,7 @@
       "Version": "18363.959",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565483",
+      "KBTitle": "July 14, 2020—KB4565483 (OS Builds 18362.959 and 18363.959)",
       "Comment": ""
     },
     {
@@ -3719,6 +4249,7 @@
       "Version": "14393.3808",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565511",
+      "KBTitle": "July 14, 2020—KB4565511 (OS Build 14393.3808)",
       "Comment": ""
     },
     {
@@ -3726,6 +4257,7 @@
       "Version": "19041.388",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565503",
+      "KBTitle": "July 14, 2020—KB4565503 (OS Build 19041.388)",
       "Comment": ""
     },
     {
@@ -3733,6 +4265,7 @@
       "Version": "17763.1339",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4558998",
+      "KBTitle": "July 14, 2020—KB4558998 (OS Build 17763.1339)",
       "Comment": ""
     },
     {
@@ -3740,6 +4273,7 @@
       "Version": "16299.1992",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565508",
+      "KBTitle": "July 14, 2020—KB4565508 (OS Build 16299.1992)",
       "Comment": ""
     },
     {
@@ -3747,6 +4281,7 @@
       "Version": "17134.1610",
       "ReleaseDate": "2020-07-14",
       "Article": "KB4565489",
+      "KBTitle": "July 14, 2020—KB4565489 (OS Build 17134.1610)",
       "Comment": ""
     },
     {
@@ -3754,6 +4289,7 @@
       "Version": "18362.997",
       "ReleaseDate": "2020-07-21",
       "Article": "KB4559004",
+      "KBTitle": "July 21, 2020—KB4559004 (OS Builds 18362.997 and 18363.997)",
       "Comment": ""
     },
     {
@@ -3761,6 +4297,7 @@
       "Version": "18363.997",
       "ReleaseDate": "2020-07-21",
       "Article": "KB4559004",
+      "KBTitle": "July 21, 2020—KB4559004 (OS Builds 18362.997 and 18363.997)",
       "Comment": ""
     },
     {
@@ -3768,6 +4305,7 @@
       "Version": "17763.1369",
       "ReleaseDate": "2020-07-21",
       "Article": "KB4559003",
+      "KBTitle": "July 21, 2020—KB4559003 (OS Build 17763.1369)",
       "Comment": ""
     },
     {
@@ -3775,6 +4313,7 @@
       "Version": "19041.423",
       "ReleaseDate": "2020-07-31",
       "Article": "KB4568831",
+      "KBTitle": "July 31, 2020—KB4568831 (OS Build 19041.423)",
       "Comment": ""
     },
     {
@@ -3782,6 +4321,7 @@
       "Version": "10240.18666",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571692",
+      "KBTitle": "August 11, 2020-KB4571692 (OS Build 10240.18666)",
       "Comment": ""
     },
     {
@@ -3789,6 +4329,7 @@
       "Version": "18362.1016",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4565351",
+      "KBTitle": "August 11, 2020—KB4565351 (OS Builds 18362.1016 and 18363.1016)",
       "Comment": ""
     },
     {
@@ -3796,6 +4337,7 @@
       "Version": "18363.1016",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4565351",
+      "KBTitle": "August 11, 2020—KB4565351 (OS Builds 18362.1016 and 18363.1016)",
       "Comment": ""
     },
     {
@@ -3803,6 +4345,7 @@
       "Version": "17134.1667",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571709",
+      "KBTitle": "August 11, 2020—KB4571709 (OS Build 17134.1667)",
       "Comment": ""
     },
     {
@@ -3810,6 +4353,7 @@
       "Version": "17763.1397",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4565349",
+      "KBTitle": "August 11, 2020—KB4565349 (OS Build 17763.1397)",
       "Comment": ""
     },
     {
@@ -3817,6 +4361,7 @@
       "Version": "15063.2467",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571689",
+      "KBTitle": "August 11, 2020—KB4571689 (OS Build 15063.2467)",
       "Comment": ""
     },
     {
@@ -3824,6 +4369,7 @@
       "Version": "16299.2045",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571741",
+      "KBTitle": "August 11, 2020—KB4571741 (OS Build 16299.2045)",
       "Comment": ""
     },
     {
@@ -3831,6 +4377,7 @@
       "Version": "14393.3866",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4571694",
+      "KBTitle": "August 11, 2020—KB4571694 (OS Build 14393.3866)",
       "Comment": ""
     },
     {
@@ -3838,6 +4385,7 @@
       "Version": "19041.450",
       "ReleaseDate": "2020-08-11",
       "Article": "KB4566782",
+      "KBTitle": "August 11, 2020—KB4566782 (OS Build 19041.450)",
       "Comment": ""
     },
     {
@@ -3845,6 +4393,7 @@
       "Version": "18363.1049",
       "ReleaseDate": "2020-08-20",
       "Article": "KB4566116",
+      "KBTitle": "August 20, 2020—KB4566116 (OS Builds 18362.1049 and 18363.1049) Preview",
       "Comment": "Preview"
     },
     {
@@ -3852,6 +4401,7 @@
       "Version": "18362.1049",
       "ReleaseDate": "2020-08-20",
       "Article": "KB4566116",
+      "KBTitle": "August 20, 2020—KB4566116 (OS Builds 18362.1049 and 18363.1049) Preview",
       "Comment": "Preview"
     },
     {
@@ -3859,6 +4409,7 @@
       "Version": "17763.1432",
       "ReleaseDate": "2020-08-20",
       "Article": "KB4571748",
+      "KBTitle": "August 20, 2020—KB4571748 (OS Build 17763.1432) Preview",
       "Comment": "Preview"
     },
     {
@@ -3866,6 +4417,7 @@
       "Version": "19041.488",
       "ReleaseDate": "2020-09-03",
       "Article": "KB4571744",
+      "KBTitle": "September 3, 2020—KB4571744 (OS Build 19041.488) Preview",
       "Comment": "Preview"
     },
     {
@@ -3873,6 +4425,7 @@
       "Version": "18362.1082",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4574727",
+      "KBTitle": "September 8, 2020—KB4574727 (OS Builds 18362.1082 and 18363.1082)",
       "Comment": ""
     },
     {
@@ -3880,6 +4433,7 @@
       "Version": "17763.1457",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4570333",
+      "KBTitle": "September 8, 2020—KB4570333 (OS Build 17763.1457)",
       "Comment": ""
     },
     {
@@ -3887,6 +4441,7 @@
       "Version": "14393.3930",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4577015",
+      "KBTitle": "September 8, 2020—KB4577015 (OS Build 14393.3930)",
       "Comment": ""
     },
     {
@@ -3894,6 +4449,7 @@
       "Version": "18363.1082",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4574727",
+      "KBTitle": "September 8, 2020—KB4574727 (OS Builds 18362.1082 and 18363.1082)",
       "Comment": ""
     },
     {
@@ -3901,6 +4457,7 @@
       "Version": "17134.1726",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4577032",
+      "KBTitle": "September 8, 2020—KB4577032 (OS Build 17134.1726)",
       "Comment": ""
     },
     {
@@ -3908,6 +4465,7 @@
       "Version": "16299.2107",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4577041",
+      "KBTitle": "September 8, 2020—KB4577041 (OS Build 16299.2107)",
       "Comment": ""
     },
     {
@@ -3915,6 +4473,7 @@
       "Version": "19041.508",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4571756",
+      "KBTitle": "September 8, 2020—KB4571756 (OS Build 19041.508)",
       "Comment": ""
     },
     {
@@ -3922,6 +4481,7 @@
       "Version": "10240.18696",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4577049",
+      "KBTitle": "September 8, 2020-KB4577049 (OS Build 10240.18696)",
       "Comment": ""
     },
     {
@@ -3929,6 +4489,7 @@
       "Version": "15063.2500",
       "ReleaseDate": "2020-09-08",
       "Article": "KB4577021",
+      "KBTitle": "September 8, 2020—KB4577021 (OS Build 15063.2500)",
       "Comment": ""
     },
     {
@@ -3936,6 +4497,7 @@
       "Version": "18363.1110",
       "ReleaseDate": "2020-09-16",
       "Article": "KB4577062",
+      "KBTitle": "September 16, 2020—KB4577062 (OS Builds 18362.1110 and 18363.1110) Preview",
       "Comment": "Preview"
     },
     {
@@ -3943,6 +4505,7 @@
       "Version": "18362.1110",
       "ReleaseDate": "2020-09-16",
       "Article": "KB4577062",
+      "KBTitle": "September 16, 2020—KB4577062 (OS Builds 18362.1110 and 18363.1110) Preview",
       "Comment": "Preview"
     },
     {
@@ -3950,6 +4513,7 @@
       "Version": "17763.1490",
       "ReleaseDate": "2020-09-16",
       "Article": "KB4577069",
+      "KBTitle": "September 16, 2020—KB4577069 (OS Build 17763.1490) Preview",
       "Comment": "Preview"
     },
     {
@@ -3957,6 +4521,7 @@
       "Version": "19041.546",
       "ReleaseDate": "2020-10-01",
       "Article": "KB4577063",
+      "KBTitle": "October 1, 2020—KB4577063 (OS Build 19041.546) Preview",
       "Comment": "Preview"
     },
     {
@@ -3964,6 +4529,7 @@
       "Version": "18362.1139",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4577671",
+      "KBTitle": "October 13, 2020—KB4577671 (OS Builds 18362.1139 and 18363.1139)",
       "Comment": ""
     },
     {
@@ -3971,6 +4537,7 @@
       "Version": "19041.572",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4579311",
+      "KBTitle": "October 13, 2020—KB4579311 (OS Build 19041.572)",
       "Comment": ""
     },
     {
@@ -3978,6 +4545,7 @@
       "Version": "10240.18725",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4580327",
+      "KBTitle": "October 13, 2020-KB4580327 (OS Build 10240.18725)",
       "Comment": ""
     },
     {
@@ -3985,6 +4553,7 @@
       "Version": "17763.1518",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4577668",
+      "KBTitle": "October 13, 2020—KB4577668 (OS Build 17763.1518)",
       "Comment": ""
     },
     {
@@ -3992,6 +4561,7 @@
       "Version": "18363.1139",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4577671",
+      "KBTitle": "October 13, 2020—KB4577671 (OS Builds 18362.1139 and 18363.1139)",
       "Comment": ""
     },
     {
@@ -3999,6 +4569,7 @@
       "Version": "16299.2166",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4580328",
+      "KBTitle": "October 13, 2020—KB4580328 (OS Build 16299.2166)",
       "Comment": ""
     },
     {
@@ -4006,6 +4577,7 @@
       "Version": "15063.2525",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4580370",
+      "KBTitle": "October 13, 2020—KB4580370 (OS Build 15063.2525)",
       "Comment": ""
     },
     {
@@ -4013,6 +4585,7 @@
       "Version": "14393.3986",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4580346",
+      "KBTitle": "October 13, 2020—KB4580346 (OS Build 14393.3986)",
       "Comment": ""
     },
     {
@@ -4020,6 +4593,7 @@
       "Version": "17134.1792",
       "ReleaseDate": "2020-10-13",
       "Article": "KB4580330",
+      "KBTitle": "October 13, 2020—KB4580330 (OS Build 17134.1792)",
       "Comment": ""
     },
     {
@@ -4027,6 +4601,7 @@
       "Version": "18362.1171",
       "ReleaseDate": "2020-10-20",
       "Article": "KB4580386",
+      "KBTitle": "October 20, 2020—KB4580386 (OS Builds 18362.1171 and 18363.1171) Preview",
       "Comment": "Preview"
     },
     {
@@ -4034,6 +4609,7 @@
       "Version": "17763.1554",
       "ReleaseDate": "2020-10-20",
       "Article": "KB4580390",
+      "KBTitle": "October 20, 2020—KB4580390 (OS Build 17763.1554) Preview",
       "Comment": "Preview"
     },
     {
@@ -4041,6 +4617,7 @@
       "Version": "18363.1171",
       "ReleaseDate": "2020-10-20",
       "Article": "KB4580386",
+      "KBTitle": "October 20, 2020—KB4580386 (OS Builds 18362.1171 and 18363.1171) Preview",
       "Comment": "Preview"
     },
     {
@@ -4048,6 +4625,7 @@
       "Version": "19041.610",
       "ReleaseDate": "2020-10-29",
       "Article": "KB4580364",
+      "KBTitle": "October 29, 2020—KB4580364 (OS Builds 19041.610 and 19042.610) Preview",
       "Comment": "Preview"
     },
     {
@@ -4055,6 +4633,7 @@
       "Version": "19042.610",
       "ReleaseDate": "2020-10-29",
       "Article": "KB4580364",
+      "KBTitle": "October 29, 2020—KB4580364 (OS Builds 19041.610 and 19042.610) Preview",
       "Comment": "Preview"
     },
     {
@@ -4062,6 +4641,7 @@
       "Version": "18362.1198",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586786",
+      "KBTitle": "November 10, 2020—KB4586786 (OS Builds 18362.1198 and 18363.1198)",
       "Comment": ""
     },
     {
@@ -4069,6 +4649,7 @@
       "Version": "18363.1198",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586786",
+      "KBTitle": "November 10, 2020—KB4586786 (OS Builds 18362.1198 and 18363.1198)",
       "Comment": ""
     },
     {
@@ -4076,6 +4657,7 @@
       "Version": "19042.630",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586781",
+      "KBTitle": "November 10, 2020—KB4586781 (OS Builds 19041.630 and 19042.630)",
       "Comment": ""
     },
     {
@@ -4083,6 +4665,7 @@
       "Version": "15063.2554",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586782",
+      "KBTitle": "November 10, 2020—KB4586782 (OS Build 15063.2554)",
       "Comment": ""
     },
     {
@@ -4090,6 +4673,7 @@
       "Version": "17763.1577",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586793",
+      "KBTitle": "November 10, 2020—KB4586793 (OS Build 17763.1577)",
       "Comment": ""
     },
     {
@@ -4097,6 +4681,7 @@
       "Version": "19041.630",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586781",
+      "KBTitle": "November 10, 2020—KB4586781 (OS Builds 19041.630 and 19042.630)",
       "Comment": ""
     },
     {
@@ -4104,6 +4689,7 @@
       "Version": "10240.18756",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586787",
+      "KBTitle": "November 10, 2020-KB4586787 (OS Build 10240.18756)",
       "Comment": ""
     },
     {
@@ -4111,6 +4697,7 @@
       "Version": "17134.1845",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586785",
+      "KBTitle": "November 10, 2020—KB4586785 (OS Build 17134.1845)",
       "Comment": ""
     },
     {
@@ -4118,6 +4705,7 @@
       "Version": "14393.4046",
       "ReleaseDate": "2020-11-10",
       "Article": "KB4586830",
+      "KBTitle": "November 10, 2020—KB4586830 (OS Build 14393.4046)",
       "Comment": ""
     },
     {
@@ -4125,6 +4713,7 @@
       "Version": "17763.1579",
       "ReleaseDate": "2020-11-17",
       "Article": "KB4594442",
+      "KBTitle": "November 17, 2020—KB4594442 (OS Build 17763.1579) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4132,6 +4721,7 @@
       "Version": "18363.1237",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4586819",
+      "KBTitle": "November 19, 2020—KB4586819 (OS Builds 18362.1237 and 18363.1237) Preview",
       "Comment": "Preview"
     },
     {
@@ -4139,6 +4729,7 @@
       "Version": "19041.631",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4594440",
+      "KBTitle": "November 19, 2020—KB4594440 (OS Builds 19041.631 and 19042.631) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4146,6 +4737,7 @@
       "Version": "18363.1199",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4594443",
+      "KBTitle": "November 19, 2020—KB4594443 (OS Builds 18362.1199 and 18363.1199) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4153,6 +4745,7 @@
       "Version": "17763.1613",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4586839",
+      "KBTitle": "November 19, 2020—KB4586839 (OS Build 17763.1613) Preview",
       "Comment": "Preview"
     },
     {
@@ -4160,6 +4753,7 @@
       "Version": "19042.631",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4594440",
+      "KBTitle": "November 19, 2020—KB4594440 (OS Builds 19041.631 and 19042.631) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4167,6 +4761,7 @@
       "Version": "18362.1199",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4594443",
+      "KBTitle": "November 19, 2020—KB4594443 (OS Builds 18362.1199 and 18363.1199) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4174,6 +4769,7 @@
       "Version": "18362.1237",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4586819",
+      "KBTitle": "November 19, 2020—KB4586819 (OS Builds 18362.1237 and 18363.1237) Preview",
       "Comment": "Preview"
     },
     {
@@ -4181,6 +4777,7 @@
       "Version": "14393.4048",
       "ReleaseDate": "2020-11-19",
       "Article": "KB4594441",
+      "KBTitle": "November 19, 2020—KB4594441 (OS Build 14393.4048) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4188,6 +4785,7 @@
       "Version": "19041.662",
       "ReleaseDate": "2020-11-30",
       "Article": "KB4586853",
+      "KBTitle": "November 30, 2020—KB4586853 (OS Builds 19041.662 and 19042.662) Preview",
       "Comment": "Preview"
     },
     {
@@ -4195,6 +4793,7 @@
       "Version": "19042.662",
       "ReleaseDate": "2020-11-30",
       "Article": "KB4586853",
+      "KBTitle": "November 30, 2020—KB4586853 (OS Builds 19041.662 and 19042.662) Preview",
       "Comment": "Preview"
     },
     {
@@ -4202,6 +4801,7 @@
       "Version": "18362.1256",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592449",
+      "KBTitle": "December 8, 2020—KB4592449 (OS Builds 18362.1256 and 18363.1256)",
       "Comment": ""
     },
     {
@@ -4209,6 +4809,7 @@
       "Version": "18363.1256",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592449",
+      "KBTitle": "December 8, 2020—KB4592449 (OS Builds 18362.1256 and 18363.1256)",
       "Comment": ""
     },
     {
@@ -4216,6 +4817,7 @@
       "Version": "19041.685",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592438",
+      "KBTitle": "December 8, 2020—KB4592438 (OS Builds 19041.685 and 19042.685)",
       "Comment": ""
     },
     {
@@ -4223,6 +4825,7 @@
       "Version": "17763.1637",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592440",
+      "KBTitle": "December 8, 2020—KB4592440 (OS Build 17763.1637)",
       "Comment": ""
     },
     {
@@ -4230,6 +4833,7 @@
       "Version": "19042.685",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592438",
+      "KBTitle": "December 8, 2020—KB4592438 (OS Builds 19041.685 and 19042.685)",
       "Comment": ""
     },
     {
@@ -4237,6 +4841,7 @@
       "Version": "10240.18782",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592464",
+      "KBTitle": "December 8, 2020-KB4592464 (OS Build 10240.18782)",
       "Comment": ""
     },
     {
@@ -4244,6 +4849,7 @@
       "Version": "14393.4104",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4593226",
+      "KBTitle": "December 8, 2020—KB4593226 (OS Build 14393.4104)",
       "Comment": ""
     },
     {
@@ -4251,6 +4857,7 @@
       "Version": "15063.2584",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592473",
+      "KBTitle": "December 8, 2020—KB4592473 (OS Build 15063.2584)",
       "Comment": ""
     },
     {
@@ -4258,6 +4865,7 @@
       "Version": "17134.1902",
       "ReleaseDate": "2020-12-08",
       "Article": "KB4592446",
+      "KBTitle": "December 8, 2020—KB4592446 (OS Build 17134.1902)",
       "Comment": ""
     },
     {
@@ -4265,6 +4873,7 @@
       "Version": "18363.1316",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598229",
+      "KBTitle": "January 12, 2021—KB4598229 (OS Build 18363.1316)",
       "Comment": ""
     },
     {
@@ -4272,6 +4881,7 @@
       "Version": "10240.18818",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598231",
+      "KBTitle": "January 12, 2021-KB4598231 (OS Build 10240.18818)",
       "Comment": ""
     },
     {
@@ -4279,6 +4889,7 @@
       "Version": "19041.746",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598242",
+      "KBTitle": "January 12, 2021—KB4598242 (OS Builds 19041.746 and 19042.746)",
       "Comment": ""
     },
     {
@@ -4286,6 +4897,7 @@
       "Version": "19042.746",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598242",
+      "KBTitle": "January 12, 2021—KB4598242 (OS Builds 19041.746 and 19042.746)",
       "Comment": ""
     },
     {
@@ -4293,6 +4905,7 @@
       "Version": "17763.1697",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598230",
+      "KBTitle": "January 12, 2021—KB4598230 (OS Build 17763.1697)",
       "Comment": ""
     },
     {
@@ -4300,6 +4913,7 @@
       "Version": "15063.2614",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4599208",
+      "KBTitle": "January 12, 2021—KB4599208 (OS Build 15063.2614)",
       "Comment": ""
     },
     {
@@ -4307,6 +4921,7 @@
       "Version": "14393.4169",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598243",
+      "KBTitle": "January 12, 2021—KB4598243 (OS Build 14393.4169)",
       "Comment": ""
     },
     {
@@ -4314,6 +4929,7 @@
       "Version": "17134.1967",
       "ReleaseDate": "2021-01-12",
       "Article": "KB4598245",
+      "KBTitle": "January 12, 2021—KB4598245 (OS Build 17134.1967)",
       "Comment": ""
     },
     {
@@ -4321,6 +4937,7 @@
       "Version": "17763.1728",
       "ReleaseDate": "2021-01-21",
       "Article": "KB4598296",
+      "KBTitle": "January 21, 2021—KB4598296 (OS Build 17763.1728) Preview",
       "Comment": "Preview"
     },
     {
@@ -4328,6 +4945,7 @@
       "Version": "18363.1350",
       "ReleaseDate": "2021-01-21",
       "Article": "KB4598298",
+      "KBTitle": "January 21, 2021—KB4598298 (OS Build 18363.1350) Preview",
       "Comment": "Preview"
     },
     {
@@ -4335,6 +4953,7 @@
       "Version": "19042.789",
       "ReleaseDate": "2021-02-02",
       "Article": "KB4598291",
+      "KBTitle": "February 2, 2021—KB4598291 (OS Builds 19041.789 and 19042.789) Preview",
       "Comment": "Preview"
     },
     {
@@ -4342,6 +4961,7 @@
       "Version": "19041.789",
       "ReleaseDate": "2021-02-02",
       "Article": "KB4598291",
+      "KBTitle": "February 2, 2021—KB4598291 (OS Builds 19041.789 and 19042.789) Preview",
       "Comment": "Preview"
     },
     {
@@ -4349,6 +4969,7 @@
       "Version": "14393.4225",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601318",
+      "KBTitle": "February 9, 2021—KB4601318 (OS Build 14393.4225)",
       "Comment": ""
     },
     {
@@ -4356,6 +4977,7 @@
       "Version": "19042.804",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601319",
+      "KBTitle": "February 9, 2021—KB4601319 (OS Builds 19041.804 and 19042.804)",
       "Comment": ""
     },
     {
@@ -4363,6 +4985,7 @@
       "Version": "19041.804",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601319",
+      "KBTitle": "February 9, 2021—KB4601319 (OS Builds 19041.804 and 19042.804)",
       "Comment": ""
     },
     {
@@ -4370,6 +4993,7 @@
       "Version": "17763.1757",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601345",
+      "KBTitle": "February 9, 2021—KB4601345 (OS Build 17763.1757)",
       "Comment": ""
     },
     {
@@ -4377,6 +5001,7 @@
       "Version": "17134.2026",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601354",
+      "KBTitle": "February 9, 2021—KB4601354 (OS Build 17134.2026)",
       "Comment": ""
     },
     {
@@ -4384,6 +5009,7 @@
       "Version": "10240.18842",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601331",
+      "KBTitle": "February 9, 2021-KB4601331 (OS Build 10240.18842)",
       "Comment": ""
     },
     {
@@ -4391,6 +5017,7 @@
       "Version": "15063.2642",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601330",
+      "KBTitle": "February 9, 2021—KB4601330 (OS Build 15063.2642)",
       "Comment": ""
     },
     {
@@ -4398,6 +5025,7 @@
       "Version": "18363.1377",
       "ReleaseDate": "2021-02-09",
       "Article": "KB4601315",
+      "KBTitle": "February 9, 2021—KB4601315 (OS Build 18363.1377)",
       "Comment": ""
     },
     {
@@ -4405,6 +5033,7 @@
       "Version": "18363.1379",
       "ReleaseDate": "2021-02-11",
       "Article": "KB5001028",
+      "KBTitle": "February 11, 2021—KB5001028 (OS Build 18363.1379) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4412,6 +5041,7 @@
       "Version": "18363.1411",
       "ReleaseDate": "2021-02-16",
       "Article": "KB4601380",
+      "KBTitle": "February 16, 2021—KB4601380 (OS Build 18363.1411) Preview",
       "Comment": "Preview"
     },
     {
@@ -4419,6 +5049,7 @@
       "Version": "17763.1790",
       "ReleaseDate": "2021-02-16",
       "Article": "KB4601383",
+      "KBTitle": "February 16, 2021—KB4601383 (OS Build 17763.1790) Preview",
       "Comment": "Preview"
     },
     {
@@ -4426,6 +5057,7 @@
       "Version": "19042.844",
       "ReleaseDate": "2021-02-24",
       "Article": "KB4601382",
+      "KBTitle": "February 24, 2021—KB4601382 (OS Builds 19041.844 and 19042.844) Preview",
       "Comment": "Preview"
     },
     {
@@ -4433,6 +5065,7 @@
       "Version": "19041.844",
       "ReleaseDate": "2021-02-24",
       "Article": "KB4601382",
+      "KBTitle": "February 24, 2021—KB4601382 (OS Builds 19041.844 and 19042.844) Preview",
       "Comment": "Preview"
     },
     {
@@ -4440,6 +5073,7 @@
       "Version": "17134.2087",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000809",
+      "KBTitle": "March 9, 2021—KB5000809 (OS Build 17134.2087)",
       "Comment": ""
     },
     {
@@ -4447,6 +5081,7 @@
       "Version": "10240.18874",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000807",
+      "KBTitle": "March 9, 2021-KB5000807 (OS Build 10240.18874)",
       "Comment": ""
     },
     {
@@ -4454,6 +5089,7 @@
       "Version": "17763.1817",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000822",
+      "KBTitle": "March 9, 2021—KB5000822 (OS Build 17763.1817)",
       "Comment": ""
     },
     {
@@ -4461,6 +5097,7 @@
       "Version": "19041.867",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000802",
+      "KBTitle": "March 9, 2021—KB5000802 (OS Builds 19041.867 and 19042.867)",
       "Comment": ""
     },
     {
@@ -4468,6 +5105,7 @@
       "Version": "18363.1440",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000808",
+      "KBTitle": "March 9, 2021—KB5000808 (OS Build 18363.1440)",
       "Comment": ""
     },
     {
@@ -4475,6 +5113,7 @@
       "Version": "14393.4283",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000803",
+      "KBTitle": "March 9, 2021—KB5000803 (OS Build 14393.4283)",
       "Comment": ""
     },
     {
@@ -4482,6 +5121,7 @@
       "Version": "15063.2679",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000812",
+      "KBTitle": "March 9, 2021—KB5000812 (OS Build 15063.2679)",
       "Comment": ""
     },
     {
@@ -4489,6 +5129,7 @@
       "Version": "19042.867",
       "ReleaseDate": "2021-03-09",
       "Article": "KB5000802",
+      "KBTitle": "March 9, 2021—KB5000802 (OS Builds 19041.867 and 19042.867)",
       "Comment": ""
     },
     {
@@ -4496,6 +5137,7 @@
       "Version": "19041.868",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001567",
+      "KBTitle": "March 15, 2021—KB5001567 (OS Builds 19041.868 and 19042.868) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4503,6 +5145,7 @@
       "Version": "19042.868",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001567",
+      "KBTitle": "March 15, 2021—KB5001567 (OS Builds 19041.868 and 19042.868) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4510,6 +5153,7 @@
       "Version": "17134.2088",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001565",
+      "KBTitle": "March 15, 2021—KB5001565 (OS Build 17134.2088) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4517,6 +5161,7 @@
       "Version": "17763.1821",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001568",
+      "KBTitle": "March 15, 2021—KB5001568 (OS Build 17763.1821) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4524,6 +5169,7 @@
       "Version": "18363.1441",
       "ReleaseDate": "2021-03-15",
       "Article": "KB5001566",
+      "KBTitle": "March 15, 2021—KB5001566 (OS Build 18363.1441) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4531,6 +5177,7 @@
       "Version": "17134.2090",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001634",
+      "KBTitle": "March 18, 2021—KB5001634 (OS Build 17134.2090) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4538,6 +5185,7 @@
       "Version": "10240.18875",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001631",
+      "KBTitle": "March 18, 2021-KB5001631 (OS Build 10240.18875) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4545,6 +5193,7 @@
       "Version": "17763.1823",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001638",
+      "KBTitle": "March 18, 2021—KB5001638 (OS Build 17763.1823) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4552,6 +5201,7 @@
       "Version": "19041.870",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001649",
+      "KBTitle": "March 18, 2021—KB5001649 (OS Builds 19041.870 and 19042.870) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4559,6 +5209,7 @@
       "Version": "19042.870",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001649",
+      "KBTitle": "March 18, 2021—KB5001649 (OS Builds 19041.870 and 19042.870) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4566,6 +5217,7 @@
       "Version": "14393.4288",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001633",
+      "KBTitle": "March 18, 2021—KB5001633 (OS Build 14393.4288) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4573,6 +5225,7 @@
       "Version": "18363.1443",
       "ReleaseDate": "2021-03-18",
       "Article": "KB5001648",
+      "KBTitle": "March 18, 2021—KB5001648 (OS Build 18363.1443) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4580,6 +5233,7 @@
       "Version": "17763.1852",
       "ReleaseDate": "2021-03-25",
       "Article": "KB5000854",
+      "KBTitle": "March 25, 2021—KB5000854 (OS Build 17763.1852) Preview",
       "Comment": "Preview"
     },
     {
@@ -4587,6 +5241,7 @@
       "Version": "18363.1474",
       "ReleaseDate": "2021-03-25",
       "Article": "KB5000850",
+      "KBTitle": "March 25, 2021—KB5000850 (OS Build 18363.1474) Preview",
       "Comment": "Preview"
     },
     {
@@ -4594,6 +5249,7 @@
       "Version": "19042.906",
       "ReleaseDate": "2021-03-29",
       "Article": "KB5000842",
+      "KBTitle": "March 29, 2021—KB5000842 (OS Builds 19041.906 and 19042.906) Preview",
       "Comment": "Preview"
     },
     {
@@ -4601,6 +5257,7 @@
       "Version": "19041.906",
       "ReleaseDate": "2021-03-29",
       "Article": "KB5000842",
+      "KBTitle": "March 29, 2021—KB5000842 (OS Builds 19041.906 and 19042.906) Preview",
       "Comment": "Preview"
     },
     {
@@ -4608,6 +5265,7 @@
       "Version": "19042.928",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001330",
+      "KBTitle": "April 13, 2021—KB5001330 (OS Builds 19041.928 and 19042.928)",
       "Comment": ""
     },
     {
@@ -4615,6 +5273,7 @@
       "Version": "10240.18906",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001340",
+      "KBTitle": "April 13, 2021-KB5001340 (OS Build 10240.18906)",
       "Comment": ""
     },
     {
@@ -4622,6 +5281,7 @@
       "Version": "17763.1879",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001342",
+      "KBTitle": "April 13, 2021—KB5001342 (OS Build 17763.1879)",
       "Comment": ""
     },
     {
@@ -4629,6 +5289,7 @@
       "Version": "18363.1500",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001337",
+      "KBTitle": "April 13, 2021—KB5001337 (OS Build 18363.1500)",
       "Comment": ""
     },
     {
@@ -4636,6 +5297,7 @@
       "Version": "17134.2145",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001339",
+      "KBTitle": "April 13, 2021—KB5001339 (OS Build 17134.2145)",
       "Comment": ""
     },
     {
@@ -4643,6 +5305,7 @@
       "Version": "19041.928",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001330",
+      "KBTitle": "April 13, 2021—KB5001330 (OS Builds 19041.928 and 19042.928)",
       "Comment": ""
     },
     {
@@ -4650,6 +5313,7 @@
       "Version": "14393.4350",
       "ReleaseDate": "2021-04-13",
       "Article": "KB5001347",
+      "KBTitle": "April 13, 2021—KB5001347 (OS Build 14393.4350)",
       "Comment": ""
     },
     {
@@ -4657,6 +5321,7 @@
       "Version": "17763.1911",
       "ReleaseDate": "2021-04-22",
       "Article": "KB5001384",
+      "KBTitle": "April 22, 2021—KB5001384 (OS Build 17763.1911) Preview",
       "Comment": "Preview"
     },
     {
@@ -4664,6 +5329,7 @@
       "Version": "18363.1533",
       "ReleaseDate": "2021-04-22",
       "Article": "KB5001396",
+      "KBTitle": "April 22, 2021—KB5001396 (OS Build 18363.1533) Preview",
       "Comment": "Preview"
     },
     {
@@ -4671,6 +5337,7 @@
       "Version": "19041.964",
       "ReleaseDate": "2021-04-28",
       "Article": "KB5001391",
+      "KBTitle": "April 28, 2021—KB5001391 (OS Builds 19041.964 and 19042.964) Preview",
       "Comment": "Preview"
     },
     {
@@ -4678,6 +5345,7 @@
       "Version": "19042.964",
       "ReleaseDate": "2021-04-28",
       "Article": "KB5001391",
+      "KBTitle": "April 28, 2021—KB5001391 (OS Builds 19041.964 and 19042.964) Preview",
       "Comment": "Preview"
     },
     {
@@ -4685,6 +5353,7 @@
       "Version": "19043.985",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003173",
+      "KBTitle": "May 11, 2021—KB5003173 (OS Builds 19041.985, 19042.985, and 19043.985)",
       "Comment": ""
     },
     {
@@ -4692,6 +5361,7 @@
       "Version": "19041.985",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003173",
+      "KBTitle": "May 11, 2021—KB5003173 (OS Builds 19041.985, 19042.985, and 19043.985)",
       "Comment": ""
     },
     {
@@ -4699,6 +5369,7 @@
       "Version": "14393.4402",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003197",
+      "KBTitle": "May 11, 2021—KB5003197 (OS Build 14393.4402)",
       "Comment": ""
     },
     {
@@ -4706,6 +5377,7 @@
       "Version": "10240.18932",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003172",
+      "KBTitle": "May 11, 2021-KB5003172 (OS Build 10240.18932)",
       "Comment": ""
     },
     {
@@ -4713,6 +5385,7 @@
       "Version": "17134.2208",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003174",
+      "KBTitle": "May 11, 2021—KB5003174 (OS Build 17134.2208)",
       "Comment": ""
     },
     {
@@ -4720,6 +5393,7 @@
       "Version": "19042.985",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003173",
+      "KBTitle": "May 11, 2021—KB5003173 (OS Builds 19041.985, 19042.985, and 19043.985)",
       "Comment": ""
     },
     {
@@ -4727,6 +5401,7 @@
       "Version": "18363.1556",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003169",
+      "KBTitle": "May 11, 2021—KB5003169 (OS Build 18363.1556)",
       "Comment": ""
     },
     {
@@ -4734,6 +5409,7 @@
       "Version": "17763.1935",
       "ReleaseDate": "2021-05-11",
       "Article": "KB5003171",
+      "KBTitle": "May 11, 2021—KB5003171 (OS Build 17763.1935)",
       "Comment": ""
     },
     {
@@ -4741,6 +5417,7 @@
       "Version": "18363.1593",
       "ReleaseDate": "2021-05-20",
       "Article": "KB5003212",
+      "KBTitle": "May 20, 2021—KB5003212 (OS Build 18363.1593) Preview",
       "Comment": "Preview"
     },
     {
@@ -4748,6 +5425,7 @@
       "Version": "17763.1971",
       "ReleaseDate": "2021-05-20",
       "Article": "KB5003217",
+      "KBTitle": "May 20, 2021—KB5003217 (OS Build 17763.1971) Preview",
       "Comment": "Preview"
     },
     {
@@ -4755,6 +5433,7 @@
       "Version": "19042.1023",
       "ReleaseDate": "2021-05-25",
       "Article": "KB5003214",
+      "KBTitle": "May 25, 2021—KB5003214 (OS Builds 19041.1023, 19042.1023, and 19043.1023) Preview",
       "Comment": "Preview"
     },
     {
@@ -4762,6 +5441,7 @@
       "Version": "19041.1023",
       "ReleaseDate": "2021-05-25",
       "Article": "KB5003214",
+      "KBTitle": "May 25, 2021—KB5003214 (OS Builds 19041.1023, 19042.1023, and 19043.1023) Preview",
       "Comment": "Preview"
     },
     {
@@ -4769,6 +5449,7 @@
       "Version": "19043.1023",
       "ReleaseDate": "2021-05-25",
       "Article": "KB5003214",
+      "KBTitle": "May 25, 2021—KB5003214 (OS Builds 19041.1023, 19042.1023, and 19043.1023) Preview",
       "Comment": "Preview"
     },
     {
@@ -4776,6 +5457,7 @@
       "Version": "19042.1052",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003637",
+      "KBTitle": "June 8, 2021—KB5003637 (OS Builds 19041.1052, 19042.1052, and 19043.1052)",
       "Comment": ""
     },
     {
@@ -4783,6 +5465,7 @@
       "Version": "19041.1052",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003637",
+      "KBTitle": "June 8, 2021—KB5003637 (OS Builds 19041.1052, 19042.1052, and 19043.1052)",
       "Comment": ""
     },
     {
@@ -4790,6 +5473,7 @@
       "Version": "19043.1052",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003637",
+      "KBTitle": "June 8, 2021—KB5003637 (OS Builds 19041.1052, 19042.1052, and 19043.1052)",
       "Comment": ""
     },
     {
@@ -4797,6 +5481,7 @@
       "Version": "10240.18967",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003687",
+      "KBTitle": "June 8, 2021-KB5003687 (OS Build 10240.18967)",
       "Comment": ""
     },
     {
@@ -4804,6 +5489,7 @@
       "Version": "14393.4467",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003638",
+      "KBTitle": "June 8, 2021—KB5003638 (OS Build 14393.4467)",
       "Comment": ""
     },
     {
@@ -4811,6 +5497,7 @@
       "Version": "18363.1621",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003635",
+      "KBTitle": "June 8, 2021—KB5003635 (OS Build 18363.1621)",
       "Comment": ""
     },
     {
@@ -4818,6 +5505,7 @@
       "Version": "17763.1999",
       "ReleaseDate": "2021-06-08",
       "Article": "KB5003646",
+      "KBTitle": "June 8, 2021—KB5003646 (OS Build 17763.1999)",
       "Comment": ""
     },
     {
@@ -4825,6 +5513,7 @@
       "Version": "19043.1055",
       "ReleaseDate": "2021-06-11",
       "Article": "KB5004476",
+      "KBTitle": "June 11, 2021—KB5004476 (OS Builds 19041.1055, 19042.1055, and 19043.1055) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4832,6 +5521,7 @@
       "Version": "19042.1055",
       "ReleaseDate": "2021-06-11",
       "Article": "KB5004476",
+      "KBTitle": "June 11, 2021—KB5004476 (OS Builds 19041.1055, 19042.1055, and 19043.1055) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4839,6 +5529,7 @@
       "Version": "19041.1055",
       "ReleaseDate": "2021-06-11",
       "Article": "KB5004476",
+      "KBTitle": "June 11, 2021—KB5004476 (OS Builds 19041.1055, 19042.1055, and 19043.1055) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4846,6 +5537,7 @@
       "Version": "18363.1645",
       "ReleaseDate": "2021-06-15",
       "Article": "KB5003698",
+      "KBTitle": "June 15, 2021—KB5003698 (OS Build 18363.1645) Preview",
       "Comment": "Preview"
     },
     {
@@ -4853,6 +5545,7 @@
       "Version": "17763.2028",
       "ReleaseDate": "2021-06-15",
       "Article": "KB5003703",
+      "KBTitle": "June 15, 2021—KB5003703 (OS Build 17763.2028) Preview",
       "Comment": "Preview"
     },
     {
@@ -4860,6 +5553,7 @@
       "Version": "19041.1081",
       "ReleaseDate": "2021-06-21",
       "Article": "KB5003690",
+      "KBTitle": "June 21, 2021—KB5003690 (OS Builds 19041.1081, 19042.1081, and 19043.1081) Preview",
       "Comment": "Preview"
     },
     {
@@ -4867,6 +5561,7 @@
       "Version": "19043.1081",
       "ReleaseDate": "2021-06-21",
       "Article": "KB5003690",
+      "KBTitle": "June 21, 2021—KB5003690 (OS Builds 19041.1081, 19042.1081, and 19043.1081) Preview",
       "Comment": "Preview"
     },
     {
@@ -4874,6 +5569,7 @@
       "Version": "19042.1081",
       "ReleaseDate": "2021-06-21",
       "Article": "KB5003690",
+      "KBTitle": "June 21, 2021—KB5003690 (OS Builds 19041.1081, 19042.1081, and 19043.1081) Preview",
       "Comment": "Preview"
     },
     {
@@ -4881,6 +5577,7 @@
       "Version": "19043.1082",
       "ReleaseDate": "2021-06-29",
       "Article": "KB5004760",
+      "KBTitle": "June 29, 2021—KB5004760 (OS Builds 19041.1082, 19042.1082, and 19043.1082) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4888,6 +5585,7 @@
       "Version": "19041.1082",
       "ReleaseDate": "2021-06-29",
       "Article": "KB5004760",
+      "KBTitle": "June 29, 2021—KB5004760 (OS Builds 19041.1082, 19042.1082, and 19043.1082) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4895,6 +5593,7 @@
       "Version": "19042.1082",
       "ReleaseDate": "2021-06-29",
       "Article": "KB5004760",
+      "KBTitle": "June 29, 2021—KB5004760 (OS Builds 19041.1082, 19042.1082, and 19043.1082) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4902,6 +5601,7 @@
       "Version": "10240.18969",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004950",
+      "KBTitle": "July 6, 2021—KB5004950 (OS Build 10240.18969) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4909,6 +5609,7 @@
       "Version": "19043.1083",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004945",
+      "KBTitle": "July 6, 2021—KB5004945 (OS Builds 19041.1083, 19042.1083, and 19043.1083) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4916,6 +5617,7 @@
       "Version": "19042.1083",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004945",
+      "KBTitle": "July 6, 2021—KB5004945 (OS Builds 19041.1083, 19042.1083, and 19043.1083) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4923,6 +5625,7 @@
       "Version": "19041.1083",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004945",
+      "KBTitle": "July 6, 2021—KB5004945 (OS Builds 19041.1083, 19042.1083, and 19043.1083) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4930,6 +5633,7 @@
       "Version": "17763.2029",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004947",
+      "KBTitle": "July 6, 2021—KB5004947 (OS Build 17763.2029) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4937,6 +5641,7 @@
       "Version": "18363.1646",
       "ReleaseDate": "2021-07-06",
       "Article": "KB5004946",
+      "KBTitle": "July 6, 2021—KB5004946 (OS Build 18363.1646) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4944,6 +5649,7 @@
       "Version": "14393.4470",
       "ReleaseDate": "2021-07-07",
       "Article": "KB5004948",
+      "KBTitle": "July 7, 2021—KB5004948 (OS Build 14393.4470) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -4951,6 +5657,7 @@
       "Version": "19041.1110",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004237",
+      "KBTitle": "July 13, 2021—KB5004237 (OS Builds 19041.1110, 19042.1110, and 19043.1110)",
       "Comment": ""
     },
     {
@@ -4958,6 +5665,7 @@
       "Version": "19043.1110",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004237",
+      "KBTitle": "July 13, 2021—KB5004237 (OS Builds 19041.1110, 19042.1110, and 19043.1110)",
       "Comment": ""
     },
     {
@@ -4965,6 +5673,7 @@
       "Version": "19042.1110",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004237",
+      "KBTitle": "July 13, 2021—KB5004237 (OS Builds 19041.1110, 19042.1110, and 19043.1110)",
       "Comment": ""
     },
     {
@@ -4972,6 +5681,7 @@
       "Version": "10240.19003",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004249",
+      "KBTitle": "July 13, 2021-KB5004249 (OS Build 10240.19003)",
       "Comment": ""
     },
     {
@@ -4979,6 +5689,7 @@
       "Version": "14393.4530",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004238",
+      "KBTitle": "July 13, 2021—KB5004238 (OS Build 14393.4530)",
       "Comment": ""
     },
     {
@@ -4986,6 +5697,7 @@
       "Version": "17763.2061",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004244",
+      "KBTitle": "July 13, 2021—KB5004244 (OS Build 17763.2061)",
       "Comment": ""
     },
     {
@@ -4993,6 +5705,7 @@
       "Version": "18363.1679",
       "ReleaseDate": "2021-07-13",
       "Article": "KB5004245",
+      "KBTitle": "July 13, 2021—KB5004245 (OS Build 18363.1679)",
       "Comment": ""
     },
     {
@@ -5000,6 +5713,7 @@
       "Version": "17763.2090",
       "ReleaseDate": "2021-07-20",
       "Article": "KB5004308",
+      "KBTitle": "July 20, 2021—KB5004308 (OS Build 17763.2090) Preview",
       "Comment": "Preview"
     },
     {
@@ -5007,6 +5721,7 @@
       "Version": "17763.2091",
       "ReleaseDate": "2021-07-27",
       "Article": "KB5005394",
+      "KBTitle": "July 27, 2021—KB5005394 (OS Build 17763.2091) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5014,6 +5729,7 @@
       "Version": "19043.1151",
       "ReleaseDate": "2021-07-29",
       "Article": "KB5004296",
+      "KBTitle": "July 29, 2021—KB5004296 (OS Builds 19041.1151, 19042.1151, and 19043.1151) Preview",
       "Comment": "Preview"
     },
     {
@@ -5021,6 +5737,7 @@
       "Version": "19042.1151",
       "ReleaseDate": "2021-07-29",
       "Article": "KB5004296",
+      "KBTitle": "July 29, 2021—KB5004296 (OS Builds 19041.1151, 19042.1151, and 19043.1151) Preview",
       "Comment": "Preview"
     },
     {
@@ -5028,6 +5745,7 @@
       "Version": "19041.1151",
       "ReleaseDate": "2021-07-29",
       "Article": "KB5004296",
+      "KBTitle": "July 29, 2021—KB5004296 (OS Builds 19041.1151, 19042.1151, and 19043.1151) Preview",
       "Comment": "Preview"
     },
     {
@@ -5035,6 +5753,7 @@
       "Version": "18363.1714",
       "ReleaseDate": "2021-07-29",
       "Article": "KB5004293",
+      "KBTitle": "July 29, 2021—KB5004293 (OS Build 18363.1714) Preview",
       "Comment": "Preview"
     },
     {
@@ -5042,6 +5761,7 @@
       "Version": "14393.4532",
       "ReleaseDate": "2021-07-29",
       "Article": "KB5005393",
+      "KBTitle": "July 29, 2021—KB5005393 (OS Build 14393.4532) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5049,6 +5769,7 @@
       "Version": "14393.4583",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005043",
+      "KBTitle": "August 10, 2021—KB5005043 (OS Build 14393.4583)",
       "Comment": ""
     },
     {
@@ -5056,6 +5777,7 @@
       "Version": "19042.1165",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005033",
+      "KBTitle": "August 10, 2021—KB5005033 (OS Builds 19041.1165, 19042.1165, and 19043.1165)",
       "Comment": ""
     },
     {
@@ -5063,6 +5785,7 @@
       "Version": "19043.1165",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005033",
+      "KBTitle": "August 10, 2021—KB5005033 (OS Builds 19041.1165, 19042.1165, and 19043.1165)",
       "Comment": ""
     },
     {
@@ -5070,6 +5793,7 @@
       "Version": "18363.1734",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005031",
+      "KBTitle": "August 10, 2021—KB5005031 (OS Build 18363.1734)",
       "Comment": ""
     },
     {
@@ -5077,6 +5801,7 @@
       "Version": "19041.1165",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005033",
+      "KBTitle": "August 10, 2021—KB5005033 (OS Builds 19041.1165, 19042.1165, and 19043.1165)",
       "Comment": ""
     },
     {
@@ -5084,6 +5809,7 @@
       "Version": "17763.2114",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005030",
+      "KBTitle": "August 10, 2021—KB5005030 (OS Build 17763.2114)",
       "Comment": ""
     },
     {
@@ -5091,6 +5817,7 @@
       "Version": "10240.19022",
       "ReleaseDate": "2021-08-10",
       "Article": "KB5005040",
+      "KBTitle": "August 10, 2021-KB5005040 (OS Build 10240.19022)",
       "Comment": ""
     },
     {
@@ -5098,6 +5825,7 @@
       "Version": "17763.2145",
       "ReleaseDate": "2021-08-26",
       "Article": "KB5005102",
+      "KBTitle": "August 26, 2021—KB5005102 (OS Build 17763.2145) Preview",
       "Comment": "Preview"
     },
     {
@@ -5105,6 +5833,7 @@
       "Version": "18363.1766",
       "ReleaseDate": "2021-08-26",
       "Article": "KB5005103",
+      "KBTitle": "August 26, 2021—KB5005103 (OS Build 18363.1766) Preview",
       "Comment": "Preview"
     },
     {
@@ -5112,6 +5841,7 @@
       "Version": "19043.1202",
       "ReleaseDate": "2021-09-01",
       "Article": "KB5005101",
+      "KBTitle": "September 1, 2021—KB5005101 (OS Builds 19041.1202, 19042.1202, and 19043.1202) Preview",
       "Comment": "Preview"
     },
     {
@@ -5119,6 +5849,7 @@
       "Version": "19042.1202",
       "ReleaseDate": "2021-09-01",
       "Article": "KB5005101",
+      "KBTitle": "September 1, 2021—KB5005101 (OS Builds 19041.1202, 19042.1202, and 19043.1202) Preview",
       "Comment": "Preview"
     },
     {
@@ -5126,6 +5857,7 @@
       "Version": "19041.1202",
       "ReleaseDate": "2021-09-01",
       "Article": "KB5005101",
+      "KBTitle": "September 1, 2021—KB5005101 (OS Builds 19041.1202, 19042.1202, and 19043.1202) Preview",
       "Comment": "Preview"
     },
     {
@@ -5133,6 +5865,7 @@
       "Version": "19042.1237",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005565",
+      "KBTitle": "September 14, 2021—KB5005565 (OS Builds 19041.1237, 19042.1237, and 19043.1237)",
       "Comment": ""
     },
     {
@@ -5140,6 +5873,7 @@
       "Version": "19041.1237",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005565",
+      "KBTitle": "September 14, 2021—KB5005565 (OS Builds 19041.1237, 19042.1237, and 19043.1237)",
       "Comment": ""
     },
     {
@@ -5147,6 +5881,7 @@
       "Version": "14393.4651",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005573",
+      "KBTitle": "September 14, 2021—KB5005573 (OS Build 14393.4651)",
       "Comment": ""
     },
     {
@@ -5154,6 +5889,7 @@
       "Version": "18363.1801",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005566",
+      "KBTitle": "September 14, 2021—KB5005566 (OS Build 18363.1801)",
       "Comment": ""
     },
     {
@@ -5161,6 +5897,7 @@
       "Version": "19043.1237",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005565",
+      "KBTitle": "September 14, 2021—KB5005565 (OS Builds 19041.1237, 19042.1237, and 19043.1237)",
       "Comment": ""
     },
     {
@@ -5168,6 +5905,7 @@
       "Version": "17763.2183",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005568",
+      "KBTitle": "September 14, 2021—KB5005568 (OS Build 17763.2183)",
       "Comment": ""
     },
     {
@@ -5175,6 +5913,7 @@
       "Version": "10240.19060",
       "ReleaseDate": "2021-09-14",
       "Article": "KB5005569",
+      "KBTitle": "September 14, 2021-KB5005569 (OS Build 10240.19060)",
       "Comment": ""
     },
     {
@@ -5182,6 +5921,7 @@
       "Version": "18363.1830",
       "ReleaseDate": "2021-09-21",
       "Article": "KB5005624",
+      "KBTitle": "September 21, 2021—KB5005624 (OS Build 18363.1830) Preview",
       "Comment": "Preview"
     },
     {
@@ -5189,6 +5929,7 @@
       "Version": "17763.2210",
       "ReleaseDate": "2021-09-21",
       "Article": "KB5005625",
+      "KBTitle": "September 21, 2021—KB5005625 (OS Build 17763.2210) Preview",
       "Comment": "Preview"
     },
     {
@@ -5196,6 +5937,7 @@
       "Version": "19041.1266",
       "ReleaseDate": "2021-09-30",
       "Article": "KB5005611",
+      "KBTitle": "September 30, 2021—KB5005611 (OS Builds 19041.1266, 19042.1266, and 19043.1266) Preview",
       "Comment": "Preview"
     },
     {
@@ -5203,6 +5945,7 @@
       "Version": "19043.1266",
       "ReleaseDate": "2021-09-30",
       "Article": "KB5005611",
+      "KBTitle": "September 30, 2021—KB5005611 (OS Builds 19041.1266, 19042.1266, and 19043.1266) Preview",
       "Comment": "Preview"
     },
     {
@@ -5210,6 +5953,7 @@
       "Version": "19042.1266",
       "ReleaseDate": "2021-09-30",
       "Article": "KB5005611",
+      "KBTitle": "September 30, 2021—KB5005611 (OS Builds 19041.1266, 19042.1266, and 19043.1266) Preview",
       "Comment": "Preview"
     },
     {
@@ -5217,6 +5961,7 @@
       "Version": "19042.1288",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006670",
+      "KBTitle": "October 12, 2021—KB5006670 (OS Builds 19041.1288, 19042.1288, and 19043.1288)",
       "Comment": ""
     },
     {
@@ -5224,6 +5969,7 @@
       "Version": "19043.1288",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006670",
+      "KBTitle": "October 12, 2021—KB5006670 (OS Builds 19041.1288, 19042.1288, and 19043.1288)",
       "Comment": ""
     },
     {
@@ -5231,6 +5977,7 @@
       "Version": "14393.4704",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006669",
+      "KBTitle": "October 12, 2021—KB5006669 (OS Build 14393.4704)",
       "Comment": ""
     },
     {
@@ -5238,6 +5985,7 @@
       "Version": "19041.1288",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006670",
+      "KBTitle": "October 12, 2021—KB5006670 (OS Builds 19041.1288, 19042.1288, and 19043.1288)",
       "Comment": ""
     },
     {
@@ -5245,6 +5993,7 @@
       "Version": "17763.2237",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006672",
+      "KBTitle": "October 12, 2021—KB5006672 (OS Build 17763.2237) ",
       "Comment": ""
     },
     {
@@ -5252,6 +6001,7 @@
       "Version": "10240.19086",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006675",
+      "KBTitle": "October 12, 2021-KB5006675 (OS Build 10240.19086)",
       "Comment": ""
     },
     {
@@ -5259,6 +6009,7 @@
       "Version": "18363.1854",
       "ReleaseDate": "2021-10-12",
       "Article": "KB5006667",
+      "KBTitle": "October 12, 2021—KB5006667 (OS Build 18363.1854)",
       "Comment": ""
     },
     {
@@ -5266,6 +6017,7 @@
       "Version": "17763.2268",
       "ReleaseDate": "2021-10-19",
       "Article": "KB5006744",
+      "KBTitle": "October 19, 2021—KB5006744 (OS Build 17763.2268) Preview",
       "Comment": "Preview"
     },
     {
@@ -5273,6 +6025,7 @@
       "Version": "19042.1320",
       "ReleaseDate": "2021-10-26",
       "Article": "KB5006738",
+      "KBTitle": "October 26, 2021—KB5006738 (OS Builds 19041.1320, 19042.1320, and 19043.1320) Preview",
       "Comment": "Preview"
     },
     {
@@ -5280,6 +6033,7 @@
       "Version": "19043.1320",
       "ReleaseDate": "2021-10-26",
       "Article": "KB5006738",
+      "KBTitle": "October 26, 2021—KB5006738 (OS Builds 19041.1320, 19042.1320, and 19043.1320) Preview",
       "Comment": "Preview"
     },
     {
@@ -5287,6 +6041,7 @@
       "Version": "19041.1320",
       "ReleaseDate": "2021-10-26",
       "Article": "KB5006738",
+      "KBTitle": "October 26, 2021—KB5006738 (OS Builds 19041.1320, 19042.1320, and 19043.1320) Preview",
       "Comment": "Preview"
     },
     {
@@ -5294,6 +6049,7 @@
       "Version": "19042.1348",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007186",
+      "KBTitle": "November 9, 2021—KB5007186 (OS Builds 19041.1348, 19042.1348, and 19043.1348)",
       "Comment": ""
     },
     {
@@ -5301,6 +6057,7 @@
       "Version": "18363.1916",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007189",
+      "KBTitle": "November 9, 2021—KB5007189 (OS Build 18363.1916)",
       "Comment": ""
     },
     {
@@ -5308,6 +6065,7 @@
       "Version": "10240.19119",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007207",
+      "KBTitle": "November 9, 2021-KB5007207 (OS Build 10240.19119)",
       "Comment": ""
     },
     {
@@ -5315,6 +6073,7 @@
       "Version": "17763.2300",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007206",
+      "KBTitle": "November 9, 2021—KB5007206 (OS Build 17763.2300)",
       "Comment": ""
     },
     {
@@ -5322,6 +6081,7 @@
       "Version": "19041.1348",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007186",
+      "KBTitle": "November 9, 2021—KB5007186 (OS Builds 19041.1348, 19042.1348, and 19043.1348)",
       "Comment": ""
     },
     {
@@ -5329,6 +6089,7 @@
       "Version": "19043.1348",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007186",
+      "KBTitle": "November 9, 2021—KB5007186 (OS Builds 19041.1348, 19042.1348, and 19043.1348)",
       "Comment": ""
     },
     {
@@ -5336,6 +6097,7 @@
       "Version": "14393.4770",
       "ReleaseDate": "2021-11-09",
       "Article": "KB5007192",
+      "KBTitle": "November 9, 2021—KB5007192 (OS Build 14393.4770)",
       "Comment": ""
     },
     {
@@ -5343,6 +6105,7 @@
       "Version": "14393.4771",
       "ReleaseDate": "2021-11-14",
       "Article": "KB5008601",
+      "KBTitle": "November 14, 2021—KB5008601 (OS Build 14393.4771) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5350,6 +6113,7 @@
       "Version": "17763.2305",
       "ReleaseDate": "2021-11-14",
       "Article": "KB5008602",
+      "KBTitle": "November 14, 2021—KB5008602 (OS Build 17763.2305) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5357,6 +6121,7 @@
       "Version": "19042.1387",
       "ReleaseDate": "2021-11-22",
       "Article": "KB5007253",
+      "KBTitle": "November 22, 2021—KB5007253 (OS Builds 19041.1387, 19042.1387, 19043.1387, and 19044.1387) Preview",
       "Comment": "Preview"
     },
     {
@@ -5364,6 +6129,7 @@
       "Version": "19043.1387",
       "ReleaseDate": "2021-11-22",
       "Article": "KB5007253",
+      "KBTitle": "November 22, 2021—KB5007253 (OS Builds 19041.1387, 19042.1387, 19043.1387, and 19044.1387) Preview",
       "Comment": "Preview"
     },
     {
@@ -5371,6 +6137,7 @@
       "Version": "19044.1387",
       "ReleaseDate": "2021-11-22",
       "Article": "KB5007253",
+      "KBTitle": "November 22, 2021—KB5007253 (OS Builds 19041.1387, 19042.1387, 19043.1387, and 19044.1387) Preview",
       "Comment": "Preview"
     },
     {
@@ -5378,6 +6145,7 @@
       "Version": "19041.1387",
       "ReleaseDate": "2021-11-22",
       "Article": "KB5007253",
+      "KBTitle": "November 22, 2021—KB5007253 (OS Builds 19041.1387, 19042.1387, 19043.1387, and 19044.1387) Preview",
       "Comment": "Preview"
     },
     {
@@ -5385,6 +6153,7 @@
       "Version": "17763.2330",
       "ReleaseDate": "2021-11-22",
       "Article": "KB5007266",
+      "KBTitle": "November 22, 2021—KB5007266 (OS Build 17763.2330) Preview",
       "Comment": "Preview"
     },
     {
@@ -5392,6 +6161,7 @@
       "Version": "19041.1415",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008212",
+      "KBTitle": "December 14, 2021—KB5008212 (OS Builds 19041.1415, 19042.1415, 19043.1415, and 19044.1415)",
       "Comment": ""
     },
     {
@@ -5399,6 +6169,7 @@
       "Version": "19044.1415",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008212",
+      "KBTitle": "December 14, 2021—KB5008212 (OS Builds 19041.1415, 19042.1415, 19043.1415, and 19044.1415)",
       "Comment": ""
     },
     {
@@ -5406,6 +6177,7 @@
       "Version": "19043.1415",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008212",
+      "KBTitle": "December 14, 2021—KB5008212 (OS Builds 19041.1415, 19042.1415, 19043.1415, and 19044.1415)",
       "Comment": ""
     },
     {
@@ -5413,6 +6185,7 @@
       "Version": "19042.1415",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008212",
+      "KBTitle": "December 14, 2021—KB5008212 (OS Builds 19041.1415, 19042.1415, 19043.1415, and 19044.1415)",
       "Comment": ""
     },
     {
@@ -5420,6 +6193,7 @@
       "Version": "18363.1977",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008206",
+      "KBTitle": "December 14, 2021—KB5008206 (OS Build 18363.1977)",
       "Comment": ""
     },
     {
@@ -5427,6 +6201,7 @@
       "Version": "14393.4825",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008207",
+      "KBTitle": "December 14, 2021—KB5008207 (OS Build 14393.4825)",
       "Comment": ""
     },
     {
@@ -5434,6 +6209,7 @@
       "Version": "10240.19145",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008230",
+      "KBTitle": "December 14, 2021-KB5008230 (OS Build 10240.19145)",
       "Comment": ""
     },
     {
@@ -5441,6 +6217,7 @@
       "Version": "17763.2366",
       "ReleaseDate": "2021-12-14",
       "Article": "KB5008218",
+      "KBTitle": "December 14, 2021—KB5008218 (OS Build 17763.2366)",
       "Comment": ""
     },
     {
@@ -5448,6 +6225,7 @@
       "Version": "17763.2369",
       "ReleaseDate": "2022-01-04",
       "Article": "KB5010196",
+      "KBTitle": "January 4, 2022—KB5010196 (OS Build 17763.2369) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5455,6 +6233,7 @@
       "Version": "14393.4827",
       "ReleaseDate": "2022-01-05",
       "Article": "KB5010195",
+      "KBTitle": "January 5, 2022—KB5010195 (OS Build 14393.4827) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5462,6 +6241,7 @@
       "Version": "17763.2452",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009557",
+      "KBTitle": "January 11, 2022—KB5009557 (OS Build 17763.2452)",
       "Comment": ""
     },
     {
@@ -5469,6 +6249,7 @@
       "Version": "19042.1466",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009543",
+      "KBTitle": "January 11, 2022—KB5009543 (OS Builds 19042.1466, 19043.1466, and 19044.1466)",
       "Comment": ""
     },
     {
@@ -5476,6 +6257,7 @@
       "Version": "19044.1466",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009543",
+      "KBTitle": "January 11, 2022—KB5009543 (OS Builds 19042.1466, 19043.1466, and 19044.1466)",
       "Comment": ""
     },
     {
@@ -5483,6 +6265,7 @@
       "Version": "19043.1466",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009543",
+      "KBTitle": "January 11, 2022—KB5009543 (OS Builds 19042.1466, 19043.1466, and 19044.1466)",
       "Comment": ""
     },
     {
@@ -5490,6 +6273,7 @@
       "Version": "10240.19177",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009585",
+      "KBTitle": "January 11, 2022-KB5009585 (OS Build 10240.19177)",
       "Comment": ""
     },
     {
@@ -5497,6 +6281,7 @@
       "Version": "18363.2037",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009545",
+      "KBTitle": "January 11, 2022—KB5009545 (OS Build 18363.2037)",
       "Comment": ""
     },
     {
@@ -5504,6 +6289,7 @@
       "Version": "14393.4886",
       "ReleaseDate": "2022-01-11",
       "Article": "KB5009546",
+      "KBTitle": "January 11, 2022—KB5009546 (OS Build 14393.4886)",
       "Comment": ""
     },
     {
@@ -5511,6 +6297,7 @@
       "Version": "19042.1469",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010793",
+      "KBTitle": "January 17, 2022—KB5010793 (OS Builds 19042.1469, 19043.1469, and 19044.1469) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5518,6 +6305,7 @@
       "Version": "19044.1469",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010793",
+      "KBTitle": "January 17, 2022—KB5010793 (OS Builds 19042.1469, 19043.1469, and 19044.1469) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5525,6 +6313,7 @@
       "Version": "14393.4889",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010790",
+      "KBTitle": "January 17, 2022—KB5010790 (OS Build 14393.4889) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5532,6 +6321,7 @@
       "Version": "18363.2039",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010792",
+      "KBTitle": "January 17, 2022—KB5010792 (OS Build 18363.2039) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5539,6 +6329,7 @@
       "Version": "19043.1469",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010793",
+      "KBTitle": "January 17, 2022—KB5010793 (OS Builds 19042.1469, 19043.1469, and 19044.1469) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5546,6 +6337,7 @@
       "Version": "10240.19179",
       "ReleaseDate": "2022-01-17",
       "Article": "KB5010789",
+      "KBTitle": "January 17, 2022-KB5010789 (OS Build 10240.19179) Out-of-band",
       "Comment": "Out-of-band"
     },
     {
@@ -5553,6 +6345,7 @@
       "Version": "17763.2458",
       "ReleaseDate": "2022-01-18",
       "Article": "KB5010791",
+      "KBTitle": "January 18, 2022—KB5010791 (OS Build 17763.2458) Out-of-band ",
       "Comment": "Out-of-band"
     },
     {
@@ -5560,6 +6353,7 @@
       "Version": "19043.1503",
       "ReleaseDate": "2022-01-25",
       "Article": "KB5009596",
+      "KBTitle": "January 25, 2022—KB5009596 (OS Builds 19042.1503, 19043.1503, and 19044.1503) Preview",
       "Comment": "Preview"
     },
     {
@@ -5567,6 +6361,7 @@
       "Version": "17763.2510",
       "ReleaseDate": "2022-01-25",
       "Article": "KB5009616",
+      "KBTitle": "January 25, 2022—KB5009616 (OS Build 17763.2510) Preview",
       "Comment": "Preview"
     },
     {
@@ -5574,6 +6369,7 @@
       "Version": "19042.1503",
       "ReleaseDate": "2022-01-25",
       "Article": "KB5009596",
+      "KBTitle": "January 25, 2022—KB5009596 (OS Builds 19042.1503, 19043.1503, and 19044.1503) Preview",
       "Comment": "Preview"
     },
     {
@@ -5581,6 +6377,7 @@
       "Version": "19044.1503",
       "ReleaseDate": "2022-01-25",
       "Article": "KB5009596",
+      "KBTitle": "January 25, 2022—KB5009596 (OS Builds 19042.1503, 19043.1503, and 19044.1503) Preview",
       "Comment": "Preview"
     },
     {
@@ -5588,6 +6385,7 @@
       "Version": "19043.1526",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010342",
+      "KBTitle": "February 8, 2022—KB5010342 (OS Builds 19042.1526, 19043.1526, and 19044.1526)",
       "Comment": ""
     },
     {
@@ -5595,6 +6393,7 @@
       "Version": "18363.2094",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010345",
+      "KBTitle": "February 8, 2022—KB5010345 (OS Build 18363.2094)",
       "Comment": ""
     },
     {
@@ -5602,6 +6401,7 @@
       "Version": "19042.1526",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010342",
+      "KBTitle": "February 8, 2022—KB5010342 (OS Builds 19042.1526, 19043.1526, and 19044.1526)",
       "Comment": ""
     },
     {
@@ -5609,6 +6409,7 @@
       "Version": "17763.2565",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010351",
+      "KBTitle": "February 8, 2022—KB5010351 (OS Build 17763.2565)",
       "Comment": ""
     },
     {
@@ -5616,6 +6417,7 @@
       "Version": "19044.1526",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010342",
+      "KBTitle": "February 8, 2022—KB5010342 (OS Builds 19042.1526, 19043.1526, and 19044.1526)",
       "Comment": ""
     },
     {
@@ -5623,6 +6425,7 @@
       "Version": "10240.19204",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010358",
+      "KBTitle": "February 8, 2022-KB5010358 (OS Build 10240.19204)",
       "Comment": ""
     },
     {
@@ -5630,6 +6433,7 @@
       "Version": "14393.4946",
       "ReleaseDate": "2022-02-08",
       "Article": "KB5010359",
+      "KBTitle": "February 8, 2022—KB5010359 (OS Build 14393.4946)",
       "Comment": ""
     },
     {
@@ -5637,6 +6441,7 @@
       "Version": "19043.1566",
       "ReleaseDate": "2022-02-15",
       "Article": "KB5010415",
+      "KBTitle": "February 15, 2022—KB5010415 (OS Builds 19042.1566, 19043.1566, and 19044.1566) Preview",
       "Comment": "Preview"
     },
     {
@@ -5644,6 +6449,7 @@
       "Version": "17763.2628",
       "ReleaseDate": "2022-02-15",
       "Article": "KB5010427",
+      "KBTitle": "February 15, 2022—KB5010427 (OS Build 17763.2628) Preview",
       "Comment": "Preview"
     },
     {
@@ -5651,6 +6457,7 @@
       "Version": "19042.1566",
       "ReleaseDate": "2022-02-15",
       "Article": "KB5010415",
+      "KBTitle": "February 15, 2022—KB5010415 (OS Builds 19042.1566, 19043.1566, and 19044.1566) Preview",
       "Comment": "Preview"
     },
     {
@@ -5658,6 +6465,7 @@
       "Version": "19044.1566",
       "ReleaseDate": "2022-02-15",
       "Article": "KB5010415",
+      "KBTitle": "February 15, 2022—KB5010415 (OS Builds 19042.1566, 19043.1566, and 19044.1566) Preview",
       "Comment": "Preview"
     }
   ]
