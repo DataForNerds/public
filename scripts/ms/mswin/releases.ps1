@@ -1,4 +1,4 @@
-﻿$msData = Invoke-WebRequest "https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html" -UseBasicParsing
+$msData = Invoke-WebRequest "https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html" -UseBasicParsing
 $d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/releases.json" | Select -ExpandProperty Content | ConvertFrom-Json
 
 $allReleases = [RegEx]::New('(?msi)<span(?:[^>])class="triangle".*?>&#9660;<\/span>(?: |)<strong>Version (.*?) \(OS Build (\d{1,})\)<\/strong>').Matches($msData.RawContent)
@@ -13,6 +13,15 @@ $allReleases.ForEach{
             Build = $_.Groups[1].Value
         }
     ) | Out-Null
+}
+
+## Fix issue where 19044 (20H2) still now showing up in the MS Blob
+if($releaseList.Version -notcontains "19044") {
+    $releaseList += [PSCustomObject]@{
+        Version = "19044"
+        FullVersion = "10.0.19044"
+        Build = "20H2"
+    }
 }
 
 $releaseList = $releaseList | Sort-Object Version | Select-Object Version,FullVersion,Build -Unique
