@@ -15,12 +15,12 @@ $allReleases.ForEach{
     ) | Out-Null
 }
 
-## Fix issue where 19044 (20H2) still now showing up in the MS Blob
+## Fix issue where 19044 (21H2) still now showing up in the MS Blob
 if($releaseList.Version -notcontains "19044") {
     $releaseList += [PSCustomObject]@{
         Version = "19044"
         FullVersion = "10.0.19044"
-        Build = "20H2"
+        Build = "21H2"
     }
 }
 
