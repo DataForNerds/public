@@ -52,13 +52,19 @@ $buildData.ForEach{
                 "ReleaseDate" = $(Get-Date $PatchInfo.groups[1].Value -Format "yyyy-MM-dd")
                 "Article" = $ArticleNumber
                 "KBTitle" = $KBTitle
+                "LTSCOnly" = $False
                 "Comment"=$_.Groups[3].Value.ToString().Trim()
             }
         ) | Out-Null
     }
 }
 
-$patchList = $patchList | Sort-Object ReleaseDate | Select-Object Win10Version,Version,ReleaseDate,Article,KBTitle,Comment -Unique
+$patchList = $patchList | Sort-Object ReleaseDate | Select-Object Win10Version,Version,ReleaseDate,Article,KBTitle,LTSCOnly,Comment -Unique
+
+# Manual Updates to List
+$patchList = $patchList | Where-Object { $_.Win10Version -notin ('10.0.14393.5127') }  # Windows Server Only
+$patchList | Where-Object { $_.Win10Version -like "10.0.17763.*" -and (Get-Date $_.ReleaseDate) -ge (Get-Date '2021-05-12') } | % { $_ | Add-Member -MemberType NoteProperty -Name LTSCOnly -Value $True -Force }
+
 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
@@ -81,9 +87,3 @@ If(Compare-Object $d4nData.Data $outputData.Data -Property $allProperties -SyncW
 }
 
 
-
-# 808
-$patchList | FT -AutoSize
-
-
-$patchList | Where-Object { $_.Article -like "*4580346*" }
