@@ -1,5 +1,7 @@
 $rootPages = @("https://aka.ms/WindowsUpdateHistory",
-               "https://aka.ms/Windows11UpdateHistory")
+               "https://aka.ms/Windows11UpdateHistory",
+               "https://support.microsoft.com/en-us/topic/windows-server-2022-update-history-e1caa597-00c5-4ab9-9f3e-8212fe80b2ee")
+
 $d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/buildnumbers.json" | Select-Object -ExpandProperty Content | ConvertFrom-Json
 
 $patchList = New-Object System.Collections.ArrayList
@@ -73,7 +75,7 @@ $patchList | Where-Object { $_.Win10Version -like "10.0.17763.*" -and (Get-Date 
 $outputData = [PSCustomObject]@{
     "DataForNerds"=[PSCustomObject]@{
         "LastUpdatedUTC" = (Get-Date).ToUniversalTime()
-        "SourceList" = "https://aka.ms/WindowsUpdateHistory","https://aka.ms/Windows11UpdateHistory"
+        "SourceList" = "https://aka.ms/WindowsUpdateHistory","https://aka.ms/Windows11UpdateHistory","https://support.microsoft.com/en-us/topic/windows-server-2022-update-history-e1caa597-00c5-4ab9-9f3e-8212fe80b2ee"
     }
     "Data" = $patchList
 }
