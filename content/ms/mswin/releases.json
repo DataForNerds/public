@@ -1,9 +1,9 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2022-03-07T19:08:08.8317676Z",
+    "LastUpdatedUTC": "2023-01-25T17:51:24.849114Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/windows/release-health/release-information",
-      "https://winreleaseinfoprod.blob.core.windows.net/winreleaseinfoprod/en-US.html"
+      "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
     ]
   },
   "Data": [
@@ -71,6 +71,21 @@
       "Version": "19044",
       "FullVersion": "10.0.19044",
       "Build": "21H2"
+    },
+    {
+      "Version": "19045",
+      "FullVersion": "10.0.19045",
+      "Build": "22H2"
+    },
+    {
+      "Version": "22000",
+      "FullVersion": "10.0.22000",
+      "Build": "21H2"
+    },
+    {
+      "Version": "22621",
+      "FullVersion": "10.0.22621",
+      "Build": "22H2"
     }
   ]
 }
