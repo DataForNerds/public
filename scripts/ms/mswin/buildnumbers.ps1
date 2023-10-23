@@ -2,7 +2,7 @@ $rootPages = @("https://support.microsoft.com/en-us/topic/windows-10-update-hist
                "https://aka.ms/Windows11UpdateHistory",
                "https://support.microsoft.com/en-us/topic/windows-server-2022-update-history-e1caa597-00c5-4ab9-9f3e-8212fe80b2ee")
 
-$d4nData = Invoke-WebRequest "https://raw.githubusercontent.com/altrhombus/ReportSource/main/content/ms/mswin/buildnumbers.json" | Select-Object -ExpandProperty Content | ConvertFrom-Json
+$d4nData = Invoke-WebRequest "https://raw.datafornerds.io/ms/mswin/buildnumbers.json" | Select-Object -ExpandProperty Content | ConvertFrom-Json
 
 $patchList = New-Object System.Collections.ArrayList
 
