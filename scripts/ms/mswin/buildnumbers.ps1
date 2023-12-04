@@ -1,4 +1,4 @@
-$rootPages = @("https://aka.ms/WindowsUpdateHistory",
+$rootPages = @("https://support.microsoft.com/en-us/topic/windows-10-update-history-24ea91f4-36e7-d8fd-0ddb-d79d9d0cdbda",
                "https://aka.ms/Windows11UpdateHistory",
                "https://support.microsoft.com/en-us/topic/windows-server-2022-update-history-e1caa597-00c5-4ab9-9f3e-8212fe80b2ee")
 
