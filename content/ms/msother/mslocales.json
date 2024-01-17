@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2023-11-30T13:11:19.8732172Z",
+    "LastUpdatedUTC": "2024-01-17T21:07:24.9083301Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a"
     ]
@@ -285,7 +285,7 @@
     {
       "LangCode": 1071,
       "LangCodeHex": "042F",
-      "LangName": "North Macedonian",
+      "LangName": "Macedonian",
       "LangTag": "mk-MK"
     },
     {
