@@ -1,0 +1,30 @@
+name: ms-mswin-update-lifecycle-client (Update)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      - name: Run the PowerShell Script
+        shell: pwsh
+        run: ./scripts/ms/mswin/lifecycle-client.ps1
+      - name: Submit a Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Updated Microsoft Windows client lifecycle JSON
+          committer: GitHub <noreply@github.com>
+          branch: au/ms-mswin-update-lifecycle-client
+          delete-branch: true
+          title: Automatic Update of Windows client lifecycle
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          
