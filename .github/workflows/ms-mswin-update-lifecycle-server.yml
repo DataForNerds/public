@@ -1,0 +1,30 @@
+name: ms-mswin-update-lifecycle-server (Update)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      - name: Run the PowerShell Script
+        shell: pwsh
+        run: ./scripts/ms/mswin/lifecycle-server.ps1
+      - name: Submit a Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Updated Microsoft Windows server lifecycle JSON
+          committer: GitHub <noreply@github.com>
+          branch: au/ms-mswin-update-lifecycle-server
+          delete-branch: true
+          title: Automatic Update of Windows server lifecycle
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          
