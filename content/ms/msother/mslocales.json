@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2024-01-17T21:07:24.9083301Z",
+    "LastUpdatedUTC": "2025-03-23T17:08:50.0697937Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/openspecs/office_standards/ms-oe376/6c085406-a698-4e12-9d4d-c3b0ee3dbc4a"
     ]
@@ -267,7 +267,7 @@
     {
       "LangCode": 1068,
       "LangCodeHex": "042C",
-      "LangName": "Azerbaijani (Latin)",
+      "LangName": "Azeri (Latin)",
       "LangTag": "az-Latn-AZ"
     },
     {
@@ -285,7 +285,7 @@
     {
       "LangCode": 1071,
       "LangCodeHex": "042F",
-      "LangName": "Macedonian",
+      "LangName": "F.Y.R.O. Macedonian",
       "LangTag": "mk-MK"
     },
     {
@@ -363,7 +363,7 @@
     {
       "LangCode": 1084,
       "LangCodeHex": "043C",
-      "LangName": "Scottish Gaelic",
+      "LangName": "Gaelic (Scotland)",
       "LangTag": "gd-GB"
     },
     {
@@ -435,7 +435,7 @@
     {
       "LangCode": 1096,
       "LangCodeHex": "0448",
-      "LangName": "Odia",
+      "LangName": "Oriya",
       "LangTag": "or-IN"
     },
     {
@@ -789,7 +789,7 @@
     {
       "LangCode": 2072,
       "LangCodeHex": "0818",
-      "LangName": "Romanian - Moldova",
+      "LangName": "Romanian - Moldava",
       "LangTag": "ro-MD"
     },
     {
@@ -819,13 +819,13 @@
     {
       "LangCode": 2092,
       "LangCodeHex": "082C",
-      "LangName": "Azerbaijani (Cyrillic)",
+      "LangName": "Azeri (Cyrillic)",
       "LangTag": "az-Cyrl-AZ"
     },
     {
       "LangCode": 2108,
       "LangCodeHex": "083C",
-      "LangName": "Irish",
+      "LangName": "Gaelic (Ireland)",
       "LangTag": "ga-IE"
     },
     {
@@ -843,7 +843,7 @@
     {
       "LangCode": 2117,
       "LangCodeHex": "0845",
-      "LangName": "Bangla",
+      "LangName": "Bengali (Bangladesh)",
       "LangTag": "bn-BD"
     },
     {
