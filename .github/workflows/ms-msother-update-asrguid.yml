@@ -18,7 +18,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: Updated Microsoft Locales JSON
+          commit-message: Updated Microsoft ASR GUIDs JSON
           committer: GitHub <noreply@github.com>
           branch: au/ms-msother-update-asrguid
           delete-branch: true
