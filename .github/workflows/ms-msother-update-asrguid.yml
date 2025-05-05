@@ -1,0 +1,30 @@
+name: ms-msother-update-asrguid (Update)
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v2
+      - name: Run the PowerShell Script
+        shell: pwsh
+        run: ./scripts/ms/msother/msasrguid.ps1
+      - name: Submit a Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Updated Microsoft ASR GUIDs JSON
+          committer: GitHub <noreply@github.com>
+          branch: au/ms-msother-update-asrguid
+          delete-branch: true
+          title: Automatic Update of Microsoft ASR GUIDs
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          
