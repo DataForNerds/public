@@ -1,0 +1,106 @@
+{
+  "DataForNerds": {
+    "LastUpdatedUTC": "2024-11-23T06:30:34.3175544Z",
+    "SourceList": [
+      "https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/cim-chassis"
+    ]
+  },
+  "Data": [
+    {
+      "Value": "Other",
+      "Number": "1"
+    },
+    {
+      "Value": "Notebook",
+      "Number": "10"
+    },
+    {
+      "Value": "Hand Held",
+      "Number": "11"
+    },
+    {
+      "Value": "Docking Station",
+      "Number": "12"
+    },
+    {
+      "Value": "All in One",
+      "Number": "13"
+    },
+    {
+      "Value": "Sub Notebook",
+      "Number": "14"
+    },
+    {
+      "Value": "Space-Saving",
+      "Number": "15"
+    },
+    {
+      "Value": "Lunch Box",
+      "Number": "16"
+    },
+    {
+      "Value": "Main System Chassis",
+      "Number": "17"
+    },
+    {
+      "Value": "Expansion Chassis",
+      "Number": "18"
+    },
+    {
+      "Value": "SubChassis",
+      "Number": "19"
+    },
+    {
+      "Value": "Unknown",
+      "Number": "2"
+    },
+    {
+      "Value": "Bus Expansion Chassis",
+      "Number": "20"
+    },
+    {
+      "Value": "Peripheral Chassis",
+      "Number": "21"
+    },
+    {
+      "Value": "Storage Chassis",
+      "Number": "22"
+    },
+    {
+      "Value": "Rack Mount Chassis",
+      "Number": "23"
+    },
+    {
+      "Value": "Sealed-Case PC",
+      "Number": "24"
+    },
+    {
+      "Value": "Desktop",
+      "Number": "3"
+    },
+    {
+      "Value": "Low Profile Desktop",
+      "Number": "4"
+    },
+    {
+      "Value": "Pizza Box",
+      "Number": "5"
+    },
+    {
+      "Value": "Mini Tower",
+      "Number": "6"
+    },
+    {
+      "Value": "Tower",
+      "Number": "7"
+    },
+    {
+      "Value": "Portable",
+      "Number": "8"
+    },
+    {
+      "Value": "Laptop",
+      "Number": "9"
+    }
+  ]
+}
