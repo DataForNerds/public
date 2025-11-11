@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2025-11-11T20:27:33.0363788Z",
+    "LastUpdatedUTC": "2025-11-11T23:22:44.2268793Z",
     "SourceList": [
       "https://aka.ms/WindowsUpdateHistory",
       "https://aka.ms/Windows11UpdateHistory",
@@ -12942,6 +12942,15 @@
       "Comment": "Preview"
     },
     {
+      "Win10Version": "10.0.22631.5699",
+      "Version": "22631.5699",
+      "ReleaseDate": "2025-07-22",
+      "Article": "KB5062663",
+      "KBTitle": "July 22, 2025—KB5062663 (OS Builds 22631.5699) Preview",
+      "LTSCOnly": false,
+      "Comment": "Preview"
+    },
+    {
       "Win10Version": "10.0.19045.6159",
       "Version": "19045.6159",
       "ReleaseDate": "2025-07-22",
@@ -13095,11 +13104,11 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.22621.5840",
-      "Version": "22621.5840",
+      "Win10Version": "10.0.22631.5840",
+      "Version": "22631.5840",
       "ReleaseDate": "2025-08-26",
       "Article": "KB5064080",
-      "KBTitle": "August 26, 2025—KB5064080 (OS Build 22621.5840) Preview",
+      "KBTitle": "August 26, 2025—KB5064080 (OS Build 22631.5840) Preview",
       "LTSCOnly": false,
       "Comment": "Preview"
     },
@@ -13230,11 +13239,11 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.22621.5984",
-      "Version": "22621.5984",
+      "Win10Version": "10.0.22631.5984",
+      "Version": "22631.5984",
       "ReleaseDate": "2025-09-23",
       "Article": "KB5065790",
-      "KBTitle": "September 23, 2025—KB5065790 (OS Build 22621.5984) Preview",
+      "KBTitle": "September 23, 2025—KB5065790 (OS Build 22631.5984) Preview",
       "LTSCOnly": false,
       "Comment": "Preview"
     },
@@ -13428,11 +13437,11 @@
       "Comment": "Preview"
     },
     {
-      "Win10Version": "10.0.22621.6133",
-      "Version": "22621.6133",
+      "Win10Version": "10.0.22631.6133",
+      "Version": "22631.6133",
       "ReleaseDate": "2025-10-28",
       "Article": "KB5067112",
-      "KBTitle": "October 28, 2025—KB5067112 (OS Build 22621.6133) Preview",
+      "KBTitle": "October 28, 2025—KB5067112 (OS Build 22631.6133) Preview",
       "LTSCOnly": false,
       "Comment": "Preview"
     },
