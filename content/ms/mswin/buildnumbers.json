@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2025-11-11T19:20:02.6014301Z",
+    "LastUpdatedUTC": "2025-11-11T20:27:33.0363788Z",
     "SourceList": [
       "https://aka.ms/WindowsUpdateHistory",
       "https://aka.ms/Windows11UpdateHistory",
@@ -13482,11 +13482,11 @@
       "Comment": "Out-of-band"
     },
     {
-      "Win10Version": "10.0.22621.6199",
-      "Version": "22621.6199",
+      "Win10Version": "10.0.22631.6199",
+      "Version": "22631.6199",
       "ReleaseDate": "2025-11-11",
       "Article": "KB5068865",
-      "KBTitle": "November 11, 2025—KB5068865 (OS Build 22621.6199)",
+      "KBTitle": "November 11, 2025—KB5068865 (OS Build 22631.6199)",
       "LTSCOnly": false,
       "Comment": ""
     },
