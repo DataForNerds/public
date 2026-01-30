@@ -1,11 +1,18 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2026-01-24T04:01:23.7113143Z",
+    "LastUpdatedUTC": "2026-01-30T13:12:56.495106Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date"
     ]
   },
   "Data": [
+    {
+      "ReleaseDate": "2026-01-27",
+      "Channel": "Current",
+      "Build": "19628.20150",
+      "Version": "2601",
+      "FullBuild": "16.0.19628.20150"
+    },
     {
       "ReleaseDate": "2026-01-21",
       "Channel": "Current",
@@ -99,17 +106,17 @@
     },
     {
       "ReleaseDate": "2025-12-09",
-      "Channel": "Monthly Enterprise",
-      "Build": "19328.20266",
-      "Version": "2510",
-      "FullBuild": "16.0.19328.20266"
-    },
-    {
-      "ReleaseDate": "2025-12-09",
       "Channel": "Current",
       "Build": "19426.20186",
       "Version": "2511",
       "FullBuild": "16.0.19426.20186"
+    },
+    {
+      "ReleaseDate": "2025-12-09",
+      "Channel": "Monthly Enterprise",
+      "Build": "19328.20266",
+      "Version": "2510",
+      "FullBuild": "16.0.19328.20266"
     },
     {
       "ReleaseDate": "2025-12-09",
@@ -1471,14 +1478,14 @@
     },
     {
       "ReleaseDate": "2024-02-13",
-      "Channel": "Semi-Annual Enterprise Preview",
+      "Channel": "Semi-Annual Enterprise",
       "Build": "16731.20550",
       "Version": "2308",
       "FullBuild": "16.0.16731.20550"
     },
     {
       "ReleaseDate": "2024-02-13",
-      "Channel": "Semi-Annual Enterprise",
+      "Channel": "Semi-Annual Enterprise Preview",
       "Build": "16731.20550",
       "Version": "2308",
       "FullBuild": "16.0.16731.20550"
@@ -1849,17 +1856,17 @@
     },
     {
       "ReleaseDate": "2023-07-27",
-      "Channel": "Monthly Enterprise",
-      "Build": "16327.20368",
-      "Version": "2304",
-      "FullBuild": "16.0.16327.20368"
-    },
-    {
-      "ReleaseDate": "2023-07-27",
       "Channel": "Semi-Annual Enterprise Preview",
       "Build": "16130.20694",
       "Version": "2302",
       "FullBuild": "16.0.16130.20694"
+    },
+    {
+      "ReleaseDate": "2023-07-27",
+      "Channel": "Monthly Enterprise",
+      "Build": "16327.20368",
+      "Version": "2304",
+      "FullBuild": "16.0.16327.20368"
     },
     {
       "ReleaseDate": "2023-07-27",
@@ -1961,10 +1968,10 @@
     },
     {
       "ReleaseDate": "2023-06-13",
-      "Channel": "Current",
-      "Build": "16501.20210",
-      "Version": "2305",
-      "FullBuild": "16.0.16501.20210"
+      "Channel": "Monthly Enterprise",
+      "Build": "16227.20354",
+      "Version": "2303",
+      "FullBuild": "16.0.16227.20354"
     },
     {
       "ReleaseDate": "2023-06-13",
@@ -1975,10 +1982,10 @@
     },
     {
       "ReleaseDate": "2023-06-13",
-      "Channel": "Monthly Enterprise",
-      "Build": "16227.20354",
-      "Version": "2303",
-      "FullBuild": "16.0.16227.20354"
+      "Channel": "Current",
+      "Build": "16501.20210",
+      "Version": "2305",
+      "FullBuild": "16.0.16501.20210"
     },
     {
       "ReleaseDate": "2023-06-01",
@@ -1986,13 +1993,6 @@
       "Build": "16501.20196",
       "Version": "2305",
       "FullBuild": "16.0.16501.20196"
-    },
-    {
-      "ReleaseDate": "2023-05-09",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "15601.20660",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20660"
     },
     {
       "ReleaseDate": "2023-05-09",
@@ -2025,6 +2025,13 @@
     {
       "ReleaseDate": "2023-05-09",
       "Channel": "Semi-Annual Enterprise",
+      "Build": "15601.20660",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20660"
+    },
+    {
+      "ReleaseDate": "2023-05-09",
+      "Channel": "Semi-Annual Enterprise",
       "Build": "14931.21000",
       "Version": "2202",
       "FullBuild": "16.0.14931.21000"
@@ -2035,6 +2042,27 @@
       "Build": "16327.20214",
       "Version": "2304",
       "FullBuild": "16.0.16327.20214"
+    },
+    {
+      "ReleaseDate": "2023-04-11",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14931.20964",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20964"
+    },
+    {
+      "ReleaseDate": "2023-04-11",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "15601.20626",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20626"
+    },
+    {
+      "ReleaseDate": "2023-04-11",
+      "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "16130.20394",
+      "Version": "2302",
+      "FullBuild": "16.0.16130.20394"
     },
     {
       "ReleaseDate": "2023-04-11",
@@ -2056,27 +2084,6 @@
       "Build": "16026.20274",
       "Version": "2301",
       "FullBuild": "16.0.16026.20274"
-    },
-    {
-      "ReleaseDate": "2023-04-11",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "16130.20394",
-      "Version": "2302",
-      "FullBuild": "16.0.16130.20394"
-    },
-    {
-      "ReleaseDate": "2023-04-11",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "15601.20626",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20626"
-    },
-    {
-      "ReleaseDate": "2023-04-11",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20964",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20964"
     },
     {
       "ReleaseDate": "2023-04-04",
@@ -2101,31 +2108,10 @@
     },
     {
       "ReleaseDate": "2023-03-14",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20944",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20944"
-    },
-    {
-      "ReleaseDate": "2023-03-14",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "15601.20578",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20578"
-    },
-    {
-      "ReleaseDate": "2023-03-14",
-      "Channel": "Semi-Annual Enterprise Preview",
+      "Channel": "Current",
       "Build": "16130.20306",
       "Version": "2302",
       "FullBuild": "16.0.16130.20306"
-    },
-    {
-      "ReleaseDate": "2023-03-14",
-      "Channel": "Monthly Enterprise",
-      "Build": "15928.20298",
-      "Version": "2212",
-      "FullBuild": "16.0.15928.20298"
     },
     {
       "ReleaseDate": "2023-03-14",
@@ -2136,10 +2122,31 @@
     },
     {
       "ReleaseDate": "2023-03-14",
-      "Channel": "Current",
+      "Channel": "Monthly Enterprise",
+      "Build": "15928.20298",
+      "Version": "2212",
+      "FullBuild": "16.0.15928.20298"
+    },
+    {
+      "ReleaseDate": "2023-03-14",
+      "Channel": "Semi-Annual Enterprise Preview",
       "Build": "16130.20306",
       "Version": "2302",
       "FullBuild": "16.0.16130.20306"
+    },
+    {
+      "ReleaseDate": "2023-03-14",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "15601.20578",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20578"
+    },
+    {
+      "ReleaseDate": "2023-03-14",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14931.20944",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20944"
     },
     {
       "ReleaseDate": "2023-02-28",
@@ -2207,20 +2214,6 @@
     {
       "ReleaseDate": "2023-01-10",
       "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20888",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20888"
-    },
-    {
-      "ReleaseDate": "2023-01-10",
-      "Channel": "Monthly Enterprise",
-      "Build": "15726.20292",
-      "Version": "2210",
-      "FullBuild": "16.0.15726.20292"
-    },
-    {
-      "ReleaseDate": "2023-01-10",
-      "Channel": "Semi-Annual Enterprise",
       "Build": "14326.21286",
       "Version": "2108",
       "FullBuild": "16.0.14326.21286"
@@ -2228,9 +2221,23 @@
     {
       "ReleaseDate": "2023-01-10",
       "Channel": "Semi-Annual Enterprise",
+      "Build": "14931.20888",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20888"
+    },
+    {
+      "ReleaseDate": "2023-01-10",
+      "Channel": "Semi-Annual Enterprise",
       "Build": "15601.20456",
       "Version": "2208",
       "FullBuild": "16.0.15601.20456"
+    },
+    {
+      "ReleaseDate": "2023-01-10",
+      "Channel": "Monthly Enterprise",
+      "Build": "15726.20292",
+      "Version": "2210",
+      "FullBuild": "16.0.15726.20292"
     },
     {
       "ReleaseDate": "2023-01-10",
@@ -2259,6 +2266,13 @@
       "Build": "15928.20198",
       "Version": "2212",
       "FullBuild": "16.0.15928.20198"
+    },
+    {
+      "ReleaseDate": "2022-12-13",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.21248",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.21248"
     },
     {
       "ReleaseDate": "2022-12-13",
@@ -2296,13 +2310,6 @@
       "FullBuild": "16.0.14931.20858"
     },
     {
-      "ReleaseDate": "2022-12-13",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.21248",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.21248"
-    },
-    {
       "ReleaseDate": "2022-12-06",
       "Channel": "Current",
       "Build": "15831.20190",
@@ -2333,9 +2340,9 @@
     {
       "ReleaseDate": "2022-11-08",
       "Channel": "Monthly Enterprise",
-      "Build": "15629.20258",
-      "Version": "2209",
-      "FullBuild": "16.0.15629.20258"
+      "Build": "15601.20286",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20286"
     },
     {
       "ReleaseDate": "2022-11-08",
@@ -2347,9 +2354,9 @@
     {
       "ReleaseDate": "2022-11-08",
       "Channel": "Monthly Enterprise",
-      "Build": "15601.20286",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20286"
+      "Build": "15629.20258",
+      "Version": "2209",
+      "FullBuild": "16.0.15629.20258"
     },
     {
       "ReleaseDate": "2022-10-27",
@@ -2360,20 +2367,6 @@
     },
     {
       "ReleaseDate": "2022-10-11",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "15601.20230",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20230"
-    },
-    {
-      "ReleaseDate": "2022-10-11",
-      "Channel": "Monthly Enterprise",
-      "Build": "15427.20308",
-      "Version": "2207",
-      "FullBuild": "16.0.15427.20308"
-    },
-    {
-      "ReleaseDate": "2022-10-11",
       "Channel": "Semi-Annual Enterprise",
       "Build": "14931.20764",
       "Version": "2202",
@@ -2381,14 +2374,7 @@
     },
     {
       "ReleaseDate": "2022-10-11",
-      "Channel": "Current",
-      "Build": "15629.20208",
-      "Version": "2209",
-      "FullBuild": "16.0.15629.20208"
-    },
-    {
-      "ReleaseDate": "2022-10-11",
-      "Channel": "Monthly Enterprise",
+      "Channel": "Semi-Annual Enterprise Preview",
       "Build": "15601.20230",
       "Version": "2208",
       "FullBuild": "16.0.15601.20230"
@@ -2401,11 +2387,53 @@
       "FullBuild": "16.0.14326.21186"
     },
     {
+      "ReleaseDate": "2022-10-11",
+      "Channel": "Monthly Enterprise",
+      "Build": "15601.20230",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20230"
+    },
+    {
+      "ReleaseDate": "2022-10-11",
+      "Channel": "Current",
+      "Build": "15629.20208",
+      "Version": "2209",
+      "FullBuild": "16.0.15629.20208"
+    },
+    {
+      "ReleaseDate": "2022-10-11",
+      "Channel": "Monthly Enterprise",
+      "Build": "15427.20308",
+      "Version": "2207",
+      "FullBuild": "16.0.15427.20308"
+    },
+    {
       "ReleaseDate": "2022-09-26",
       "Channel": "Current",
       "Build": "15629.20156",
       "Version": "2209",
       "FullBuild": "16.0.15629.20156"
+    },
+    {
+      "ReleaseDate": "2022-09-13",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.21142",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.21142"
+    },
+    {
+      "ReleaseDate": "2022-09-13",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14931.20724",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20724"
+    },
+    {
+      "ReleaseDate": "2022-09-13",
+      "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "15601.20148",
+      "Version": "2208",
+      "FullBuild": "16.0.15601.20148"
     },
     {
       "ReleaseDate": "2022-09-13",
@@ -2427,27 +2455,6 @@
       "Build": "15225.20422",
       "Version": "2205",
       "FullBuild": "16.0.15225.20422"
-    },
-    {
-      "ReleaseDate": "2022-09-13",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "15601.20148",
-      "Version": "2208",
-      "FullBuild": "16.0.15601.20148"
-    },
-    {
-      "ReleaseDate": "2022-09-13",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20724",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20724"
-    },
-    {
-      "ReleaseDate": "2022-09-13",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.21142",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.21142"
     },
     {
       "ReleaseDate": "2022-08-31",
@@ -2473,16 +2480,16 @@
     {
       "ReleaseDate": "2022-08-09",
       "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.21096",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.21096"
+      "Build": "14931.20660",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20660"
     },
     {
       "ReleaseDate": "2022-08-09",
       "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20660",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20660"
+      "Build": "14326.21096",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.21096"
     },
     {
       "ReleaseDate": "2022-08-09",
@@ -2521,13 +2528,6 @@
     },
     {
       "ReleaseDate": "2022-07-26",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14931.20646",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20646"
-    },
-    {
-      "ReleaseDate": "2022-07-26",
       "Channel": "Monthly Enterprise",
       "Build": "15225.20370",
       "Version": "2205",
@@ -2536,6 +2536,13 @@
     {
       "ReleaseDate": "2022-07-26",
       "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "14931.20646",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20646"
+    },
+    {
+      "ReleaseDate": "2022-07-26",
+      "Channel": "Semi-Annual Enterprise",
       "Build": "14931.20646",
       "Version": "2202",
       "FullBuild": "16.0.14931.20646"
@@ -2550,20 +2557,6 @@
     {
       "ReleaseDate": "2022-07-12",
       "Channel": "Semi-Annual Enterprise",
-      "Build": "13801.21528",
-      "Version": "2102",
-      "FullBuild": "16.0.13801.21528"
-    },
-    {
-      "ReleaseDate": "2022-07-12",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.21062",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.21062"
-    },
-    {
-      "ReleaseDate": "2022-07-12",
-      "Channel": "Semi-Annual Enterprise",
       "Build": "14931.20604",
       "Version": "2202",
       "FullBuild": "16.0.14931.20604"
@@ -2577,10 +2570,10 @@
     },
     {
       "ReleaseDate": "2022-07-12",
-      "Channel": "Monthly Enterprise",
-      "Build": "15128.20312",
-      "Version": "2204",
-      "FullBuild": "16.0.15128.20312"
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.21062",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.21062"
     },
     {
       "ReleaseDate": "2022-07-12",
@@ -2595,6 +2588,20 @@
       "Build": "15330.20246",
       "Version": "2206",
       "FullBuild": "16.0.15330.20246"
+    },
+    {
+      "ReleaseDate": "2022-07-12",
+      "Channel": "Monthly Enterprise",
+      "Build": "15128.20312",
+      "Version": "2204",
+      "FullBuild": "16.0.15128.20312"
+    },
+    {
+      "ReleaseDate": "2022-07-12",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "13801.21528",
+      "Version": "2102",
+      "FullBuild": "16.0.13801.21528"
     },
     {
       "ReleaseDate": "2022-07-06",
@@ -2668,24 +2675,10 @@
     },
     {
       "ReleaseDate": "2022-05-10",
-      "Channel": "Current",
-      "Build": "15128.20224",
-      "Version": "2204",
-      "FullBuild": "16.0.15128.20224"
-    },
-    {
-      "ReleaseDate": "2022-05-10",
-      "Channel": "Monthly Enterprise",
-      "Build": "15028.20248",
-      "Version": "2203",
-      "FullBuild": "16.0.15028.20248"
-    },
-    {
-      "ReleaseDate": "2022-05-10",
-      "Channel": "Monthly Enterprise",
-      "Build": "14931.20392",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20392"
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "13801.21334",
+      "Version": "2102",
+      "FullBuild": "16.0.13801.21334"
     },
     {
       "ReleaseDate": "2022-05-10",
@@ -2703,10 +2696,24 @@
     },
     {
       "ReleaseDate": "2022-05-10",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "13801.21334",
-      "Version": "2102",
-      "FullBuild": "16.0.13801.21334"
+      "Channel": "Monthly Enterprise",
+      "Build": "15028.20248",
+      "Version": "2203",
+      "FullBuild": "16.0.15028.20248"
+    },
+    {
+      "ReleaseDate": "2022-05-10",
+      "Channel": "Current",
+      "Build": "15128.20224",
+      "Version": "2204",
+      "FullBuild": "16.0.15128.20224"
+    },
+    {
+      "ReleaseDate": "2022-05-10",
+      "Channel": "Monthly Enterprise",
+      "Build": "14931.20392",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20392"
     },
     {
       "ReleaseDate": "2022-04-26",
@@ -2731,17 +2738,10 @@
     },
     {
       "ReleaseDate": "2022-04-12",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "13801.21278",
-      "Version": "2102",
-      "FullBuild": "16.0.13801.21278"
-    },
-    {
-      "ReleaseDate": "2022-04-12",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.20910",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.20910"
+      "Channel": "Current",
+      "Build": "15028.20204",
+      "Version": "2203",
+      "FullBuild": "16.0.15028.20204"
     },
     {
       "ReleaseDate": "2022-04-12",
@@ -2752,17 +2752,24 @@
     },
     {
       "ReleaseDate": "2022-04-12",
-      "Channel": "Current",
-      "Build": "15028.20204",
-      "Version": "2203",
-      "FullBuild": "16.0.15028.20204"
-    },
-    {
-      "ReleaseDate": "2022-04-12",
       "Channel": "Semi-Annual Enterprise Preview",
       "Build": "14931.20274",
       "Version": "2202",
       "FullBuild": "16.0.14931.20274"
+    },
+    {
+      "ReleaseDate": "2022-04-12",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.20910",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.20910"
+    },
+    {
+      "ReleaseDate": "2022-04-12",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "13801.21278",
+      "Version": "2102",
+      "FullBuild": "16.0.13801.21278"
     },
     {
       "ReleaseDate": "2022-03-30",
@@ -2770,6 +2777,27 @@
       "Build": "15028.20160",
       "Version": "2203",
       "FullBuild": "16.0.15028.20160"
+    },
+    {
+      "ReleaseDate": "2022-03-08",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.20852",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.20852"
+    },
+    {
+      "ReleaseDate": "2022-03-08",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "13801.21214",
+      "Version": "2102",
+      "FullBuild": "16.0.13801.21214"
+    },
+    {
+      "ReleaseDate": "2022-03-08",
+      "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "14931.20132",
+      "Version": "2202",
+      "FullBuild": "16.0.14931.20132"
     },
     {
       "ReleaseDate": "2022-03-08",
@@ -2793,27 +2821,6 @@
       "FullBuild": "16.0.14729.20360"
     },
     {
-      "ReleaseDate": "2022-03-08",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "14931.20132",
-      "Version": "2202",
-      "FullBuild": "16.0.14931.20132"
-    },
-    {
-      "ReleaseDate": "2022-03-08",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.20852",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.20852"
-    },
-    {
-      "ReleaseDate": "2022-03-08",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "13801.21214",
-      "Version": "2102",
-      "FullBuild": "16.0.13801.21214"
-    },
-    {
       "ReleaseDate": "2022-02-28",
       "Channel": "Current",
       "Build": "14931.20120",
@@ -2826,13 +2833,6 @@
       "Build": "14827.20198",
       "Version": "2201",
       "FullBuild": "16.0.14827.20198"
-    },
-    {
-      "ReleaseDate": "2022-02-08",
-      "Channel": "Semi-Annual Enterprise",
-      "Build": "13127.21886",
-      "Version": "2008",
-      "FullBuild": "16.0.13127.21886"
     },
     {
       "ReleaseDate": "2022-02-08",
@@ -2850,6 +2850,27 @@
     },
     {
       "ReleaseDate": "2022-02-08",
+      "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "14326.20784",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.20784"
+    },
+    {
+      "ReleaseDate": "2022-02-08",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "13127.21886",
+      "Version": "2008",
+      "FullBuild": "16.0.13127.21886"
+    },
+    {
+      "ReleaseDate": "2022-02-08",
+      "Channel": "Monthly Enterprise",
+      "Build": "14729.20322",
+      "Version": "2112",
+      "FullBuild": "16.0.14729.20322"
+    },
+    {
+      "ReleaseDate": "2022-02-08",
       "Channel": "Current",
       "Build": "14827.20192",
       "Version": "2201",
@@ -2861,20 +2882,6 @@
       "Build": "14701.20314",
       "Version": "2111",
       "FullBuild": "16.0.14701.20314"
-    },
-    {
-      "ReleaseDate": "2022-02-08",
-      "Channel": "Monthly Enterprise",
-      "Build": "14729.20322",
-      "Version": "2112",
-      "FullBuild": "16.0.14729.20322"
-    },
-    {
-      "ReleaseDate": "2022-02-08",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "14326.20784",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.20784"
     },
     {
       "ReleaseDate": "2022-01-26",
@@ -2900,30 +2907,9 @@
     {
       "ReleaseDate": "2022-01-11",
       "Channel": "Semi-Annual Enterprise",
-      "Build": "14326.20738",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.20738"
-    },
-    {
-      "ReleaseDate": "2022-01-11",
-      "Channel": "Semi-Annual Enterprise Preview",
-      "Build": "14326.20738",
-      "Version": "2108",
-      "FullBuild": "16.0.14326.20738"
-    },
-    {
-      "ReleaseDate": "2022-01-11",
-      "Channel": "Semi-Annual Enterprise",
       "Build": "13801.21106",
       "Version": "2102",
       "FullBuild": "16.0.13801.21106"
-    },
-    {
-      "ReleaseDate": "2022-01-11",
-      "Channel": "Monthly Enterprise",
-      "Build": "14701.20290",
-      "Version": "2111",
-      "FullBuild": "16.0.14701.20290"
     },
     {
       "ReleaseDate": "2022-01-11",
@@ -2935,9 +2921,30 @@
     {
       "ReleaseDate": "2022-01-11",
       "Channel": "Monthly Enterprise",
+      "Build": "14701.20290",
+      "Version": "2111",
+      "FullBuild": "16.0.14701.20290"
+    },
+    {
+      "ReleaseDate": "2022-01-11",
+      "Channel": "Monthly Enterprise",
       "Build": "14527.20364",
       "Version": "2110",
       "FullBuild": "16.0.14527.20364"
+    },
+    {
+      "ReleaseDate": "2022-01-11",
+      "Channel": "Semi-Annual Enterprise Preview",
+      "Build": "14326.20738",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.20738"
+    },
+    {
+      "ReleaseDate": "2022-01-11",
+      "Channel": "Semi-Annual Enterprise",
+      "Build": "14326.20738",
+      "Version": "2108",
+      "FullBuild": "16.0.14326.20738"
     },
     {
       "ReleaseDate": "2022-01-04",
