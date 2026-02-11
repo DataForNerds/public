@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2025-10-02T22:19:58.2322236Z",
+    "LastUpdatedUTC": "2026-02-11T18:00:24.6580299Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/windows/release-health/release-information",
       "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
@@ -101,6 +101,11 @@
       "Version": "26200",
       "FullVersion": "10.0.26200",
       "Build": "25H2"
+    },
+    {
+      "Version": "28000",
+      "FullVersion": "10.0.28000",
+      "Build": "26H1"
     }
   ]
 }
