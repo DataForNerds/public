@@ -1,6 +1,6 @@
 {
   "DataForNerds": {
-    "LastUpdatedUTC": "2026-04-25T13:21:43.5407445Z",
+    "LastUpdatedUTC": "2026-04-29T03:57:18.7874295Z",
     "SourceList": [
       "https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date"
     ]
@@ -26,6 +26,13 @@
       "Build": "19822.20180",
       "Version": "2603",
       "FullBuild": "16.0.19822.20180"
+    },
+    {
+      "ReleaseDate": "2026-04-14",
+      "Channel": "Monthly Enterprise",
+      "Build": "19725.20244",
+      "Version": "2602",
+      "FullBuild": "16.0.19725.20244"
     },
     {
       "ReleaseDate": "2026-04-14",
@@ -79,6 +86,13 @@
     {
       "ReleaseDate": "2026-03-10",
       "Channel": "Monthly Enterprise",
+      "Build": "19426.20314",
+      "Version": "2511",
+      "FullBuild": "16.0.19426.20314"
+    },
+    {
+      "ReleaseDate": "2026-03-10",
+      "Channel": "Monthly Enterprise",
       "Build": "19530.20260",
       "Version": "2512",
       "FullBuild": "16.0.19530.20260"
@@ -86,9 +100,9 @@
     {
       "ReleaseDate": "2026-03-10",
       "Channel": "Monthly Enterprise",
-      "Build": "19426.20314",
-      "Version": "2511",
-      "FullBuild": "16.0.19426.20314"
+      "Build": "19725.20170",
+      "Version": "2602",
+      "FullBuild": "16.0.19725.20170"
     },
     {
       "ReleaseDate": "2026-03-10",
@@ -96,13 +110,6 @@
       "Build": "19725.20172",
       "Version": "2602",
       "FullBuild": "16.0.19725.20172"
-    },
-    {
-      "ReleaseDate": "2026-03-10",
-      "Channel": "Monthly Enterprise",
-      "Build": "19725.20170",
-      "Version": "2602",
-      "FullBuild": "16.0.19725.20170"
     },
     {
       "ReleaseDate": "2026-03-03",
